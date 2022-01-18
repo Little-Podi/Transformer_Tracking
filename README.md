@@ -13,9 +13,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 ### CVPR 2021:tada:
 
 - **SiamGAT** (Graph Attention Tracking) [[paper](https://arxiv.org/abs/2011.11204)]
-
 - **STMTrack** (STMTrack: Template-free Visual Tracking with Space-time Memory Networks) [[paper](https://arxiv.org/abs/2104.00324)]
-
 - **TransT** (Transformer Tracking) [[paper](https://arxiv.org/abs/2103.15436)]
 - **TMT** (Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking) [[paper](https://arxiv.org/abs/2103.11681)]
 
