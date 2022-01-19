@@ -71,6 +71,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ### ICCV 2021:tada:
 
+- **SAMN** (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [[paper](https://arxiv.org/abs/2009.09669)]
 - **JOINT** (Joint Inductive and Transductive Learning for Video Object Segmentation) [[paper](https://arxiv.org/abs/2108.03679)]
 
 ### NeurIPS 2021:tada:
