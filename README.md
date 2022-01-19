@@ -69,6 +69,10 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **SwiftNet** (SwiftNet: Real-time Video Object Segmentation) [[paper](https://arxiv.org/abs/2102.04604)]
 - **SSTVOS** (SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation) [[paper](https://arxiv.org/abs/2101.08833)]
 
+### ICCV 2021:tada:
+
+- **JOINT** (Joint Inductive and Transductive Learning for Video Object Segmentation) [[paper](https://arxiv.org/abs/2108.03679)]
+
 ### NeurIPS 2021:tada:
 
 - **AOT** (Associating Objects with Transformers for Video Object Segmentation) [[paper](https://arxiv.org/abs/2106.02638)]
@@ -77,6 +81,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 ### CoRR 2021:tada:
 
 - **TransVOS** (TransVOS: Video Object Segmentation with Transformers) [[paper](https://arxiv.org/abs/2106.00588)]
+- **MTTR** (End-to-End Referring Video Object Segmentation with Multimodal Transformers) [[paper](https://arxiv.org/abs/2111.14821)]
 
 ### WACV 2022:tada:
 
@@ -85,6 +90,10 @@ This repository is a paper digest of Transformer-alike approaches in video track
 ### AAAI 2022:tada:
 
 - **SITVOS** (Siamese Network with Interactive Transformer for Video Object Segmentation) [[paper](https://arxiv.org/abs/2112.13983)]
+
+### CoRR 2022:tada:
+
+- **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[paper](https://arxiv.org/abs/2201.00487)]
 
 
 
@@ -132,6 +141,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 ### CoRR 2021:tada:
 
 - **QueryTrack** (Tracking Instances as Queries) [[paper](https://arxiv.org/abs/2106.11963)]
+- **Mask2Former** (Mask2Former for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.10764)]
 
 
 
