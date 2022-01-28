@@ -144,6 +144,10 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **QueryTrack** (Tracking Instances as Queries) [[paper](https://arxiv.org/abs/2106.11963)]
 - **Mask2Former** (Mask2Former for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.10764)]
 
+### AAAI 2022:tada:
+
+- **HITF** (Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.01695)]
+
 
 
 ## :bookmark:Video Object Detection (VOD)
