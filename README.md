@@ -114,9 +114,14 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ##  :bookmark:Object Re-Identification (ReID)
 
+### CVPR 2021:tada:
+
+- **PAT** (Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer) [[paper](https://arxiv.org/abs/2106.04095)]
+
 ### ICCV 2021:tada:
 
 - **TransReID** (TransReID: Transformer-based Object Re-Identification) [[paper](https://arxiv.org/abs/2102.04378)]
+- **APD** (Transformer Meets Part Model: Adaptive Part Division for Person Re-Identification) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/HTCV/html/Lai_Transformer_Meets_Part_Model_Adaptive_Part_Division_for_Person_Re-Identification_ICCVW_2021_paper.html)]
 
 ### MM 2021:tada:
 
@@ -126,6 +131,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **TMT** (A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2104.01745)]
 - **STT** (Spatiotemporal Transformer for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2103.16469)]
+- **AAformer** (AAformer: Auto-Aligned Transformer for Person Re-Identification) [[paper](https://arxiv.org/abs/2104.00921)]
 
 
 
