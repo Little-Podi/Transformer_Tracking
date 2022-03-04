@@ -32,6 +32,11 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[paper](https://arxiv.org/abs/2112.09686)]
 - **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[paper](https://arxiv.org/abs/2112.00995)]
 
+### CVPR 2022:tada:
+
+- **SBT** (Correlation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)]
+- **TCTrack** (TCTrack: Temporal Contexts for Aerial Tracking) [[paper](https://arxiv.org/abs/2203.01885)]
+
 ### WACV 2022:tada:
 
 - **SiamTPN** (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2110.08822)]
@@ -109,7 +114,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **TransCenter** (TransCenter: Transformers with Dense Queries for Multiple-Object Tracking) [[paper](https://arxiv.org/abs/2103.15145)]
 - **MOTR** (MOTR: End-to-End Multiple-Object Tracking with TRansformer) [[paper](https://arxiv.org/abs/2105.03247)]
 - **MO3TR** (Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers) [[paper](https://arxiv.org/abs/2103.14829)]
-- **MeNToS** (Multi-Object Tracking and Segmentation with a Space-Time Memory Network) [paper](https://arxiv.org/abs/2110.11284)
+- **MeNToS** (Multi-Object Tracking and Segmentation with a Space-Time Memory Network) [[paper](https://arxiv.org/abs/2110.11284)]
 
 
 
