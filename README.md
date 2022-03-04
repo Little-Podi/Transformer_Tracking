@@ -109,6 +109,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **TransCenter** (TransCenter: Transformers with Dense Queries for Multiple-Object Tracking) [[paper](https://arxiv.org/abs/2103.15145)]
 - **MOTR** (MOTR: End-to-End Multiple-Object Tracking with TRansformer) [[paper](https://arxiv.org/abs/2105.03247)]
 - **MO3TR** (Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers) [[paper](https://arxiv.org/abs/2103.14829)]
+- **MeNToS** (Multi-Object Tracking and Segmentation with a Space-Time Memory Network) [paper](https://arxiv.org/abs/2110.11284)
 
 
 
