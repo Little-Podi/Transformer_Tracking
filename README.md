@@ -25,7 +25,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **STARK** (Learning Spatio-Temporal Transformer for Visual Tracking) [[paper](https://arxiv.org/abs/2103.17154)]
 - **DualTFR** (Learning Tracking Representations via Dual-Branch Fully Transformer Networks) [[paper](https://arxiv.org/abs/2112.02571)]
 
-### CoRR 2021:tada:
+### Arxiv 2021:tada:
 
 - **TREG** (Target Transformed Regression for Accurate Tracking) [[paper](https://arxiv.org/abs/2104.00403)]
 - **TrTr** (TrTr: Visual Tracking with Transformer) [[paper](https://arxiv.org/abs/2105.03817)]
@@ -34,14 +34,14 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ### CVPR 2022:tada:
 
-- **SBT** (Correlation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)]
+- **SBT** (Arxivelation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)]
 - **TCTrack** (TCTrack: Temporal Contexts for Aerial Tracking) [[paper](https://arxiv.org/abs/2203.01885)]
 
 ### WACV 2022:tada:
 
 - **SiamTPN** (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2110.08822)]
 
-### CoRR 2022:tada:
+### Arxiv 2022:tada:
 
 - **InMo** (Learning Target-aware Representation for Visual Tracking via Informative Interactions) [[paper](https://arxiv.org/abs/2201.02526)]
 
@@ -84,7 +84,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **AOT** (Associating Objects with Transformers for Video Object Segmentation) [[paper](https://arxiv.org/abs/2106.02638)]
 - **STCN** (Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation) [[paper](https://arxiv.org/abs/2106.05210)]
 
-### CoRR 2021:tada:
+### Arxiv 2021:tada:
 
 - **TransVOS** (TransVOS: Video Object Segmentation with Transformers) [[paper](https://arxiv.org/abs/2106.00588)]
 - **MTTR** (End-to-End Referring Video Object Segmentation with Multimodal Transformers) [[paper](https://arxiv.org/abs/2111.14821)]
@@ -97,7 +97,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **SITVOS** (Siamese Network with Interactive Transformer for Video Object Segmentation) [[paper](https://arxiv.org/abs/2112.13983)]
 
-### CoRR 2022:tada:
+### Arxiv 2022:tada:
 
 - **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[paper](https://arxiv.org/abs/2201.00487)]
 
@@ -105,7 +105,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ## :bookmark:Multiple Object Tracking (MOT)
 
-### CoRR 2021:tada:
+### Arxiv 2021:tada:
 
 - **RelationTrack** (RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation) [[paper](https://arxiv.org/abs/2105.04322)]
 - **TransTrack** (TransTrack: Multiple Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2012.15460)]
@@ -133,7 +133,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **HAT** (HAT: Hierarchical Aggregation Transformers for Person Re-identification) [[paper](https://arxiv.org/abs/2107.05946)]
 
-### CoRR 2021:tada:
+### Arxiv 2021:tada:
 
 - **TMT** (A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2104.01745)]
 - **STT** (Spatiotemporal Transformer for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2103.16469)]
@@ -151,7 +151,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **IFC** (Video Instance Segmentation using Inter-Frame Communication Transformers) [[paper](https://arxiv.org/abs/2106.03299)]
 
-### CoRR 2021:tada:
+### Arxiv 2021:tada:
 
 - **QueryTrack** (Tracking Instances as Queries) [[paper](https://arxiv.org/abs/2106.11963)]
 - **Mask2Former** (Mask2Former for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.10764)]
@@ -164,11 +164,11 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ## :bookmark:Video Object Detection (VOD)
 
-### CoRR 2021:tada:
+### Arxiv 2021:tada:
 
 - **TransVOD** (End-to-End Video Object Detection with Spatial-Temporal Transformers) [[paper](https://arxiv.org/abs/2105.10920)]
 
-### CoRR 2022:tada:
+### Arxiv 2022:tada:
 
 - **TransVOD++** (TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers) [[paper](https://arxiv.org/abs/2201.05047)]
 
