@@ -160,6 +160,10 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **HITF** (Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.01695)]
 
+### CVPR 2022:tada:
+
+- **EfficientVIS** (Efficient Video Instance Segmentation via Tracklet Query and Proposal) [[paper](https://arxiv.org/abs/2203.01853)]
+
 
 
 ## :bookmark:Video Object Detection (VOD)
