@@ -32,14 +32,14 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[paper](https://arxiv.org/abs/2112.09686)]
 - **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[paper](https://arxiv.org/abs/2112.00995)]
 
+### WACV 2022:tada:
+
+- **SiamTPN** (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2110.08822)]
+
 ### CVPR 2022:tada:
 
 - **SBT** (Arxivelation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)]
 - **TCTrack** (TCTrack: Temporal Contexts for Aerial Tracking) [[paper](https://arxiv.org/abs/2203.01885)]
-
-### WACV 2022:tada:
-
-- **SiamTPN** (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2110.08822)]
 
 ### Arxiv 2022:tada:
 
@@ -97,7 +97,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **SITVOS** (Siamese Network with Interactive Transformer for Video Object Segmentation) [[paper](https://arxiv.org/abs/2112.13983)]
 
-### Arxiv 2022:tada:
+### CVPR 2022:tada:
 
 - **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[paper](https://arxiv.org/abs/2201.00487)]
 
