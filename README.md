@@ -38,7 +38,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ### CVPR 2022:tada:
 
-- **SBT** (Arxivelation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)]
+- **SBT** (Correlation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)]
 - **TCTrack** (TCTrack: Temporal Contexts for Aerial Tracking) [[paper](https://arxiv.org/abs/2203.01885)]
 
 ### Arxiv 2022:tada:
