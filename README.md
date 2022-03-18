@@ -44,6 +44,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 ### Arxiv 2022:tada:
 
 - **InMo** (Learning Target-aware Representation for Visual Tracking via Informative Interactions) [[paper](https://arxiv.org/abs/2201.02526)]
+- **SimTrack** (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) [[paper](https://arxiv.org/abs/2203.05328)]
 
 
 
@@ -78,6 +79,7 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **SAMN** (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [[paper](https://arxiv.org/abs/2009.09669)]
 - **JOINT** (Joint Inductive and Transductive Learning for Video Object Segmentation) [[paper](https://arxiv.org/abs/2108.03679)]
+- **HMMN** (Hierarchical Memory Matching Network for Video Object Segmentation) [[paper](https://arxiv.org/abs/2109.11404)]
 
 ### NeurIPS 2021:tada:
 
