@@ -114,6 +114,10 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 - **MeNToS** (MeNToS: Tracklets Association with a Space-Time Memory Network) [[paper](https://arxiv.org/abs/2107.07067)]
 
+### Sensors 2021:tada:
+
+- **ViTT** (ViTT: Vision Transformer Tracker) [[paper](https://www.mdpi.com/1424-8220/21/16/5608)]
+
 ### Arxiv 2021:tada:
 
 - **RelationTrack** (RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation) [[paper](https://arxiv.org/abs/2105.04322)]
