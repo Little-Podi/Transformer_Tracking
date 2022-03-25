@@ -110,6 +110,10 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ## :bookmark:Multiple Object Tracking (MOT)
 
+### CVPR 2021:tada:
+
+- **MeNToS** (MeNToS: Tracklets Association with a Space-Time Memory Network) [[paper](https://arxiv.org/abs/2107.07067)]
+
 ### Arxiv 2021:tada:
 
 - **RelationTrack** (RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation) [[paper](https://arxiv.org/abs/2105.04322)]
@@ -120,6 +124,10 @@ This repository is a paper digest of Transformer-alike approaches in video track
 - **MOTR** (MOTR: End-to-End Multiple-Object Tracking with TRansformer) [[paper](https://arxiv.org/abs/2105.03247)]
 - **MO3TR** (Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers) [[paper](https://arxiv.org/abs/2103.14829)]
 - **MeNToS** (Multi-Object Tracking and Segmentation with a Space-Time Memory Network) [[paper](https://arxiv.org/abs/2110.11284)]
+
+### CVPR 2022:tada:
+
+- **GTR** (Global Tracking Transformers) [[paper](https://arxiv.org/abs/2203.13250)]
 
 
 
