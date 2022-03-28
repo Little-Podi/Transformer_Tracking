@@ -108,6 +108,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[paper](https://arxiv.org/abs/2201.00487)]
 
+### Arxiv 2022:tada:
+
+- **AOST** (Associating Objects with Scalable Transformers for Video Object Segmentation) [[paper](https://arxiv.org/abs/2203.11442)]
+
 
 
 ## :bookmark:Multiple Object Tracking (MOT)
