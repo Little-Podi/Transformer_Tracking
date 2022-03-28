@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of Transformer-alike approaches in video tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Object Re-Identification (ReID)**, **Video Instance Segmentation (VIS)** and **Video Object Detection (VOD)**. Note that some trackers with a non-local attention mechanism are also collected.
+This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Object Re-Identification (ReID)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)** and **3D Object Tracking (3D SOT)**. Note that some trackers with a non-local attention mechanism are also collected.
 
 
 
@@ -46,7 +46,8 @@ This repository is a paper digest of Transformer-alike approaches in video track
 
 ### Arxiv 2022:tada:
 
-- **InMo** (Learning Target-aware Representation for Visual Tracking via Informative Interactions) [[paper](https://arxiv.org/abs/2201.02526)]
+- **InBN** (Learning Target-aware Representation for Visual Tracking via Informative Interactions) [[paper](https://arxiv.org/abs/2201.02526)]
+- **HCAT** (Efficient Visual Tracking via Hierarchical Cross-Attention Transformer) [[paper](https://arxiv.org/abs/2203.13537)]
 - **SimTrack** (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) [[paper](https://arxiv.org/abs/2203.05328)]
 - **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [[paper](https://arxiv.org/abs/2203.11991)]
 
@@ -193,4 +194,12 @@ This repository is a paper digest of Transformer-alike approaches in video track
 ### Arxiv 2022:tada:
 
 - **TransVOD++** (TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers) [[paper](https://arxiv.org/abs/2201.05047)]
+
+
+
+## :bookmark:3D Object Tracking (3D SOT)
+
+### BMVC 2021:tada:
+
+- **LTTR** (3D Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2110.14921)]
 
