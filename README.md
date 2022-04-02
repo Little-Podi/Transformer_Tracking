@@ -218,3 +218,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### BMVC 2021:tada:
 
 - **LTTR** (3D Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2110.14921)]
+
+### CVPR 2022:tada:
+
+- **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2112.02857)]
