@@ -63,6 +63,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **STM** (Video Object Segmentation using Space-Time Memory Networks) [[paper](https://arxiv.org/abs/1904.00607)]
 
+### CVPR 2020:tada:
+
+- **MAST** (MAST: A Memory-Augmented Self-supervised Tracker) [[paper](https://arxiv.org/abs/2002.07793)]
+
 ### NeurIPS 2020:tada:
 
 - **AFB-URR** (Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement) [[paper](https://arxiv.org/abs/2010.07958)]
@@ -87,8 +91,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### ICCV 2021:tada:
 
+- **DINO** (Emerging Properties in Self-Supervised Vision Transformers) [[paper](https://arxiv.org/abs/2104.14294)]
 - **HMMN** (Hierarchical Memory Matching Network for Video Object Segmentation) [[paper](https://arxiv.org/abs/2109.11404)]
 - **JOINT** (Joint Inductive and Transductive Learning for Video Object Segmentation) [[paper](https://arxiv.org/abs/2108.03679)]
+- **MotionGroup** (Self-supervised Video Object Segmentation by Motion Grouping) [[paper](https://arxiv.org/abs/2104.07658)]
 - **SAMN** (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [[paper](https://arxiv.org/abs/2009.09669)]
 
 ### AAAI 2021:tada:
