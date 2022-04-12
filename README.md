@@ -107,11 +107,11 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### Preprint 2021
 
-- **MTTR** (End-to-End Referring Video Object Segmentation with Multimodal Transformers) [[paper](https://arxiv.org/abs/2111.14821)]
 - **TransVOS** (TransVOS: Video Object Segmentation with Transformers) [[paper](https://arxiv.org/abs/2106.00588)]
 
 ### CVPR 2022:tada::tada::tada:
 
+- **MTTR** (End-to-End Referring Video Object Segmentation with Multimodal Transformers) [[paper](https://arxiv.org/abs/2111.14821)]
 - **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[paper](https://arxiv.org/abs/2201.00487)]
 
 ### AAAI 2022
@@ -152,6 +152,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### CVPR 2022:tada::tada::tada:
 
 - **GTR** (Global Tracking Transformers) [[paper](https://arxiv.org/abs/2203.13250)]
+- **MeMOT** (MeMOT: Multi-Object Tracking with Memory) [[paper](https://arxiv.org/abs/2203.16761)]
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[paper](https://arxiv.org/abs/2203.15175)]
 
 ### APPL INTELL 2022
@@ -185,6 +186,22 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### TIP 2022
 
 - **SPOT** (Structure-Aware Positional Transformer for Visible-Infrared Person Re-Identification) [[paper](https://ieeexplore.ieee.org/document/9725265)]
+
+### TMM 2022
+
+- **SCET** (Spatial-Channel Enhanced Transformer for Visible-Infrared Person Re-Identification) [[paper](https://ieeexplore.ieee.org/document/9745797)]
+
+### PAT REC 2022
+
+- **ResT-ReID** (ResT-ReID: Transformer Block-Based Residual Learning for Person Re-Identification) [[paper](https://www.sciencedirect.com/science/article/pii/S016786552200085X?casa_token=ONu9S60aH6UAAAAA:VD-PGGRGeW2v4ztlXwGhr5Q3et6SwaJgRNxQZi0BMVesqmDDfYAf6wxGn071MGn41TQ_AAZJ6w)]
+
+### IPM 2022
+
+- **VAT** (Multi-Attribute Adaptive Aggregation Transformer for Vehicle Re-Identification) [[paper](https://www.sciencedirect.com/science/article/pii/S0306457322000036?casa_token=pioXhgnMdyEAAAAA:TLJm5MxROowzCAG_vbQvNG3nmkwHqlovbQeqxXaspKhFf-2lWoVfSCVJzSPMXfDFEEFjHt1Abg)]
+
+### CIN 2022
+
+- **TAT** (Template-Aware Transformer for Person Reidentification) [[paper](https://www.hindawi.com/journals/cin/2022/8917964/)]
 
 
 
@@ -244,5 +261,5 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### TMM 2022
 
-- **PTT-Net** (Real-time 3D Single Object Tracking with Transformer) [[paper](https://ieeexplore.ieee.org/abstract/document/9695195)]
+- **PTT-Net** (Real-time 3D Single Object Tracking with Transformer) [[paper](https://ieeexplore.ieee.org/document/9695195)]
 
