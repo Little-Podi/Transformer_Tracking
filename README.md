@@ -219,16 +219,21 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **Mask2Former** (Mask2Former for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.10764)]
 - **QueryTrack** (Tracking Instances as Queries) [[paper](https://arxiv.org/abs/2106.11963)]
+- **Seqformer** (SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.08275)]
 - **TT-SRN** (TT-SRN: Twin Transformers with Sinusoidal Representation Networks for Video Instance Segmentation) [[paper](https://towardsdatascience.com/tt-srn-transformer-based-video-instance-segmentation-framework-part-i-ae9964126ac0)]
 
 ### CVPR 2022:tada::tada::tada:
 
 - **EfficientVIS** (Efficient Video Instance Segmentation via Tracklet Query and Proposal) [[paper](https://arxiv.org/abs/2203.01853)]
-- **TEVTVIS** (Temporally Efficient Vision Transformer for Video Instance Segmentation) [[paper](https://xinggangw.info/pubs.htm)]
+- **TeViT** (Temporally Efficient Vision Transformer for Video Instance Segmentation) [[paper](https://xinggangw.info/pubs.htm)]
 
 ### AAAI 2022
 
 - **HITF** (Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.01695)]
+
+### Preprint 2022
+
+- **MS-STS VIS** (Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer) [[paper](https://arxiv.org/abs/2203.13253)]
 
 
 
