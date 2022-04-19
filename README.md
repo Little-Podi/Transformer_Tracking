@@ -225,7 +225,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### CVPR 2022:tada::tada::tada:
 
 - **EfficientVIS** (Efficient Video Instance Segmentation via Tracklet Query and Proposal) [[paper](https://arxiv.org/abs/2203.01853)]
-- **TeViT** (Temporally Efficient Vision Transformer for Video Instance Segmentation) [[paper](https://xinggangw.info/pubs.htm)]
+- **TeViT** (Temporally Efficient Vision Transformer for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2204.08412)]
 
 ### AAAI 2022
 
