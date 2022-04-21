@@ -6,6 +6,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### CVPR 2020:tada::tada::tada:
+
+- **SiamAttn** (Deformable Siamese Attention Networks for Visual Object Tracking) [[paper](https://arxiv.org/abs/2004.06711)]
+
 ### ICPR 2020
 
 - **VTT** (VTT: Long-term Visual Tracking with Transformers) [[paper](https://pure.qub.ac.uk/en/publications/vtt-long-term-visual-tracking-with-transformers)]
