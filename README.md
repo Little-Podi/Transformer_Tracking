@@ -132,6 +132,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2022
 
 - **AOST** (Associating Objects with Scalable Transformers for Video Object Segmentation) [[paper](https://arxiv.org/abs/2203.11442)]
+- **INO** (In-N-Out Generative Learning for Dense Unsupervised Video Segmentation) [[paper](https://arxiv.org/abs/2203.15312)]
 
 
 
