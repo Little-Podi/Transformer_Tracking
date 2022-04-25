@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Object Re-Identification (ReID)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)** and **3D Object Tracking (3D SOT)**. Note that some trackers with a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
+This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Object Re-Identification (ReID)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)** and **3D Object Tracking (3D SOT)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
 
 
 
@@ -23,6 +23,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### ICCV 2021:tada::tada::tada:
 
+- **AutoMatch** (Learn to Match: Automatic Matching Network Design for Visual Tracking) [[paper](https://arxiv.org/abs/2108.00803)]
 - **DTT** (High-Performance Discriminative Tracking With Transformers) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.html)]
 - **DualTFR** (Learning Tracking Representations via Dual-Branch Fully Transformer Networks) [[paper](https://arxiv.org/abs/2112.02571)]
 - **HiFT** (HiFT: Hierarchical Feature Transformer for Aerial Tracking) [[paper](https://arxiv.org/abs/2108.00202)]
