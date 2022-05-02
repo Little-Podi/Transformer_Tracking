@@ -64,6 +64,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **HCAT** (Efficient Visual Tracking via Hierarchical Cross-Attention Transformer) [[paper](https://arxiv.org/abs/2203.13537)]
 - **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [[paper](https://arxiv.org/abs/2203.11991)]
+- **SiamLA** (Learning Localization-aware Target Confidence for Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2204.14093)]
 - **SimTrack** (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) [[paper](https://arxiv.org/abs/2203.05328)]
 - **TransT-M** (High-Performance Transformer Tracking) [[paper](https://arxiv.org/abs/2203.13533)]
 
