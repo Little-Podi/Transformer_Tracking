@@ -255,6 +255,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **TransVOD** (End-to-End Video Object Detection with Spatial-Temporal Transformers) [[paper](https://arxiv.org/abs/2105.10920)]
 - **TT-SPN** (TT-SPN: Twin Transformers with Sinusoidal Representation Networks for Video Instance Segmentation) [[paper](https://towardsdatascience.com/tt-srn-transformer-based-video-instance-segmentation-framework-part-i-ae9964126ac0)]
 
+### CVPR 2022:tada::tada::tada:
+
+- **SLT-Net** (Implicit Motion Handling for Video Camouflaged Object Detection) [[paper](https://arxiv.org/abs/2203.07363)]
+
 ### Preprint 2022
 
 - **TransVOD++** (TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers) [[paper](https://arxiv.org/abs/2201.05047)]
