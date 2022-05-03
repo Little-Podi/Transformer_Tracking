@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Object Re-Identification (ReID)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)** and **3D Object Tracking (3D SOT)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
+This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)** and **3D Object Tracking (3D SOT)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
 
 
 
@@ -55,10 +55,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### WACV 2022
 
 - **SiamTPN** (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2110.08822)]
-
-### RAL 2022
-
-- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [[paper](https://ieeexplore.ieee.org/document/9696362)]
 
 ### Preprint 2022
 
@@ -136,6 +132,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **AOST** (Associating Objects with Scalable Transformers for Video Object Segmentation) [[paper](https://arxiv.org/abs/2203.11442)]
 - **INO** (In-N-Out Generative Learning for Dense Unsupervised Video Segmentation) [[paper](https://arxiv.org/abs/2203.15312)]
+- **VLGM+LMDF** (Deeply Interleaved Two-Stream Encoder for Referring Video Segmentation) [[paper](https://arxiv.org/abs/2203.15969)]
 
 
 
@@ -144,10 +141,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### CVPR 2021:tada::tada::tada:
 
 - **MeNToS** (MeNToS: Tracklets Association with a Space-Time Memory Network) [[paper](https://arxiv.org/abs/2107.07067)]
-
-### Sensors 2021
-
-- **ViTT** (ViTT: Vision Transformer Tracker) [[paper](https://www.mdpi.com/1424-8220/21/16/5608)]
 
 ### Preprint 2021
 
@@ -166,54 +159,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **MeMOT** (MeMOT: Multi-Object Tracking with Memory) [[paper](https://arxiv.org/abs/2203.16761)]
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[paper](https://arxiv.org/abs/2203.15175)]
 
-### APPL INTELL 2022
-
-- **TTMM** (Transformer-Based Two-Source Motion Model for Multi-Object Tracking) [[paper](https://link.springer.com/article/10.1007/s10489-021-03012-y)]
-
-
-
-##  :bookmark:Object Re-Identification (ReID)
-
-### CVPR 2021:tada::tada::tada:
-
-- **PAT** (Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer) [[paper](https://arxiv.org/abs/2106.04095)]
-
-### ICCV 2021:tada::tada::tada:
-
-- **APD** (Transformer Meets Part Model: Adaptive Part Division for Person Re-Identification) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/HTCV/html/Lai_Transformer_Meets_Part_Model_Adaptive_Part_Division_for_Person_Re-Identification_ICCVW_2021_paper.html)]
-- **TransReID** (TransReID: Transformer-based Object Re-Identification) [[paper](https://arxiv.org/abs/2102.04378)]
-
-### MM 2021
-
-- **HAT** (HAT: Hierarchical Aggregation Transformers for Person Re-identification) [[paper](https://arxiv.org/abs/2107.05946)]
-
-### Preprint 2021
-
-- **AAformer** (AAformer: Auto-Aligned Transformer for Person Re-Identification) [[paper](https://arxiv.org/abs/2104.00921)]
-- **CMTR** (CMTR: Cross-modality Transformer for Visible-infrared Person Re-identification) [[paper](https://arxiv.org/abs/2110.08994)]
-- **STT** (Spatiotemporal Transformer for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2103.16469)]
-- **TMT** (A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2104.01745)]
-
-### TIP 2022
-
-- **SPOT** (Structure-Aware Positional Transformer for Visible-Infrared Person Re-Identification) [[paper](https://ieeexplore.ieee.org/document/9725265)]
-
-### TMM 2022
-
-- **SCET** (Spatial-Channel Enhanced Transformer for Visible-Infrared Person Re-Identification) [[paper](https://ieeexplore.ieee.org/document/9745797)]
-
-### PAT REC 2022
-
-- **ResT-ReID** (ResT-ReID: Transformer Block-Based Residual Learning for Person Re-Identification) [[paper](https://www.sciencedirect.com/science/article/pii/S016786552200085X?casa_token=ONu9S60aH6UAAAAA:VD-PGGRGeW2v4ztlXwGhr5Q3et6SwaJgRNxQZi0BMVesqmDDfYAf6wxGn071MGn41TQ_AAZJ6w)]
-
-### IPM 2022
-
-- **VAT** (Multi-Attribute Adaptive Aggregation Transformer for Vehicle Re-Identification) [[paper](https://www.sciencedirect.com/science/article/pii/S0306457322000036?casa_token=pioXhgnMdyEAAAAA:TLJm5MxROowzCAG_vbQvNG3nmkwHqlovbQeqxXaspKhFf-2lWoVfSCVJzSPMXfDFEEFjHt1Abg)]
-
-### CIN 2022
-
-- **TAT** (Template-Aware Transformer for Person Reidentification) [[paper](https://www.hindawi.com/journals/cin/2022/8917964/)]
-
 
 
 ## :bookmark:Video Instance Segmentation (VIS)
@@ -226,21 +171,29 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **IFC** (Video Instance Segmentation using Inter-Frame Communication Transformers) [[paper](https://arxiv.org/abs/2106.03299)]
 
+### ICIP 2021
+
+- **TMANet** (Temporal Memory Attention for Video Semantic Segmentation) [[paper](https://arxiv.org/abs/2102.08643)]
+
 ### Preprint 2021
 
 - **Mask2Former** (Mask2Former for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.10764)]
 - **QueryTrack** (Tracking Instances as Queries) [[paper](https://arxiv.org/abs/2106.11963)]
 - **Seqformer** (SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.08275)]
-- **TT-SRN** (TT-SRN: Twin Transformers with Sinusoidal Representation Networks for Video Instance Segmentation) [[paper](https://towardsdatascience.com/tt-srn-transformer-based-video-instance-segmentation-framework-part-i-ae9964126ac0)]
 
 ### CVPR 2022:tada::tada::tada:
 
 - **EfficientVIS** (Efficient Video Instance Segmentation via Tracklet Query and Proposal) [[paper](https://arxiv.org/abs/2203.01853)]
 - **TeViT** (Temporally Efficient Vision Transformer for Video Instance Segmentation) [[paper](https://arxiv.org/abs/2204.08412)]
+- **Video K-Net** (Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation) [[paper](https://arxiv.org/abs/2204.04656)]
 
 ### AAAI 2022
 
 - **HITF** (Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation) [[paper](https://arxiv.org/abs/2112.01695)]
+
+### WACV 2022
+
+- **VPS-Transformer** (Time-Space Transformers for Video Panoptic Segmentation) [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Petrovai_Time-Space_Transformers_for_Video_Panoptic_Segmentation_WACV_2022_paper.html)]
 
 ### Preprint 2022
 
@@ -253,7 +206,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2021
 
 - **TransVOD** (End-to-End Video Object Detection with Spatial-Temporal Transformers) [[paper](https://arxiv.org/abs/2105.10920)]
-- **TT-SPN** (TT-SPN: Twin Transformers with Sinusoidal Representation Networks for Video Instance Segmentation) [[paper](https://towardsdatascience.com/tt-srn-transformer-based-video-instance-segmentation-framework-part-i-ae9964126ac0)]
 
 ### CVPR 2022:tada::tada::tada:
 
@@ -278,8 +230,4 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### CVPR 2022:tada::tada::tada:
 
 - **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2112.02857)]
-
-### TMM 2022
-
-- **PTT-Net** (Real-time 3D Single Object Tracking with Transformer) [[paper](https://ieeexplore.ieee.org/document/9695195)]
 
