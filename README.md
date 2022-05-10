@@ -39,6 +39,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### CVPR 2022:tada::tada::tada:
 
+- **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[link](https://arxiv.org/abs/2205.03806)]
 - **GTELT** (Global Tracking via Ensemble of Local Trackers) [[link](https://arxiv.org/abs/2203.16092)]
 - **MixFormer** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[link](https://arxiv.org/abs/2203.11082)]
 - **SBT** (Correlation-Aware Deep Tracking) [[link](https://arxiv.org/abs/2203.01666)]
