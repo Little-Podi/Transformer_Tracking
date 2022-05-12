@@ -220,6 +220,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2022
 
 - **TransVOD++** (TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers) [[link](https://arxiv.org/abs/2201.05047)]
+- **UFO** (A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection) [[link](https://arxiv.org/abs/2203.04708)]
 
 
 
