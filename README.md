@@ -161,6 +161,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **MeMOT** (MeMOT: Multi-Object Tracking with Memory) [[link](https://arxiv.org/abs/2203.16761)]
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[link](https://arxiv.org/abs/2203.15175)]
 
+### Preprint 2022
+
+- **PatchTrack** (PatchTrack: Multiple Object Tracking Using Frame Patches) [[link](https://arxiv.org/abs/2201.00080)]
+
 
 
 ## :bookmark:Video Instance Segmentation (VIS)
