@@ -77,6 +77,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### CVPR 2020:tada::tada::tada:
 
 - **MAST** (MAST: A Memory-Augmented Self-supervised Tracker) [[link](https://arxiv.org/abs/2002.07793)]
+- **TVOS** (A Transductive Approach for Video Object Segmentation) [[link](https://arxiv.org/abs/2004.07193)]
 
 ### NeurIPS 2020:tada::tada::tada:
 
