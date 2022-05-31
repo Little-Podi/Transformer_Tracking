@@ -201,6 +201,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **HITF** (Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.01695)]
 
+### ICASSP 2022
+
+- **DefVIS** (Deformable VisTR: Spatio temporal deformable attention for video instance segmentation) [[link](https://arxiv.org/abs/2203.06318)]
+
 ### WACV 2022
 
 - **VPS-Transformer** (Time-Space Transformers for Video Panoptic Segmentation) [[link](https://openaccess.thecvf.com/content/WACV2022/html/Petrovai_Time-Space_Transformers_for_Video_Panoptic_Segmentation_WACV_2022_paper.html)]
