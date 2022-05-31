@@ -167,6 +167,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2022
 
 - **PatchTrack** (PatchTrack: Multiple Object Tracking Using Frame Patches) [[link](https://arxiv.org/abs/2201.00080)]
+- **TRL** (Exploiting Temporal Relations on Radar Perception for Autonomous Driving) [[link](https://arxiv.org/abs/2204.01184)]
 
 
 
@@ -211,6 +212,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 
 ## :bookmark:Video Object Detection (VOD)
+
+### Preprint 2020
+
+- **TCTR** (Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving) [[link](https://arxiv.org/abs/2011.13628)]
 
 ### Preprint 2021
 
