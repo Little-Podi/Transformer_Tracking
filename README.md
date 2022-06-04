@@ -33,6 +33,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2021
 
 - **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[link](https://arxiv.org/abs/2112.09686)]
+- **MFGNet** (MFGNet: Dynamic Modality-Aware Filter Generation for RGB-T Tracking) [[link](https://arxiv.org/abs/2107.10433)]
 - **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[link](https://arxiv.org/abs/2112.00995)]
 - **TREG** (Target Transformed Regression for Accurate Tracking) [[link](https://arxiv.org/abs/2104.00403)]
 - **TrTr** (TrTr: Visual Tracking with Transformer) [[link](https://arxiv.org/abs/2105.03817)]
@@ -137,6 +138,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **AOST** (Associating Objects with Scalable Transformers for Video Object Segmentation) [[link](https://arxiv.org/abs/2203.11442)]
 - **INO** (In-N-Out Generative Learning for Dense Unsupervised Video Segmentation) [[link](https://arxiv.org/abs/2203.15312)]
+- **Locater** (Local-Global Context Aware Transformer for Language-Guided Video Segmentation) [[link](https://arxiv.org/abs/2203.09773)]
 - **VLGM+LMDF** (Deeply Interleaved Two-Stream Encoder for Referring Video Segmentation) [[link](https://arxiv.org/abs/2203.15969)]
 
 
