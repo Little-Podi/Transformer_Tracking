@@ -183,6 +183,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **IFC** (Video Instance Segmentation using Inter-Frame Communication Transformers) [[link](https://arxiv.org/abs/2106.03299)]
 
+### IROS 2021
+
+- **LMANet** (Local Memory Attention for Fast Video Semantic Segmentation) [[link](https://arxiv.org/abs/2101.01715)]
+
 ### ICIP 2021
 
 - **TMANet** (Temporal Memory Attention for Video Semantic Segmentation) [[link](https://arxiv.org/abs/2102.08643)]
