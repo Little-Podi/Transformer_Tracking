@@ -56,6 +56,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **InBN** (Learning Target-aware Representation for Visual Tracking via Informative Interactions) [[link](https://arxiv.org/abs/2201.02526)]
 - **SparseTT** (SparseTT: Visual Tracking with Sparse Transformers) [[link](https://arxiv.org/abs/2205.03776)]
 
+### MICCAI 2022
+
+- **TLT** (Transformer Lesion Tracker) [[link](https://arxiv.org/abs/2206.06252)]
+
 ### WACV 2022
 
 - **SiamTPN** (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [[link](https://arxiv.org/abs/2110.08822)]
