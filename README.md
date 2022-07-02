@@ -130,6 +130,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### CVPR 2022:tada::tada::tada:
 
+- **LBDT** (Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation) [[link](https://arxiv.org/abs/2206.03789)]
 - **MTTR** (End-to-End Referring Video Object Segmentation with Multimodal Transformers) [[link](https://arxiv.org/abs/2111.14821)]
 - **RDE-VOS** (Recurrent Dynamic Embedding for Video Object Segmentation) [[link](https://arxiv.org/abs/2205.03761)]
 - **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[link](https://arxiv.org/abs/2201.00487)]
