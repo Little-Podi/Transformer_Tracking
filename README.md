@@ -51,6 +51,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **UDAT** (Unsupervised Domain Adaptation for Nighttime Aerial Tracking) [[link](https://arxiv.org/abs/2203.10541)]
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[link](https://arxiv.org/abs/2203.15175)]
 
+### ECCV 2022:tada::tada::tada:
+
+- **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[link](https://github.com/Little-Podi)]
+
 ### AAAI 2022
 
 - **APFNet** (Attribute-based Progressive Fusion Network for RGBT Tracking) [[link](https://aaai-2022.virtualchair.net/poster_aaai7747)]
