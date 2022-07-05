@@ -178,12 +178,12 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **GTR** (Global Tracking Transformers) [[link](https://arxiv.org/abs/2203.13250)]
 - **MeMOT** (MeMOT: Multi-Object Tracking with Memory) [[link](https://arxiv.org/abs/2203.16761)]
 - **Time3D** (Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving) [[link](https://arxiv.org/abs/2205.14882)]
+- **TRL** (Exploiting Temporal Relations on Radar Perception for Autonomous Driving) [[link](https://arxiv.org/abs/2204.01184)]
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[link](https://arxiv.org/abs/2203.15175)]
 
 ### Preprint 2022
 
 - **PatchTrack** (PatchTrack: Multiple Object Tracking Using Frame Patches) [[link](https://arxiv.org/abs/2201.00080)]
-- **TRL** (Exploiting Temporal Relations on Radar Perception for Autonomous Driving) [[link](https://arxiv.org/abs/2204.01184)]
 
 
 
