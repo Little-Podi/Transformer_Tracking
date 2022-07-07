@@ -54,6 +54,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### ECCV 2022:tada::tada::tada:
 
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[link](https://github.com/Little-Podi)]
+- **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [[link](https://arxiv.org/abs/2203.11991)]
 
 ### AAAI 2022
 
@@ -75,7 +76,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2022
 
 - **HCAT** (Efficient Visual Tracking via Hierarchical Cross-Attention Transformer) [[link](https://arxiv.org/abs/2203.13537)]
-- **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [[link](https://arxiv.org/abs/2203.11991)]
 - **SiamLA** (Learning Localization-aware Target Confidence for Siamese Visual Tracking) [[link](https://arxiv.org/abs/2204.14093)]
 - **SimTrack** (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) [[link](https://arxiv.org/abs/2203.05328)]
 - **TransT-M** (High-Performance Transformer Tracking) [[link](https://arxiv.org/abs/2203.13533)]
