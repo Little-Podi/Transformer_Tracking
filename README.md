@@ -232,6 +232,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2022
 
 - **MS-STS VIS** (Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer) [[link](https://arxiv.org/abs/2203.13253)]
+- **VITA** (VITA: Video Instance Segmentation via Object Token Association) [[link](https://arxiv.org/abs/2206.04403)]
 
 
 
