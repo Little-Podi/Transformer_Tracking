@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)** and **3D Object Tracking (3D SOT)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
+This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)**, **3D Object Tracking (3D SOT)** and **Object Re-Identification (ReID)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
 
 
 
@@ -271,3 +271,26 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[link](https://arxiv.org/abs/2112.02857)]
 
+
+
+##  :bookmark:Object Re-Identification (ReID)
+
+### CVPR 2021:tada::tada::tada:
+
+- **PAT** (Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer) [[paper](https://arxiv.org/abs/2106.04095)]
+
+### ICCV 2021:tada::tada::tada:
+
+- **APD** (Transformer Meets Part Model: Adaptive Part Division for Person Re-Identification) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/HTCV/html/Lai_Transformer_Meets_Part_Model_Adaptive_Part_Division_for_Person_Re-Identification_ICCVW_2021_paper.html)]
+- **TransReID** (TransReID: Transformer-based Object Re-Identification) [[paper](https://arxiv.org/abs/2102.04378)]
+
+### MM 2021
+
+- **HAT** (HAT: Hierarchical Aggregation Transformers for Person Re-identification) [[paper](https://arxiv.org/abs/2107.05946)]
+
+### Preprint 2021
+
+- **AAformer** (AAformer: Auto-Aligned Transformer for Person Re-Identification) [[paper](https://arxiv.org/abs/2104.00921)]
+- **CMTR** (CMTR: Cross-modality Transformer for Visible-infrared Person Re-identification) [[paper](https://arxiv.org/abs/2110.08994)]
+- **STT** (Spatiotemporal Transformer for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2103.16469)]
+- **TMT** (A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification) [[paper](https://arxiv.org/abs/2104.01745)]
