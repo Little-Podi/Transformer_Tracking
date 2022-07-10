@@ -165,7 +165,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### Preprint 2021
 
 - **MeNToS** (Multi-Object Tracking and Segmentation with a Space-Time Memory Network) [[link](https://arxiv.org/abs/2110.11284)]
-- **MOTR** (MOTR: End-to-End Multiple-Object Tracking with TRansformer) [[link](https://arxiv.org/abs/2105.03247)]
 - **MO3TR** (Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers) [[link](https://arxiv.org/abs/2103.14829)]
 - **RelationTrack** (RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation) [[link](https://arxiv.org/abs/2105.04322)]
 - **TransCenter** (TransCenter: Transformers with Dense Queries for Multiple-Object Tracking) [[link](https://arxiv.org/abs/2103.15145)]
@@ -180,6 +179,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **TrackFormer** (TrackFormer: Multi-Object Tracking with Transformers) [[link](https://arxiv.org/abs/2101.02702)]
 - **TRL** (Exploiting Temporal Relations on Radar Perception for Autonomous Driving) [[link](https://arxiv.org/abs/2204.01184)]
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[link](https://arxiv.org/abs/2203.15175)]
+
+### ECCV 2022:tada::tada::tada:
+
+- **MOTR** (MOTR: End-to-End Multiple-Object Tracking with TRansformer) [[link](https://arxiv.org/abs/2105.03247)]
 
 ### Preprint 2022
 
