@@ -183,6 +183,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### ECCV 2022:tada::tada::tada:
 
 - **MOTR** (MOTR: End-to-End Multiple-Object Tracking with TRansformer) [[link](https://arxiv.org/abs/2105.03247)]
+- **P3AFormer** (Tracking Objects as Pixel-wise Distributions) [[link](https://arxiv.org/abs/2207.05518)]
 
 ### Preprint 2022
 
