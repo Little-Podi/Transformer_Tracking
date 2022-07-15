@@ -190,6 +190,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **MOTR** (MOTR: End-to-End Multiple-Object Tracking with TRansformer) [[link](https://arxiv.org/abs/2105.03247)]
 - **P3AFormer** (Tracking Objects as Pixel-wise Distributions) [[link](https://arxiv.org/abs/2207.05518)]
 - **Unicorn** (Towards Grand Unification of Object Tracking) [[link](https://arxiv.org/abs/2207.07078)]
+
 ### Preprint 2022
 
 - **PatchTrack** (PatchTrack: Multiple Object Tracking Using Frame Patches) [[link](https://arxiv.org/abs/2201.00080)]
