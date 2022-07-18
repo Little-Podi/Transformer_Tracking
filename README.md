@@ -282,6 +282,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[link](https://arxiv.org/abs/2112.02857)]
 
+### ECCV 2022:tada::tada::tada:
+
+- **CMT** (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [[link](https://github.com/jasongzy/CMT)]
+
 
 
 ##  :bookmark:Object Re-Identification (ReID)
