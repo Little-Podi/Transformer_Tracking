@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)**, **3D Object Tracking (3D SOT)** and **Object Re-Identification (ReID)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
+This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)**, **3D Object Tracking (3DOT)** and **Object Re-Identification (ReID)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
 
 
 
@@ -268,7 +268,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 
 
-## :bookmark:3D Object Tracking (3D SOT)
+## :bookmark:3D Object Tracking (3DOT)
 
 ### IROS 2021
 
@@ -281,6 +281,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### CVPR 2022:tada::tada::tada:
 
 - **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[link](https://arxiv.org/abs/2112.02857)]
+- **TransFusion** (TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers) [[link](https://arxiv.org/abs/2203.11496)]
 
 ### ECCV 2022:tada::tada::tada:
 
