@@ -143,6 +143,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### ECCV 2022:tada::tada::tada:
 
 - **Unicorn** (Towards Grand Unification of Object Tracking) [[link](https://arxiv.org/abs/2207.07078)]
+- **XMem** (XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model) [[link](https://arxiv.org/abs/2207.07115)]
 
 ### AAAI 2022
 
