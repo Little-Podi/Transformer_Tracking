@@ -220,13 +220,16 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **Mask2Former** (Mask2Former for Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.10764)]
 - **QueryTrack** (Tracking Instances as Queries) [[link](https://arxiv.org/abs/2106.11963)]
-- **Seqformer** (SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.08275)]
 
 ### CVPR 2022:tada::tada::tada:
 
 - **EfficientVIS** (Efficient Video Instance Segmentation via Tracklet Query and Proposal) [[link](https://arxiv.org/abs/2203.01853)]
 - **TeViT** (Temporally Efficient Vision Transformer for Video Instance Segmentation) [[link](https://arxiv.org/abs/2204.08412)]
 - **Video K-Net** (Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation) [[link](https://arxiv.org/abs/2204.04656)]
+
+### ECCV 2022:tada::tada::tada:
+
+- **Seqformer** (SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.08275)]
 
 ### AAAI 2022
 
