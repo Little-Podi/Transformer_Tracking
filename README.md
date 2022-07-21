@@ -85,6 +85,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **SAMN** (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [[link](https://arxiv.org/abs/2009.09669)]
 - **STARK** (Learning Spatio-Temporal Transformer for Visual Tracking) [[link](https://arxiv.org/abs/2103.17154)]
 
+### BMVC 2021
+
+- **TAPL** (TAPL: Dynamic Part-based Visual Tracking via Attention-guided Part Localization) [[link](https://arxiv.org/abs/2110.13027)]
+
 ### Preprint 2021
 
 - **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[link](https://arxiv.org/abs/2112.09686)]
