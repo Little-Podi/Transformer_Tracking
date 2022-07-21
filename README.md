@@ -1,6 +1,26 @@
 # Transformer Tracking
 
-This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)**, **3D Object Tracking (3DOT)** and **Object Re-Identification (ReID)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
+This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)**, **3D Object Tracking (3DOT)** and **Object Re-Identification (ReID)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
+
+
+
+## :star2:Recommendation
+
+### ECCV 2022:two_hearts::two_hearts::two_hearts:
+
+- **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[link](https://arxiv.org/abs/2207.09603)] (my first top conference paper)
+
+
+
+## :bookmark:Unified Tracking (UT)
+
+### CVPR 2022:tada::tada::tada:
+
+- **UTT** (Unified Transformer Tracker for Object Tracking) [[link](https://arxiv.org/abs/2203.15175)] (unify SOT&MOT)
+
+### ECCV 2022:tada::tada::tada:
+
+- **Unicorn** (Towards Grand Unification of Object Tracking) [[link](https://arxiv.org/abs/2207.07078)] (unify SOT&VOS&MOT)
 
 
 
