@@ -53,7 +53,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### ECCV 2022:tada::tada::tada:
 
-- **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[link](https://github.com/Little-Podi)]
+- **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[link](https://arxiv.org/abs/2207.09603)]
 - **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [[link](https://arxiv.org/abs/2203.11991)]
 - **Unicorn** (Towards Grand Unification of Object Tracking) [[link](https://arxiv.org/abs/2207.07078)]
 
