@@ -26,38 +26,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ## :bookmark:Single Object Tracking (SOT)
 
-### CVPR 2020:tada::tada::tada:
-
-- **SiamAttn** (Deformable Siamese Attention Networks for Visual Object Tracking) [[link](https://arxiv.org/abs/2004.06711)]
-
-### ICPR 2020
-
-- **VTT** (VTT: Long-term Visual Tracking with Transformers) [[link](https://pure.qub.ac.uk/en/publications/vtt-long-term-visual-tracking-with-transformers)]
-
-### CVPR 2021:tada::tada::tada:
-
-- **SiamGAT** (Graph Attention Tracking) [[link](https://arxiv.org/abs/2011.11204)]
-- **STMTrack** (STMTrack: Template-free Visual Tracking with Space-time Memory Networks) [[link](https://arxiv.org/abs/2104.00324)]
-- **TMT** (Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking) [[link](https://arxiv.org/abs/2103.11681)]
-- **TransT** (Transformer Tracking) [[link](https://arxiv.org/abs/2103.15436)]
-
-### ICCV 2021:tada::tada::tada:
-
-- **AutoMatch** (Learn to Match: Automatic Matching Network Design for Visual Tracking) [[link](https://arxiv.org/abs/2108.00803)]
-- **DTT** (High-Performance Discriminative Tracking With Transformers) [[link](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.html)]
-- **DualTFR** (Learning Tracking Representations via Dual-Branch Fully Transformer Networks) [[link](https://arxiv.org/abs/2112.02571)]
-- **HiFT** (HiFT: Hierarchical Feature Transformer for Aerial Tracking) [[link](https://arxiv.org/abs/2108.00202)]
-- **SAMN** (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [[link](https://arxiv.org/abs/2009.09669)]
-- **STARK** (Learning Spatio-Temporal Transformer for Visual Tracking) [[link](https://arxiv.org/abs/2103.17154)]
-
-### Preprint 2021
-
-- **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[link](https://arxiv.org/abs/2112.09686)]
-- **MFGNet** (MFGNet: Dynamic Modality-Aware Filter Generation for RGB-T Tracking) [[link](https://arxiv.org/abs/2107.10433)]
-- **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[link](https://arxiv.org/abs/2112.00995)]
-- **TREG** (Target Transformed Regression for Accurate Tracking) [[link](https://arxiv.org/abs/2104.00403)]
-- **TrTr** (TrTr: Visual Tracking with Transformer) [[link](https://arxiv.org/abs/2105.03817)]
-
 ### CVPR 2022:tada::tada::tada:
 
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[link](https://arxiv.org/abs/2205.03806)]
@@ -101,28 +69,69 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **SimTrack** (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) [[link](https://arxiv.org/abs/2203.05328)]
 - **TransT-M** (High-Performance Transformer Tracking) [[link](https://arxiv.org/abs/2203.13533)]
 
+### CVPR 2021:tada::tada::tada:
+
+- **SiamGAT** (Graph Attention Tracking) [[link](https://arxiv.org/abs/2011.11204)]
+- **STMTrack** (STMTrack: Template-free Visual Tracking with Space-time Memory Networks) [[link](https://arxiv.org/abs/2104.00324)]
+- **TMT** (Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking) [[link](https://arxiv.org/abs/2103.11681)]
+- **TransT** (Transformer Tracking) [[link](https://arxiv.org/abs/2103.15436)]
+
+### ICCV 2021:tada::tada::tada:
+
+- **AutoMatch** (Learn to Match: Automatic Matching Network Design for Visual Tracking) [[link](https://arxiv.org/abs/2108.00803)]
+- **DTT** (High-Performance Discriminative Tracking With Transformers) [[link](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.html)]
+- **DualTFR** (Learning Tracking Representations via Dual-Branch Fully Transformer Networks) [[link](https://arxiv.org/abs/2112.02571)]
+- **HiFT** (HiFT: Hierarchical Feature Transformer for Aerial Tracking) [[link](https://arxiv.org/abs/2108.00202)]
+- **SAMN** (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [[link](https://arxiv.org/abs/2009.09669)]
+- **STARK** (Learning Spatio-Temporal Transformer for Visual Tracking) [[link](https://arxiv.org/abs/2103.17154)]
+
+### Preprint 2021
+
+- **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[link](https://arxiv.org/abs/2112.09686)]
+- **MFGNet** (MFGNet: Dynamic Modality-Aware Filter Generation for RGB-T Tracking) [[link](https://arxiv.org/abs/2107.10433)]
+- **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[link](https://arxiv.org/abs/2112.00995)]
+- **TREG** (Target Transformed Regression for Accurate Tracking) [[link](https://arxiv.org/abs/2104.00403)]
+- **TrTr** (TrTr: Visual Tracking with Transformer) [[link](https://arxiv.org/abs/2105.03817)]
+
+### CVPR 2020:tada::tada::tada:
+
+- **SiamAttn** (Deformable Siamese Attention Networks for Visual Object Tracking) [[link](https://arxiv.org/abs/2004.06711)]
+
+### ICPR 2020
+
+- **VTT** (VTT: Long-term Visual Tracking with Transformers) [[link](https://pure.qub.ac.uk/en/publications/vtt-long-term-visual-tracking-with-transformers)]
+
 
 
 ## :bookmark:Video Object Segmentation (VOS)
 
-### ICCV 2019:tada::tada::tada:
+### CVPR 2022:tada::tada::tada:
 
-- **STM** (Video Object Segmentation using Space-Time Memory Networks) [[link](https://arxiv.org/abs/1904.00607)]
+- **LBDT** (Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation) [[link](https://arxiv.org/abs/2206.03789)]
+- **MTTR** (End-to-End Referring Video Object Segmentation with Multimodal Transformers) [[link](https://arxiv.org/abs/2111.14821)]
+- **RDE-VOS** (Recurrent Dynamic Embedding for Video Object Segmentation) [[link](https://arxiv.org/abs/2205.03761)]
+- **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[link](https://arxiv.org/abs/2201.00487)]
 
-### CVPR 2020:tada::tada::tada:
+### ECCV 2022:tada::tada::tada:
 
-- **MAST** (MAST: A Memory-Augmented Self-supervised Tracker) [[link](https://arxiv.org/abs/2002.07793)]
-- **TVOS** (A Transductive Approach for Video Object Segmentation) [[link](https://arxiv.org/abs/2004.07193)]
+- **QDMN** (Learning Quality-aware Dynamic Memory for Video Object Segmentation) [[link](https://arxiv.org/abs/2207.07922)]
+- **Unicorn** (Towards Grand Unification of Object Tracking) [[link](https://arxiv.org/abs/2207.07078)]
+- **XMem** (XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model) [[link](https://arxiv.org/abs/2207.07115)]
 
-### NeurIPS 2020:tada::tada::tada:
+### AAAI 2022
 
-- **AFB-URR** (Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement) [[link](https://arxiv.org/abs/2010.07958)]
+- **SITVOS** (Siamese Network with Interactive Transformer for Video Object Segmentation) [[link](https://arxiv.org/abs/2112.13983)]
 
-### ECCV 2020:tada::tada::tada:
+### WACV 2022
 
-- **GCM** (Fast Video Object Segmentation using the Global Context Module) [[link](https://arxiv.org/abs/2001.11243)]
-- **GraphMemVOS** (Video Object Segmentation with Episodic Graph Memory Networks) [[link](https://arxiv.org/abs/2007.07020)]
-- **KMN** (Kernelized Memory Network for Video Object Segmentation) [[link](https://arxiv.org/abs/2007.08270)]
+- **BMVOS** (Pixel-Level Bijective Matching for Video Object Segmentation) [[link](https://arxiv.org/abs/2110.01644)]
+
+### Preprint 2022
+
+- **AOST** (Associating Objects with Scalable Transformers for Video Object Segmentation) [[link](https://arxiv.org/abs/2203.11442)]
+- **INO** (In-N-Out Generative Learning for Dense Unsupervised Video Segmentation) [[link](https://arxiv.org/abs/2203.15312)]
+- **Locater** (Local-Global Context Aware Transformer for Language-Guided Video Segmentation) [[link](https://arxiv.org/abs/2203.09773)]
+- **VLGM+LMDF** (Deeply Interleaved Two-Stream Encoder for Referring Video Segmentation) [[link](https://arxiv.org/abs/2203.15969)]
 
 ### CVPR 2021:tada::tada::tada:
 
@@ -153,50 +162,28 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **TransVOS** (TransVOS: Video Object Segmentation with Transformers) [[link](https://arxiv.org/abs/2106.00588)]
 
-### CVPR 2022:tada::tada::tada:
+### CVPR 2020:tada::tada::tada:
 
-- **LBDT** (Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation) [[link](https://arxiv.org/abs/2206.03789)]
-- **MTTR** (End-to-End Referring Video Object Segmentation with Multimodal Transformers) [[link](https://arxiv.org/abs/2111.14821)]
-- **RDE-VOS** (Recurrent Dynamic Embedding for Video Object Segmentation) [[link](https://arxiv.org/abs/2205.03761)]
-- **ReferFormer** (Language as Queries for Referring Video Object Segmentation) [[link](https://arxiv.org/abs/2201.00487)]
+- **MAST** (MAST: A Memory-Augmented Self-supervised Tracker) [[link](https://arxiv.org/abs/2002.07793)]
+- **TVOS** (A Transductive Approach for Video Object Segmentation) [[link](https://arxiv.org/abs/2004.07193)]
 
-### ECCV 2022:tada::tada::tada:
+### NeurIPS 2020:tada::tada::tada:
 
-- **QDMN** (Learning Quality-aware Dynamic Memory for Video Object Segmentation) [[link](https://arxiv.org/abs/2207.07922)]
-- **Unicorn** (Towards Grand Unification of Object Tracking) [[link](https://arxiv.org/abs/2207.07078)]
-- **XMem** (XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model) [[link](https://arxiv.org/abs/2207.07115)]
+- **AFB-URR** (Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement) [[link](https://arxiv.org/abs/2010.07958)]
 
-### AAAI 2022
+### ECCV 2020:tada::tada::tada:
 
-- **SITVOS** (Siamese Network with Interactive Transformer for Video Object Segmentation) [[link](https://arxiv.org/abs/2112.13983)]
+- **GCM** (Fast Video Object Segmentation using the Global Context Module) [[link](https://arxiv.org/abs/2001.11243)]
+- **GraphMemVOS** (Video Object Segmentation with Episodic Graph Memory Networks) [[link](https://arxiv.org/abs/2007.07020)]
+- **KMN** (Kernelized Memory Network for Video Object Segmentation) [[link](https://arxiv.org/abs/2007.08270)]
 
-### WACV 2022
+### ICCV 2019:tada::tada::tada:
 
-- **BMVOS** (Pixel-Level Bijective Matching for Video Object Segmentation) [[link](https://arxiv.org/abs/2110.01644)]
-
-### Preprint 2022
-
-- **AOST** (Associating Objects with Scalable Transformers for Video Object Segmentation) [[link](https://arxiv.org/abs/2203.11442)]
-- **INO** (In-N-Out Generative Learning for Dense Unsupervised Video Segmentation) [[link](https://arxiv.org/abs/2203.15312)]
-- **Locater** (Local-Global Context Aware Transformer for Language-Guided Video Segmentation) [[link](https://arxiv.org/abs/2203.09773)]
-- **VLGM+LMDF** (Deeply Interleaved Two-Stream Encoder for Referring Video Segmentation) [[link](https://arxiv.org/abs/2203.15969)]
+- **STM** (Video Object Segmentation using Space-Time Memory Networks) [[link](https://arxiv.org/abs/1904.00607)]
 
 
 
 ## :bookmark:Multiple Object Tracking (MOT)
-
-### CVPR 2021:tada::tada::tada:
-
-- **MeNToS** (MeNToS: Tracklets Association with a Space-Time Memory Network) [[link](https://arxiv.org/abs/2107.07067)]
-
-### Preprint 2021
-
-- **MeNToS** (Multi-Object Tracking and Segmentation with a Space-Time Memory Network) [[link](https://arxiv.org/abs/2110.11284)]
-- **MO3TR** (Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers) [[link](https://arxiv.org/abs/2103.14829)]
-- **RelationTrack** (RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation) [[link](https://arxiv.org/abs/2105.04322)]
-- **TransCenter** (TransCenter: Transformers with Dense Queries for Multiple-Object Tracking) [[link](https://arxiv.org/abs/2103.15145)]
-- **TransMOT** (TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking) [[link](https://arxiv.org/abs/2104.00194)]
-- **TransTrack** (TransTrack: Multiple Object Tracking with Transformer) [[link](https://arxiv.org/abs/2012.15460)]
 
 ### CVPR 2022:tada::tada::tada:
 
@@ -217,30 +204,22 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **PatchTrack** (PatchTrack: Multiple Object Tracking Using Frame Patches) [[link](https://arxiv.org/abs/2201.00080)]
 
-
-
-## :bookmark:Video Instance Segmentation (VIS)
-
 ### CVPR 2021:tada::tada::tada:
 
-- **VisTR** (End-to-End Video Instance Segmentation with Transformers) [[link](https://arxiv.org/abs/2011.14503)]
-
-### NeurIPS 2021:tada::tada::tada:
-
-- **IFC** (Video Instance Segmentation using Inter-Frame Communication Transformers) [[link](https://arxiv.org/abs/2106.03299)]
-
-### IROS 2021
-
-- **LMANet** (Local Memory Attention for Fast Video Semantic Segmentation) [[link](https://arxiv.org/abs/2101.01715)]
-
-### ICIP 2021
-
-- **TMANet** (Temporal Memory Attention for Video Semantic Segmentation) [[link](https://arxiv.org/abs/2102.08643)]
+- **MeNToS** (MeNToS: Tracklets Association with a Space-Time Memory Network) [[link](https://arxiv.org/abs/2107.07067)]
 
 ### Preprint 2021
 
-- **Mask2Former** (Mask2Former for Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.10764)]
-- **QueryTrack** (Tracking Instances as Queries) [[link](https://arxiv.org/abs/2106.11963)]
+- **MeNToS** (Multi-Object Tracking and Segmentation with a Space-Time Memory Network) [[link](https://arxiv.org/abs/2110.11284)]
+- **MO3TR** (Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers) [[link](https://arxiv.org/abs/2103.14829)]
+- **RelationTrack** (RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation) [[link](https://arxiv.org/abs/2105.04322)]
+- **TransCenter** (TransCenter: Transformers with Dense Queries for Multiple-Object Tracking) [[link](https://arxiv.org/abs/2103.15145)]
+- **TransMOT** (TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking) [[link](https://arxiv.org/abs/2104.00194)]
+- **TransTrack** (TransTrack: Multiple Object Tracking with Transformer) [[link](https://arxiv.org/abs/2012.15460)]
+
+
+
+## :bookmark:Video Instance Segmentation (VIS)
 
 ### CVPR 2022:tada::tada::tada:
 
@@ -269,17 +248,30 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **MS-STS VIS** (Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer) [[link](https://arxiv.org/abs/2203.13253)]
 - **VITA** (VITA: Video Instance Segmentation via Object Token Association) [[link](https://arxiv.org/abs/2206.04403)]
 
+### CVPR 2021:tada::tada::tada:
 
+- **VisTR** (End-to-End Video Instance Segmentation with Transformers) [[link](https://arxiv.org/abs/2011.14503)]
 
-## :bookmark:Video Object Detection (VOD)
+### NeurIPS 2021:tada::tada::tada:
 
-### Preprint 2020
+- **IFC** (Video Instance Segmentation using Inter-Frame Communication Transformers) [[link](https://arxiv.org/abs/2106.03299)]
 
-- **TCTR** (Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving) [[link](https://arxiv.org/abs/2011.13628)]
+### IROS 2021
+
+- **LMANet** (Local Memory Attention for Fast Video Semantic Segmentation) [[link](https://arxiv.org/abs/2101.01715)]
+
+### ICIP 2021
+
+- **TMANet** (Temporal Memory Attention for Video Semantic Segmentation) [[link](https://arxiv.org/abs/2102.08643)]
 
 ### Preprint 2021
 
-- **TransVOD** (End-to-End Video Object Detection with Spatial-Temporal Transformers) [[link](https://arxiv.org/abs/2105.10920)]
+- **Mask2Former** (Mask2Former for Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.10764)]
+- **QueryTrack** (Tracking Instances as Queries) [[link](https://arxiv.org/abs/2106.11963)]
+
+
+
+## :bookmark:Video Object Detection (VOD)
 
 ### CVPR 2022:tada::tada::tada:
 
@@ -290,17 +282,17 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 - **TransVOD++** (TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers) [[link](https://arxiv.org/abs/2201.05047)]
 - **UFO** (A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection) [[link](https://arxiv.org/abs/2203.04708)]
 
+### Preprint 2021
+
+- **TransVOD** (End-to-End Video Object Detection with Spatial-Temporal Transformers) [[link](https://arxiv.org/abs/2105.10920)]
+
+### Preprint 2020
+
+- **TCTR** (Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving) [[link](https://arxiv.org/abs/2011.13628)]
+
 
 
 ## :bookmark:3D Object Tracking (3DOT)
-
-### IROS 2021
-
-- **PTT** (PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds) [[link](https://arxiv.org/abs/2108.06455)]
-
-### BMVC 2021
-
-- **LTTR** (3D Object Tracking with Transformer) [[link](https://arxiv.org/abs/2110.14921)]
 
 ### CVPR 2022:tada::tada::tada:
 
@@ -310,6 +302,14 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### ECCV 2022:tada::tada::tada:
 
 - **CMT** (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [[link](https://github.com/jasongzy/CMT)]
+
+### IROS 2021
+
+- **PTT** (PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds) [[link](https://arxiv.org/abs/2108.06455)]
+
+### BMVC 2021
+
+- **LTTR** (3D Object Tracking with Transformer) [[link](https://arxiv.org/abs/2110.14921)]
 
 
 
