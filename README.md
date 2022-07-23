@@ -234,6 +234,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### ECCV 2022:tada::tada::tada:
 
+- **MS-STS VIS** (Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer) [[link](https://arxiv.org/abs/2203.13253)]
 - **Seqformer** (SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.08275)]
 
 ### AAAI 2022
@@ -250,7 +251,6 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### Preprint 2022
 
-- **MS-STS VIS** (Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer) [[link](https://arxiv.org/abs/2203.13253)]
 - **VITA** (VITA: Video Instance Segmentation via Object Token Association) [[link](https://arxiv.org/abs/2206.04403)]
 
 ### CVPR 2021:tada::tada::tada:
