@@ -234,6 +234,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 ### ECCV 2022:tada::tada::tada:
 
+- **IDOL** (In Defense of Online Models for Video Instance Segmentation) [[link](https://arxiv.org/abs/2207.10661)]
 - **MS-STS VIS** (Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer) [[link](https://arxiv.org/abs/2203.13253)]
 - **Seqformer** (SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation) [[link](https://arxiv.org/abs/2112.08275)]
 
