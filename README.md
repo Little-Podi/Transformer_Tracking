@@ -141,6 +141,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **GIEL** (Video Object Segmentation Using Global and Instance Embedding Learning) [[link](https://openaccess.thecvf.com/content/CVPR2021/html/Ge_Video_Object_Segmentation_Using_Global_and_Instance_Embedding_Learning_CVPR_2021_paper.html)]
 - **LCM** (Learning Position and Target Consistency for Memory-based Video Object Segmentation) [[link](https://arxiv.org/abs/2104.04329)]
+- **MiVOS** (Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion) [[link](https://arxiv.org/abs/2103.07941)]
 - **RMNet** (Efficient Regional Memory Network for Video Object Segmentation) [[link](https://arxiv.org/abs/2103.12934)]
 - **SSTVOS** (SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation) [[link](https://arxiv.org/abs/2101.08833)]
 - **SwiftNet** (SwiftNet: Real-time Video Object Segmentation) [[link](https://arxiv.org/abs/2102.04604)]
