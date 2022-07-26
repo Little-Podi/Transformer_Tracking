@@ -195,6 +195,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **GTR** (Global Tracking Transformers) [[link](https://arxiv.org/abs/2203.13250)]
 - **MeMOT** (MeMOT: Multi-Object Tracking with Memory) [[link](https://arxiv.org/abs/2203.16761)]
+- **PHALP** (Tracking People by Predicting 3D Appearance, Location & Pose) [[link](https://arxiv.org/abs/2112.04477)]
 - **Time3D** (Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving) [[link](https://arxiv.org/abs/2205.14882)]
 - **TrackFormer** (TrackFormer: Multi-Object Tracking with Transformers) [[link](https://arxiv.org/abs/2101.02702)]
 - **TRL** (Exploiting Temporal Relations on Radar Perception for Autonomous Driving) [[link](https://arxiv.org/abs/2204.01184)]
@@ -213,6 +214,10 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### CVPR 2021:tada::tada::tada:
 
 - **MeNToS** (MeNToS: Tracklets Association with a Space-Time Memory Network) [[link](https://arxiv.org/abs/2107.07067)]
+
+### NeurIPS 2021:tada::tada::tada:
+
+- **T3DP** (Tracking People with 3D Representations) [[link](https://arxiv.org/abs/2111.07868)]
 
 ### Preprint 2021
 
@@ -309,6 +314,7 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 ### ECCV 2022:tada::tada::tada:
 
 - **CMT** (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [[link](https://github.com/jasongzy/CMT)]
+- **STNet** (3D Siamese Transformer Network for Single Object Tracking on Point Clouds) [[link](https://arxiv.org/abs/2207.11995)]
 
 ### IROS 2021
 
