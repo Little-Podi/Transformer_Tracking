@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of Transformer-related approaches in vision tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)**, **3D Object Tracking (3DOT)** and **Object Re-Identification (ReID)**. Note that some trackers involving a non-local attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
+This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03762)-related approaches in vision tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Single Object Tracking (SOT)**, **Video Object Segmentation (VOS)**, **Multiple Object Tracking (MOT)**, **Video Instance Segmentation (VIS)**, **Video Object Detection (VOD)**, **3D Object Tracking (3DOT)** and **Object Re-Identification (ReID)**. Note that some trackers involving a [Non-Local](https://arxiv.org/abs/1711.07971) attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
 
 
 
@@ -298,9 +298,18 @@ This repository is a paper digest of Transformer-related approaches in vision tr
 
 - **TransVOD** (End-to-End Video Object Detection with Spatial-Temporal Transformers) [[link](https://arxiv.org/abs/2105.10920)]
 
+### CVPR 2020:tada::tada::tada:
+
+- **TFAN** (Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians) [[link](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Temporal-Context_Enhanced_Detection_of_Heavily_Occluded_Pedestrians_CVPR_2020_paper.html)]
+- **MEGA** (Memory Enhanced Global-Local Aggregation for Video Object Detection) [[link](https://arxiv.org/abs/2003.12063)]
+
 ### Preprint 2020
 
 - **TCTR** (Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving) [[link](https://arxiv.org/abs/2011.13628)]
+
+### ICCV 2019:tada::tada::tada:
+
+- **PSLA** (Progressive Sparse Local Attention for Video Object Detection) [[link](https://arxiv.org/abs/1903.09126)]
 
 
 
