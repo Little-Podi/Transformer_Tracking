@@ -50,10 +50,19 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **APFNet** (Attribute-based Progressive Fusion Network for RGBT Tracking) [[paper](https://aaai-2022.virtualchair.net/poster_aaai7747)] [[code](https://github.com/yangmengmeng1997/APFNet)]
 
+### ICRA 2022
+
+- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SCT)]
+
 ### IJCAI 2022
 
 - **InMo** (Learning Target-aware Representation for Visual Tracking via Informative Interactions) [[paper](https://arxiv.org/abs/2201.02526)] [[code](https://github.com/JudasDie/SOTS)]
 - **SparseTT** (SparseTT: Visual Tracking with Sparse Transformers) [[paper](https://arxiv.org/abs/2205.03776)] [[code](https://github.com/fzh0917/SparseTT)]
+
+### IROS 2022
+
+- **HighlightNet** (HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/HighlightNet)]
+- **LPAT** (Local Perception-Aware Transformer for Aerial Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/LPAT)]
 
 ### MICCAI 2022
 
@@ -65,6 +74,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2022
 
+- **FDT** (Feature-Distilled Transformer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDT-tracker)]
 - **HCAT** (Efficient Visual Tracking via Hierarchical Cross-Attention Transformer) [[paper](https://arxiv.org/abs/2203.13537)] [[code](https://github.com/chenxin-dlut/HCAT)]
 - **SiamLA** (Learning Localization-aware Target Confidence for Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2204.14093)] [~~code~~]
 - **TransT-M** (High-Performance Transformer Tracking) [[paper](https://arxiv.org/abs/2203.13533)] [[code](https://github.com/chenxin-dlut/TransT-M)]
