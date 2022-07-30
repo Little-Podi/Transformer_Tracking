@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03762)-related approaches in visual tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)** and **Single Object Tracking (SOT)**. Note that some trackers involving a [Non-Local](https://arxiv.org/abs/1711.07971) attention mechanism are also collected. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
+This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03762)-related approaches in visual tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Single Object Tracking (SOT)** and **3D Single Object Tracking (3DSOT)**. Note that some trackers involving a [Non-Local](https://arxiv.org/abs/1711.07971) attention mechanism are also collected. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
 
 
 
@@ -103,3 +103,24 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### ICPR 2020
 
 - **VTT** (VTT: Long-term Visual Tracking with Transformers) [[paper](https://pure.qub.ac.uk/en/publications/vtt-long-term-visual-tracking-with-transformers)] [~~code~~]
+
+
+
+## :bookmark:3D Single Object Tracking (3DSOT)
+
+### CVPR 2022:tada::tada::tada:
+
+- **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2112.02857)] [[code](https://github.com/Jasonkks/PTTR)]
+
+### ECCV 2022:tada::tada::tada:
+
+- **CMT** (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [~~paper~~] [[code](https://github.com/jasongzy/CMT)]
+- **STNet** (3D Siamese Transformer Network for Single Object Tracking on Point Clouds) [[paper](https://arxiv.org/abs/2207.11995)] [[code](https://github.com/fpthink/STNet)]
+
+### IROS 2021
+
+- **PTT** (PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds) [[paper](https://arxiv.org/abs/2108.06455)] [[code](https://github.com/shanjiayao/PTT)]
+
+### BMVC 2021
+
+- **LTTR** (3D Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2110.14921)] [[code](https://github.com/3bobo/lttr)]
