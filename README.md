@@ -60,7 +60,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### IROS 2022
 
 - **HighlightNet** (HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/HighlightNet)]
-- **LPAT** (Local Perception-Aware Transformer for Aerial Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/LPAT)]
+- **LPAT** (Local Perception-Aware Transformer for Aerial Tracking) [[paper](https://arxiv.org/abs/2208.00662)] [[code](https://github.com/vision4robotics/LPAT)]
 
 ### MICCAI 2022
 
