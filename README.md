@@ -87,7 +87,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### ICCV 2021:tada::tada::tada:
 
 - **AutoMatch** (Learn to Match: Automatic Matching Network Design for Visual Tracking) [[paper](https://arxiv.org/abs/2108.00803)] [[code](https://github.com/JudasDie/SOTS)]
-- **DTT** (High-Performance Discriminative Tracking With Transformers) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.html)] [[code](https://github.com/tominute/DTT)]
+- **DTT** (High-Performance Discriminative Tracking with Transformers) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.html)] [[code](https://github.com/tominute/DTT)]
 - **DualTFR** (Learning Tracking Representations via Dual-Branch Fully Transformer Networks) [[paper](https://arxiv.org/abs/2112.02571)] [[code](https://github.com/phiphiphi31/DualTFR)]
 - **HiFT** (HiFT: Hierarchical Feature Transformer for Aerial Tracking) [[paper](https://arxiv.org/abs/2108.00202)] [[code](https://github.com/vision4robotics/HiFT)]
 - **SAMN** (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [[paper](https://arxiv.org/abs/2009.09669)] [[code](https://github.com/phiphiphi31/DMB)]
