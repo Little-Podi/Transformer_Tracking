@@ -10,10 +10,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ![](illustration.png)
 
-- :bulb:Benefit from pre-trained vision transformers.
-- :bulb:No need of additional correlation modules.
-- :bulb:Discriminative target-specific feature extraction.
-- :bulb:Faster inference and training speed.
+- Benefit from pre-trained vision transformers.
+- No need of additional correlation modules.
+- Discriminative target-specific feature extraction.
+- Faster inference and training speed.
 
 ![](2022.png)
 
