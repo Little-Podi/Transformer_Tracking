@@ -8,6 +8,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Joint Feature Extraction and Interaction Era
 
+![](illustration.png)
+
 - Benefit from pre-trained vision transformers.
 - No need of additional correlation modules.
 - Discriminative target-specific feature extraction.
