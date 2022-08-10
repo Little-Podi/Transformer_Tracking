@@ -6,14 +6,15 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :fire:Trends of Transformer Trackers in 2022
 
-### Joint Feature Extraction and Interaction Era
-
 ![](illustration.png)
 
-- Benefit from pre-trained vision transformers.
-- No need of additional correlation modules.
-- Discriminative target-specific feature extraction.
-- Faster inference and training speed.
+### Joint Feature Extraction and Interaction Era
+
+- Benefit from pre-trained vision Transformer models.
+- Free from randomly initialized correlation modules.
+- More discriminative target-specific feature extraction.
+- Much faster inference and training convergence speed.
+- Simple and generic one-branch tracking framework.
 
 ![](2022.png)
 
