@@ -4,22 +4,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 
 
-## :fire:Trends of Transformer Trackers in 2022
-
-![](illustration.png)
-
-### Joint Feature Extraction and Interaction Era
-
-- Benefit from pre-trained vision Transformer models.
-- Free from randomly initialized correlation modules.
-- More discriminative target-specific feature extraction.
-- Much faster inference and training convergence speed.
-- Simple and generic one-branch tracking framework.
-
-![](2022.png)
-
-
-
 ## :star2:Recommendation
 
 ### State-of-the-Art:two_hearts::two_hearts::two_hearts:
@@ -28,9 +12,29 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
-- **Talk by Martin Danelljan** (Deep Visual Reasoning with Optimization-Based Network Modules) [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
+- **Talk by [Martin Danelljan](https://martin-danelljan.github.io/)** (Deep Visual Reasoning with Optimization-Based Network Modules) [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
 - **Tracking Survey** (Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook) [[paper](https://arxiv.org/abs/2112.02838)]
 - **PyTorch-Based Visual Tracking Library** (PyTracking) [[code](https://github.com/visionml/pytracking)]
+
+### Trends of Transformer Trackers: Joint Feature Extraction and Interaction Era:fire::fire::fire:
+
+![](illustration.png)
+
+- **Advantage**
+  - Benefit from pre-trained vision Transformer models.
+  - Free from randomly initialized correlation modules.
+  - More discriminative target-specific feature extraction.
+  - Much faster inference and training convergence speed.
+  - Simple and generic one-branch tracking framework.
+- **Roadmap**
+  - 1st step: concatenation-based feature interaction.
+    - STARK [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], SwinTrack [Preprint'21]
+  - 2nd step: feature interaction inside the backbone.
+    - SBT [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], InMo [IJCAI'22]
+  - 3rd step: joint feature extraction and interaction.
+    - MixFormer [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], OSTrack [ECCV'22], SimTrack [ECCV'22]
+
+![](2022performance.png)
 
 
 
