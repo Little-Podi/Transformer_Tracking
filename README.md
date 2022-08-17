@@ -28,11 +28,11 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
   - Simple and generic one-branch tracking framework.
 - **Roadmap**
   - 1st step: concatenation-based feature interaction.
-    - STARK [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], SwinTrack [Preprint'21]
+    - STARK [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], SwinTrack [[Preprint'21](https://github.com/Little-Podi/Transformer_Tracking#preprint-2021)]
   - 2nd step: feature interaction inside the backbone.
-    - SBT [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], InMo [IJCAI'22]
+    - SBT [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], InMo [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
   - 3rd step: joint feature extraction and interaction.
-    - MixFormer [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], OSTrack [ECCV'22], SimTrack [ECCV'22]
+    - MixFormer [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], OSTrack [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], SimTrack [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
 
 ![](2022performance.png)
 
