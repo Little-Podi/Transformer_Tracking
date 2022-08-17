@@ -6,15 +6,15 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :star2:Recommendation
 
-### State-of-the-Art:two_hearts::two_hearts::two_hearts:
+### State-of-the-Art Tracker:two_hearts::two_hearts::two_hearts:
 
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
-- **Talk by [Martin Danelljan](https://martin-danelljan.github.io/)** (Deep Visual Reasoning with Optimization-Based Network Modules) [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
-- **Tracking Survey** (Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook) [[paper](https://arxiv.org/abs/2112.02838)]
-- **PyTorch-Based Visual Tracking Library** (PyTracking) [[code](https://github.com/visionml/pytracking)]
+- **Talk** (Deep Visual Reasoning with Optimization-Based Network Modules) [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
+- **Survey** (Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook) [[paper](https://arxiv.org/abs/2112.02838)]
+- **Library** (PyTracking: Visual Tracking Library Based on PyTorch) [[code](https://github.com/visionml/pytracking)]
 
 ### Trends of Transformer Trackers: Joint Feature Extraction and Interaction Era:fire::fire::fire:
 
@@ -34,7 +34,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
   - 3rd step: joint feature extraction and interaction.
     - MixFormer [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], OSTrack [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], SimTrack [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
 
-![](2022performance.png)
+![](performance.png)
 
 
 
