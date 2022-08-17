@@ -6,7 +6,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :star2:Recommendation
 
-### State-of-the-Art Tracker:two_hearts::two_hearts::two_hearts:
+### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
 
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
 
@@ -32,11 +32,11 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
   
 - #### Roadmap
   
-  - 1st step: concatenation-based feature interaction.
+  - 1st step :feet: concatenation-based feature interaction.
     - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], **SwinTrack** [[Preprint'21](https://github.com/Little-Podi/Transformer_Tracking#preprint-2021)]
-  - 2nd step: feature interaction inside the backbone.
+  - 2nd step :feet: feature interaction inside the backbone.
     - **SBT** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **InMo** [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
-  - 3rd step: joint feature extraction and interaction.
+  - 3rd step :feet: joint feature extraction and interaction.
     - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
   
 - #### Benchmark Results
