@@ -26,6 +26,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
 
+### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
+
+- **Chalmers AI Talks: Martin Danelljan** (Deep Visual Reasoning with Optimization-based Network Modules) [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
+
 
 
 ## :bookmark:Unified Tracking (UT)
