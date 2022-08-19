@@ -16,30 +16,28 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **Survey** (Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook) [[paper](https://arxiv.org/abs/2112.02838)]
 - **Library** (PyTracking: Visual Tracking Library Based on PyTorch) [[code](https://github.com/visionml/pytracking)]
 
-### Trends of Transformer Trackers in 2022:fire::fire::fire:
-
-- #### Joint Feature Extraction and Interaction Era
+### Joint Feature Extraction and Interaction Era:fire::fire::fire:
 
 ![](illustration.png)
 
 - #### Advantage
-  
+
   - Benefit from pre-trained vision Transformer models.
   - Free from randomly initialized correlation modules.
   - More discriminative target-specific feature extraction.
   - Much faster inference and training convergence speed.
   - Simple and generic one-branch tracking framework.
-  
+
 - #### Roadmap
-  
+
   - 1st step :feet: concatenation-based feature interaction.
     - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], **SwinTrack** [[Preprint'21](https://github.com/Little-Podi/Transformer_Tracking#preprint-2021)]
   - 2nd step :feet: feature interaction inside the backbone.
     - **SBT** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **InMo** [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
   - 3rd step :feet: joint feature extraction and interaction.
     - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
-  
-- #### Benchmark Results
+
+### Up-to-Date Benchmark Results:bar_chart::bar_chart::bar_chart:
 
 ![](performance.png)
 
