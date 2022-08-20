@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03762)-Related approaches in visual tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Single Object Tracking (SOT)** and **3D Single Object Tracking (3DSOT)**. Note that some trackers involving a [Non-Local](https://arxiv.org/abs/1711.07971) attention mechanism are also collected. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
+This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03762)-related approaches in visual tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Single Object Tracking (SOT)** and **3D Single Object Tracking (3DSOT)**. Note that some trackers involving a [Non-Local](https://arxiv.org/abs/1711.07971) attention mechanism are also collected. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
 
 
 
@@ -37,7 +37,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
   - 3rd step :feet: joint feature extraction and interaction.
     - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
 
-### Up-to-Date Benchmark Results:bar_chart::bar_chart::bar_chart:
+### Up-to-Date Benchmark Results:rocket::rocket::rocket:
 
 ![](performance.png)
 
