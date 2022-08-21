@@ -12,10 +12,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
-- **Talk** (Deep Visual Reasoning with Optimization-Based Network Modules) [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
-- **Survey** (Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook) [[paper](https://arxiv.org/abs/2112.02838)]
-- **Library** (PyTracking: Visual Tracking Library Based on PyTorch) [[code](https://github.com/visionml/pytracking)]
-- **People** [Martin Danelljan@ETH](https://martin-danelljan.github.io/)
+- **(Talk)** Deep Visual Reasoning with Optimization-Based Network Modules [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
+- **(Survey)** Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
+- **(Library)** PyTracking: Visual Tracking Library Based on PyTorch [[code](https://github.com/visionml/pytracking)]
+- **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io/)]
 
 ### Joint Feature Extraction and Interaction Era:fire::fire::fire:
 
