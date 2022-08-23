@@ -108,6 +108,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **HCAT** (Efficient Visual Tracking via Hierarchical Cross-Attention Transformer) [[paper](https://arxiv.org/abs/2203.13537)] [[code](https://github.com/chenxin-dlut/HCAT)]
 - **SFTransT** (Learning Spatial-Frequency Transformer for Visual Object Tracking) [[paper](https://arxiv.org/abs/2208.08829)] [[code](https://github.com/Tchuanm/SFTransT)]
 - **SiamLA** (Learning Localization-Aware Target Confidence for Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2204.14093)] [~~code~~]
+- **SPT** (RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking) [[paper](https://arxiv.org/abs/2208.09787)] [~~code~~]
 - **TransT-M** (High-Performance Transformer Tracking) [[paper](https://arxiv.org/abs/2203.13533)] [[code](https://github.com/chenxin-dlut/TransT-M)]
 
 ### CVPR 2021:tada::tada::tada:
