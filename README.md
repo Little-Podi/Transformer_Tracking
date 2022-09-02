@@ -161,6 +161,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2022
 
+- **PCET** (Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2209.00522)] [~~code~~]
 - **PTTR++** (Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2208.05216)] [[code](https://github.com/Jasonkks/PTTR)]
 
 ### IROS 2021
