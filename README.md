@@ -137,6 +137,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[paper](https://arxiv.org/abs/2112.00995)] [[code](https://github.com/LitingLin/SwinTrack)]
 - **TREG** (Target Transformed Regression for Accurate Tracking) [[paper](https://arxiv.org/abs/2104.00403)] [[code](https://github.com/MCG-NJU/TREG)]
 - **TrTr** (TrTr: Visual Tracking with Transformer) [[paper](https://arxiv.org/abs/2105.03817)] [[code](https://github.com/tongtybj/TrTr)]
+- **VisEvent** (VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows) [[paper](https://arxiv.org/abs/2108.05015)] [[code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
 
 ### CVPR 2020:tada::tada::tada:
 
