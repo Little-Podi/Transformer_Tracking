@@ -80,14 +80,14 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **APFNet** (Attribute-Based Progressive Fusion Network for RGBT Tracking) [[paper](https://aaai-2022.virtualchair.net/poster_aaai7747)] [[code](https://github.com/yangmengmeng1997/APFNet)]
 
-### ICRA 2022
-
-- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SCT)]
-
 ### IJCAI 2022
 
 - **InMo** (Learning Target-Aware Representation for Visual Tracking via Informative Interactions) [[paper](https://arxiv.org/abs/2201.02526)] [[code](https://github.com/JudasDie/SOTS)]
 - **SparseTT** (SparseTT: Visual Tracking with Sparse Transformers) [[paper](https://arxiv.org/abs/2205.03776)] [[code](https://github.com/fzh0917/SparseTT)]
+
+### ICRA 2022
+
+- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SCT)]
 
 ### IROS 2022
 
