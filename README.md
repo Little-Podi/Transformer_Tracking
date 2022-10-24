@@ -77,7 +77,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### ECCV 2022:tada::tada::tada:
 
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
-- **CIA** (Hierarchical Feature Embedding for Visual Tracking) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820418.pdf)] [[code](https://github.com/zxgravity/CIA)]
+- **CIA** (Hierarchical Feature Embedding for Visual Tracking) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4400_ECCV_2022_paper.php)] [[code](https://github.com/zxgravity/CIA)]
 - **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [[paper](https://arxiv.org/abs/2203.11991)] [[code](https://github.com/botaoye/OSTrack)]
 - **SimTrack** (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) [[paper](https://arxiv.org/abs/2203.05328)] [[code](https://github.com/LPXTT/SimTrack)]
 
@@ -162,7 +162,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ECCV 2022:tada::tada::tada:
 
-- **CMT** (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820091.pdf)] [[code](https://github.com/jasongzy/CMT)]
+- **CMT** (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)] [[code](https://github.com/jasongzy/CMT)]
+- **SpOT** (SpOT: Spatiotemporal Modeling for 3D Object Tracking) [[paper](https://arxiv.org/abs/2207.05856)] [~~code~~]
 - **STNet** (3D Siamese Transformer Network for Single Object Tracking on Point Clouds) [[paper](https://arxiv.org/abs/2207.11995)] [[code](https://github.com/fpthink/STNet)]
 
 ### Preprint 2022
