@@ -111,8 +111,11 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2022
 
+- **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/CDT)]
+- **FDNT** (End-to-End Feature Decontaminated Network for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDNT)]
 - **FDT** (Feature-Distilled Transformer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDT-tracker)]
 - **ProContEXT** (ProContEXT: Exploring Progressive Context Transformer for Tracking) [[paper](https://arxiv.org/abs/2210.15511)] [[code](https://shorturl.at/jnNT2)]
+- **ScaleAwareDA** (Scale-Aware Domain Adaptation for Robust UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/ScaleAwareDA)]
 - **SFTransT** (Learning Spatial-Frequency Transformer for Visual Object Tracking) [[paper](https://arxiv.org/abs/2208.08829)] [[code](https://github.com/Tchuanm/SFTransT)]
 - **SiamLA** (Learning Localization-Aware Target Confidence for Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2204.14093)] [~~code~~]
 - **SPT** (RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking) [[paper](https://arxiv.org/abs/2208.09787)] [~~code~~]
