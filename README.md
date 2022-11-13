@@ -112,6 +112,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### Preprint 2022
 
 - **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/CDT)]
+- **DMTracker** (Learning Dual-Fused Modality-Aware Representations for RGBD Tracking) [[paper](https://arxiv.org/abs/2211.03055)] [[code](https://github.com/ShangGaoG/DMTracker)]
 - **FDNT** (End-to-End Feature Decontaminated Network for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDNT)]
 - **FDT** (Feature-Distilled Transformer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDT-tracker)]
 - **ProContEXT** (ProContEXT: Exploring Progressive Context Transformer for Tracking) [[paper](https://arxiv.org/abs/2210.15511)] [[code](https://shorturl.at/jnNT2)]
