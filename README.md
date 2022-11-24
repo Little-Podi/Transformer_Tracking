@@ -109,6 +109,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **SiamTPN** (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2110.08822)] [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
 
+### ACCV 2022
+
+- **TAT** (Temporal-Aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking) [[paper](https://openaccess.thecvf.com/content/ACCV2022/html/Lan_Temporal-aware_Siamese_Tracker_Integrate_Temporal_Context_for_3D_Object_Tracking_ACCV_2022_paper.html)] [[code](https://github.com/tqsdyy/TAT)]
+
 ### Preprint 2022
 
 - **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/CDT)]
