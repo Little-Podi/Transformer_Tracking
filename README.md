@@ -58,6 +58,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### WACV 2023
+
+- **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[paper](https://arxiv.org/abs/2112.09686)] [[code](https://github.com/pblatter/ettrack)]
+
 ### CVPR 2022:tada::tada::tada:
 
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]
@@ -151,7 +155,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2021
 
-- **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[paper](https://arxiv.org/abs/2112.09686)] [[code](https://github.com/visionml/pytracking)]
 - **TREG** (Target Transformed Regression for Accurate Tracking) [[paper](https://arxiv.org/abs/2104.00403)] [[code](https://github.com/MCG-NJU/TREG)]
 - **TrTr** (TrTr: Visual Tracking with Transformer) [[paper](https://arxiv.org/abs/2105.03817)] [[code](https://github.com/tongtybj/TrTr)]
 - **VisEvent** (VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows) [[paper](https://arxiv.org/abs/2108.05015)] [[code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
