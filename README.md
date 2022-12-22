@@ -96,16 +96,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **InMo** (Learning Target-Aware Representation for Visual Tracking via Informative Interactions) [[paper](https://arxiv.org/abs/2201.02526)] [[code](https://github.com/JudasDie/SOTS)]
 - **SparseTT** (SparseTT: Visual Tracking with Sparse Transformers) [[paper](https://arxiv.org/abs/2205.03776)] [[code](https://github.com/fzh0917/SparseTT)]
 
-### ICRA 2022
-
-- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SCT)]
-
-### IROS 2022
-
-- **HighlightNet** (HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/HighlightNet)]
-- **LPAT** (Local Perception-Aware Transformer for Aerial Tracking) [[paper](https://arxiv.org/abs/2208.00662)] [[code](https://github.com/vision4robotics/LPAT)]
-- **SiamSA** (Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention) [[paper](https://arxiv.org/abs/2211.14564)] [[code](https://github.com/vision4robotics/SiamSA)]
-
 ### MICCAI 2022
 
 - **TLT** (Transformer Lesion Tracker) [[paper](https://arxiv.org/abs/2206.06252)] [[code](https://github.com/TangWen920812/TLT)]
@@ -117,6 +107,16 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### ACCV 2022
 
 - **TAT** (Temporal-Aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking) [[paper](https://openaccess.thecvf.com/content/ACCV2022/html/Lan_Temporal-aware_Siamese_Tracker_Integrate_Temporal_Context_for_3D_Object_Tracking_ACCV_2022_paper.html)] [[code](https://github.com/tqsdyy/TAT)]
+
+### ICRA 2022
+
+- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SCT)]
+
+### IROS 2022
+
+- **HighlightNet** (HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/HighlightNet)]
+- **LPAT** (Local Perception-Aware Transformer for Aerial Tracking) [[paper](https://arxiv.org/abs/2208.00662)] [[code](https://github.com/vision4robotics/LPAT)]
+- **SiamSA** (Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention) [[paper](https://arxiv.org/abs/2211.14564)] [[code](https://github.com/vision4robotics/SiamSA)]
 
 ### Preprint 2022
 
@@ -191,10 +191,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **PTTR++** (Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2208.05216)] [[code](https://github.com/Jasonkks/PTTR)]
 - **RDT** (Point Cloud Registration-Driven Robust Feature Matching for 3D Siamese Object Tracking) [[paper](https://arxiv.org/abs/2209.06395)] [~~code~~]
 
-### IROS 2021
-
-- **PTT** (PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds) [[paper](https://arxiv.org/abs/2108.06455)] [[code](https://github.com/shanjiayao/PTT)]
-
 ### BMVC 2021
 
 - **LTTR** (3D Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2110.14921)] [[code](https://github.com/3bobo/lttr)]
+
+### IROS 2021
+
+- **PTT** (PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds) [[paper](https://arxiv.org/abs/2108.06455)] [[code](https://github.com/shanjiayao/PTT)]
