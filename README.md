@@ -56,6 +56,14 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 
 
+## :bookmark:Generic Object Tracking (GOT)
+
+### Preprint 2022
+
+- **TaMOs** (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [[paper](https://arxiv.org/abs/2212.11920)] [~~code~~]
+
+
+
 ## :bookmark:Single Object Tracking (SOT)
 
 ### WACV 2023
