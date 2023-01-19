@@ -70,6 +70,15 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[paper](https://arxiv.org/abs/2112.09686)] [[code](https://github.com/pblatter/ettrack)]
 
+### ICRA 2023
+
+- **ClimRT** (Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking) [~~paper~~] [code](https://github.com/vision4robotics/ClimRT)
+- **SGDViT** (SGDViT: Saliency-Guided Dynamic vision Transformer for UAV tracking) [~~paper~~] [code](https://github.com/vision4robotics/SGDViT)
+
+### IROS 2023
+
+- **TRTrack** (TRTrack: Boosting UAV Object Tracking with Voxel-based Trajectory-aware Reconstruction Training) [~~paper~~] [code](https://github.com/vision4robotics/TRTrack)
+
 ### CVPR 2022:tada::tada::tada:
 
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]
