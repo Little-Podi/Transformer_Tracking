@@ -72,8 +72,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ICRA 2023
 
-- **ClimRT** (Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking) [~~paper~~] [code](https://github.com/vision4robotics/ClimRT)
-- **SGDViT** (SGDViT: Saliency-Guided Dynamic vision Transformer for UAV tracking) [~~paper~~] [code](https://github.com/vision4robotics/SGDViT)
+- **ClimRT** (Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/ClimRT)]
+- **SGDViT** (SGDViT: Saliency-Guided Dynamic vision Transformer for UAV tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SGDViT)]
 
 ### IROS 2023
 
