@@ -81,7 +81,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### IROS 2023
 
-- **TRTrack** (TRTrack: Boosting UAV Object Tracking with Voxel-based Trajectory-aware Reconstruction Training) [~~paper~~] [code](https://github.com/vision4robotics/TRTrack)
+- **TRTrack** (TRTrack: Boosting UAV Object Tracking with Voxel-based Trajectory-aware Reconstruction Training) [~~paper~~] [[code](https://github.com/vision4robotics/TRTrack)]
 
 ### CVPR 2022:tada::tada::tada:
 
