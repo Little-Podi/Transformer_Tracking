@@ -83,6 +83,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **TRTrack** (TRTrack: Boosting UAV Object Tracking with Voxel-based Trajectory-aware Reconstruction Training) [~~paper~~] [[code](https://github.com/vision4robotics/TRTrack)]
 
+### Preprint 2023
+
+- **MixViT** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2302.02814)] [[code](https://github.com/MCG-NJU/MixFormer)]
+
 ### CVPR 2022:tada::tada::tada:
 
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]
