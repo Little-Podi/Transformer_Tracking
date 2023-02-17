@@ -91,6 +91,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]
 - **GTELT** (Global Tracking via Ensemble of Local Trackers) [[paper](https://arxiv.org/abs/2203.16092)] [[code](https://github.com/ZikunZhou/GTELT)]
+- **GTR** (Global Tracking Transformers) [[paper](https://arxiv.org/abs/2203.13250)] [[code](https://github.com/xingyizhou/GTR)]
 - **MixFormer** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2203.11082)] [[code](https://github.com/MCG-NJU/MixFormer)]
 - **RBO** (Ranking-Based Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2205.11761)] [[code](https://github.com/sansanfree/RBO)]
 - **SBT** (Correlation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)] [[code](https://github.com/phiphiphi31/SuperSBT)]
@@ -98,7 +99,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **TCTrack** (TCTrack: Temporal Contexts for Aerial Tracking) [[paper](https://arxiv.org/abs/2203.01885)] [[code](https://github.com/vision4robotics/TCTrack)]
 - **ToMP** (Transforming Model Prediction for Tracking) [[paper](https://arxiv.org/abs/2203.11192)] [[code](https://github.com/visionml/pytracking)]
 - **UDAT** (Unsupervised Domain Adaptation for Nighttime Aerial Tracking) [[paper](https://arxiv.org/abs/2203.10541)] [[code](https://github.com/vision4robotics/UDAT)]
-- **GTR** (Global Tracking Transformers) [[paper](https://arxiv.org/abs/2203.13250)] [[code](https://github.com/xingyizhou/GTR)]
+
 ### NeurIPS 2022:tada::tada::tada:
 
 - **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[paper](https://arxiv.org/abs/2112.00995)] [[code](https://github.com/LitingLin/SwinTrack)]
