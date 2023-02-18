@@ -102,7 +102,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### NeurIPS 2022:tada::tada::tada:
 
-- **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[paper](https://arxiv.org/abs/2112.00995)] [[code](https://github.com/LitingLin/SwinTrack)]
+- **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[paper&review](https://openreview.net/forum?id=9h3KsOVXhLZ)] [[code](https://github.com/LitingLin/SwinTrack)]
 
 ### ECCV 2022:tada::tada::tada:
 
