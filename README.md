@@ -1,6 +1,6 @@
 # Transformer Tracking
 
-This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03762)-related approaches in visual tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Generic Object Tracking (GOT)**, **Single Object Tracking (SOT)** and **3D Single Object Tracking (3DSOT)**. Note that some trackers involving a [Non-Local](https://arxiv.org/abs/1711.07971) attention mechanism are also collected. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
+This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03762)-related approaches in visual tracking tasks. Currently, tasks in this repository include **Unified Tracking (UT)**, **Generic Object Tracking (GOT)**, **Single Object Tracking (SOT)** and **3D Single Object Tracking (3DSOT)**. Note that some trackers involving a [Non-Local](https://arxiv.org/abs/1711.07971) attention mechanism are also collected. Papers are listed in alphabetical order of the first character.
 
 
 
@@ -132,7 +132,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ICRA 2022
 
-- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SCT)]
+- **SCT** (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [[paper](https://ieeexplore.ieee.org/document/9696362)] [[code](https://github.com/vision4robotics/SCT)]
 
 ### ACCV 2022
 
@@ -140,7 +140,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### IROS 2022
 
-- **HighlightNet** (HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/HighlightNet)]
+- **HighlightNet** (HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2208.06818)] [[code](https://github.com/vision4robotics/HighlightNet)]
 - **LPAT** (Local Perception-Aware Transformer for Aerial Tracking) [[paper](https://arxiv.org/abs/2208.00662)] [[code](https://github.com/vision4robotics/LPAT)]
 - **SiamSA** (Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention) [[paper](https://arxiv.org/abs/2211.14564)] [[code](https://github.com/vision4robotics/SiamSA)]
 
