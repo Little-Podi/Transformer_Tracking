@@ -58,6 +58,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Generic Object Tracking (GOT)
 
+### CVPR 2022:tada::tada::tada:
+
+- **GTR** (Global Tracking Transformers) [[paper](https://arxiv.org/abs/2203.13250)] [[code](https://github.com/xingyizhou/GTR)]
+
 ### Preprint 2022
 
 - **TaMOs** (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [[paper](https://arxiv.org/abs/2212.11920)] [~~code~~]
@@ -91,7 +95,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]
 - **GTELT** (Global Tracking via Ensemble of Local Trackers) [[paper](https://arxiv.org/abs/2203.16092)] [[code](https://github.com/ZikunZhou/GTELT)]
-- **GTR** (Global Tracking Transformers) [[paper](https://arxiv.org/abs/2203.13250)] [[code](https://github.com/xingyizhou/GTR)]
 - **MixFormer** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2203.11082)] [[code](https://github.com/MCG-NJU/MixFormer)]
 - **RBO** (Ranking-Based Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2205.11761)] [[code](https://github.com/sansanfree/RBO)]
 - **SBT** (Correlation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)] [[code](https://github.com/phiphiphi31/SuperSBT)]
