@@ -8,12 +8,13 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
 
+- **GRM** (Generalized Relation Modeling for Transformer Tracking) [~~paper~~] [~~code~~]
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
 - **(Talk)** Discriminative Appearance-Based Tracking and Segmentation [[video](https://www.youtube.com/watch?v=ILVnBhFq2Ds)], Deep Visual Reasoning with Optimization-Based Network Modules [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
-- **(Survey)** Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
+- **(Survey)** Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)], Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)]
 - **(Library)** PyTracking: Visual Tracking Library Based on PyTorch [[code](https://github.com/visionml/pytracking)]
 - **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io/)]
 
@@ -37,6 +38,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
     - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], **SwinTrack** [[NeurIPS'22](https://github.com/Little-Podi/Transformer_Tracking#neurips-2022tadatadatada)]
   - 3rd step :feet: joint feature extraction and interaction.
     - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
+  - 4th step :feet: generalized relation modeling.
+    - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada)]
 
 ### Up-to-Date Benchmark Results:rocket::rocket::rocket:
 
@@ -69,6 +72,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 
 ## :bookmark:Single Object Tracking (SOT)
+
+### CVPR 2023:tada::tada::tada:
+
+- **GRM** (Generalized Relation Modeling for Transformer Tracking) [~~paper~~] [~~code~~]
 
 ### AAAI 2023
 
