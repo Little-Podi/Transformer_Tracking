@@ -38,7 +38,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
     - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], **SwinTrack** [[NeurIPS'22](https://github.com/Little-Podi/Transformer_Tracking#neurips-2022tadatadatada)]
   - 3rd step :feet: joint feature extraction and interaction.
     - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
-  - 4th step :feet: generalized relation modeling.
+  - 4th step :feet: generalized feature interaction and relation modeling.
     - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada)]
 
 ### Up-to-Date Benchmark Results:rocket::rocket::rocket:
