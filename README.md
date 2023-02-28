@@ -80,6 +80,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### AAAI 2023
 
 - **CTTrack** (Compact Transformer Tracker with Correlative Masked Modeling) [[paper](https://arxiv.org/abs/2301.10938)] [[code](https://github.com/HUSTDML/CTTrack)]
+- **TATrack** (Target-Aware Tracking with Long-term Context Attention) [[paper](https://arxiv.org/abs/2302.13840)] [[code](https://github.com/hekaijie123/TATrack)]
 
 ### WACV 2023
 
