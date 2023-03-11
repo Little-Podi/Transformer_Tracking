@@ -80,6 +80,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### AAAI 2023
 
 - **CTTrack** (Compact Transformer Tracker with Correlative Masked Modeling) [[paper](https://arxiv.org/abs/2301.10938)] [[code](https://github.com/HUSTDML/CTTrack)]
+- **DATF** (Global Dilated Attention and Target Focusing Network for Robust Tracking) [~~paper~~] [~~code~~]
 - **TATrack** (Target-Aware Tracking with Long-term Context Attention) [[paper](https://arxiv.org/abs/2302.13840)] [[code](https://github.com/hekaijie123/TATrack)]
 
 ### WACV 2023
@@ -88,8 +89,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ICRA 2023
 
-- **ClimRT** (Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/ClimRT)]
-- **SGDViT** (SGDViT: Saliency-Guided Dynamic vision Transformer for UAV tracking) [~~paper~~] [[code](https://github.com/vision4robotics/SGDViT)]
+- **ClimRT** (Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking) [[paper](https://arxiv.org/abs/2303.04525)] [[code](https://github.com/vision4robotics/ClimRT)]
+- **SGDViT** (SGDViT: Saliency-Guided Dynamic vision Transformer for UAV tracking) [[paper](https://arxiv.org/abs/2303.04378)] [[code](https://github.com/vision4robotics/SGDViT)]
 
 ### IROS 2023
 
