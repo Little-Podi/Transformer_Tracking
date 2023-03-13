@@ -49,6 +49,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Unified Tracking (UT)
 
+### CVPR 2023:tada::tada::tada:
+
+- **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://github.com/MasterBin-IIAU/UNINEXT/blob/master/assets/UNINEXT_Paper.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
+
 ### CVPR 2022:tada::tada::tada:
 
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[paper](https://arxiv.org/abs/2203.15175)] [[code](https://github.com/Flowerfan/Trackron)]
