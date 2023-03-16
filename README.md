@@ -51,7 +51,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2023:tada::tada::tada:
 
-- **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://github.com/MasterBin-IIAU/UNINEXT/blob/master/assets/UNINEXT_Paper.pdf)] [[code](https://arxiv.org/abs/2303.06674)]
+- **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://arxiv.org/abs/2303.06674)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
 
 ### CVPR 2022:tada::tada::tada:
 
