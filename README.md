@@ -172,7 +172,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **FDNT** (End-to-End Feature Decontaminated Network for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDNT)]
 - **FDT** (Feature-Distilled Transformer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDT-tracker)]
 - **ProContEXT** (ProContEXT: Exploring Progressive Context Transformer for Tracking) [[paper](https://arxiv.org/abs/2210.15511)] [[code](https://shorturl.at/jnNT2)]
-- **PruningInTracking** (On Designing Light-Weight Object Trackers through Network Pruning: Use CNNs or Transformers?) [[paper](https://arxiv.org/abs/2211.13769)] [~~code~~]
 - **ScaleAwareDA** (Scale-Aware Domain Adaptation for Robust UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/ScaleAwareDA)]
 - **SFTransT** (Learning Spatial-Frequency Transformer for Visual Object Tracking) [[paper](https://arxiv.org/abs/2208.08829)] [[code](https://github.com/Tchuanm/SFTransT)]
 - **SiamLA** (Learning Localization-Aware Target Confidence for Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2204.14093)] [~~code~~]
@@ -218,6 +217,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 
 ## :bookmark:3D Single Object Tracking (3DSOT)
+
+### Preprint 2023
+
+- **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [~~code~~]
 
 ### CVPR 2022:tada::tada::tada:
 
