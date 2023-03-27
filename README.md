@@ -85,6 +85,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **GRM** (Generalized Relation Modeling for Transformer Tracking) [~~paper~~] [[code](https://github.com/Little-Podi/GRM)]
 - **JointNLT** (Joint Visual Grounding and Tracking with Natural Language Specification) [[paper](https://arxiv.org/abs/2303.12027)] [[code](https://github.com/lizhou-cs/JointNLT)]
+- **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [~~paper~~] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
 
 ### AAAI 2023
@@ -116,7 +117,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **GTELT** (Global Tracking via Ensemble of Local Trackers) [[paper](https://arxiv.org/abs/2203.16092)] [[code](https://github.com/ZikunZhou/GTELT)]
 - **MixFormer** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2203.11082)] [[code](https://github.com/MCG-NJU/MixFormer)]
 - **RBO** (Ranking-Based Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2205.11761)] [[code](https://github.com/sansanfree/RBO)]
-- **SBT** (Correlation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)] [[code](https://github.com/phiphiphi31/SuperSBT)]
+- **SBT** (Correlation-Aware Deep Tracking) [[paper](https://arxiv.org/abs/2203.01666)] [[code](https://github.com/phiphiphi31/SBT)]
 - **STNet** (Spiking Transformers for Event-Based Single Object Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)] [[code](https://github.com/Jee-King/CVPR2022_STNet)]
 - **TCTrack** (TCTrack: Temporal Contexts for Aerial Tracking) [[paper](https://arxiv.org/abs/2203.01885)] [[code](https://github.com/vision4robotics/TCTrack)]
 - **ToMP** (Transforming Model Prediction for Tracking) [[paper](https://arxiv.org/abs/2203.11192)] [[code](https://github.com/visionml/pytracking)]
