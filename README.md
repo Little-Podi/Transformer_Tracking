@@ -86,13 +86,15 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **ARKitTrack** (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [[paper](https://arxiv.org/abs/2303.13885)] [[code](https://github.com/lawrence-cj/ARKitTrack)]
 - **GRM** (Generalized Relation Modeling for Transformer Tracking) [~~paper~~] [[code](https://github.com/Little-Podi/GRM)]
 - **JointNLT** (Joint Visual Grounding and Tracking with Natural Language Specification) [[paper](https://arxiv.org/abs/2303.12027)] [[code](https://github.com/lizhou-cs/JointNLT)]
+- **SeqTrack** () [~~paper~~] [~~code~~]
+- **SwinV2** (Revealing the Dark Secrets of Masked Image Modeling) [[paper](https://arxiv.org/abs/2205.13543)] [[code](https://github.com/SwinTransformer/MIM-Depth-Estimation)]
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [~~paper~~] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
 
 ### AAAI 2023
 
 - **CTTrack** (Compact Transformer Tracker with Correlative Masked Modeling) [[paper](https://arxiv.org/abs/2301.10938)] [[code](https://github.com/HUSTDML/CTTrack)]
-- **DATF** (Global Dilated Attention and Target Focusing Network for Robust Tracking) [~~paper~~] [~~code~~]
+- **GdaTFT** (Global Dilated Attention and Target Focusing Network for Robust Tracking) [[paper](https://underline.io/lecture/69278-global-dilated-attention-and-target-focusing-network-for-robust-tracking)] [~~code~~]
 - **TATrack** (Target-Aware Tracking with Long-term Context Attention) [[paper](https://arxiv.org/abs/2302.13840)] [[code](https://github.com/hekaijie123/TATrack)]
 
 ### WACV 2023
@@ -106,6 +108,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### IROS 2023
 
+- **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/CDT)]
 - **TRTrack** (TRTrack: Boosting UAV Object Tracking with Voxel-based Trajectory-aware Reconstruction Training) [~~paper~~] [[code](https://github.com/vision4robotics/TRTrack)]
 
 ### Preprint 2023
@@ -170,7 +173,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2022
 
-- **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/CDT)]
 - **CEUTrack** (Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric) [[paper](https://arxiv.org/abs/2211.11010)] [[code](https://github.com/Event-AHU/COESOT)]
 - **DMTracker** (Learning Dual-Fused Modality-Aware Representations for RGBD Tracking) [[paper](https://arxiv.org/abs/2211.03055)] [[code](https://github.com/ShangGaoG/DMTracker)]
 - **FDNT** (End-to-End Feature Decontaminated Network for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDNT)]
@@ -179,8 +181,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **ScaleAwareDA** (Scale-Aware Domain Adaptation for Robust UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/ScaleAwareDA)]
 - **SFTransT** (Learning Spatial-Frequency Transformer for Visual Object Tracking) [[paper](https://arxiv.org/abs/2208.08829)] [[code](https://github.com/Tchuanm/SFTransT)]
 - **SiamLA** (Learning Localization-Aware Target Confidence for Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2204.14093)] [~~code~~]
-- **SPT** (RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking) [[paper](https://arxiv.org/abs/2208.09787)] [~~code~~]
-- **SwinV2** (Revealing the Dark Secrets of Masked Image Modeling) [[paper](https://arxiv.org/abs/2205.13543)] [~~code~~]
+- **SPT** (RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking) [[paper](https://arxiv.org/abs/2208.09787)] [[code](https://github.com/xuefeng-zhu5/RGBD1K)]
 
 ### CVPR 2021:tada::tada::tada:
 
