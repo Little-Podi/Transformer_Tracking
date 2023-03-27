@@ -83,6 +83,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2023:tada::tada::tada:
 
+- **ARKitTrack** (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [[paper](https://arxiv.org/abs/2303.13885)] [[code](https://github.com/lawrence-cj/ARKitTrack)]
 - **GRM** (Generalized Relation Modeling for Transformer Tracking) [~~paper~~] [[code](https://github.com/Little-Podi/GRM)]
 - **JointNLT** (Joint Visual Grounding and Tracking with Natural Language Specification) [[paper](https://arxiv.org/abs/2303.12027)] [[code](https://github.com/lizhou-cs/JointNLT)]
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [~~paper~~] [[code](https://github.com/phiphiphi31/VideoTrack)]
