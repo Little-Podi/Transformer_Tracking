@@ -10,7 +10,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
 
-- **GRM** (Generalized Relation Modeling for Transformer Tracking) [~~paper~~] [~~code~~]
+- **GRM** (Generalized Relation Modeling for Transformer Tracking) [[paper](https://arxiv.org/abs/2303.16580)] [[code](https://github.com/Little-Podi/GRM)]
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
@@ -84,7 +84,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### CVPR 2023:tada::tada::tada:
 
 - **ARKitTrack** (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [[paper](https://arxiv.org/abs/2303.13885)] [[code](https://github.com/lawrence-cj/ARKitTrack)]
-- **GRM** (Generalized Relation Modeling for Transformer Tracking) [~~paper~~] [[code](https://github.com/Little-Podi/GRM)]
+- **GRM** (Generalized Relation Modeling for Transformer Tracking) [[paper](https://arxiv.org/abs/2303.16580)] [[code](https://github.com/Little-Podi/GRM)]
 - **JointNLT** (Joint Visual Grounding and Tracking with Natural Language Specification) [[paper](https://arxiv.org/abs/2303.12027)] [[code](https://github.com/lizhou-cs/JointNLT)]
 - **SeqTrack** () [~~paper~~] [~~code~~]
 - **SwinV2** (Revealing the Dark Secrets of Masked Image Modeling) [[paper](https://arxiv.org/abs/2205.13543)] [[code](https://github.com/SwinTransformer/MIM-Depth-Estimation)]
