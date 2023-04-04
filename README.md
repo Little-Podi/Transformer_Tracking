@@ -18,7 +18,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **(Talk)** Discriminative Appearance-Based Tracking and Segmentation [[video](https://www.youtube.com/watch?v=ILVnBhFq2Ds)], Deep Visual Reasoning with Optimization-Based Network Modules [[video](https://www.youtube.com/watch?v=UR2TlFCrYac)]
 - **(Survey)** Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)], Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)]
 - **(Library)** PyTracking: Visual Tracking Library Based on PyTorch [[code](https://github.com/visionml/pytracking)]
-- **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io/)]
+- **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io/)], Bin Yan@DLUT [[web](https://masterbin-iiau.github.io/)]
 
 ### Joint Feature Extraction and Interaction Era:fire::fire::fire:
 
