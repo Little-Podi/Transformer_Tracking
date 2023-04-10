@@ -41,7 +41,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
   - 3rd step :feet: joint feature extraction and interaction.
     - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-2)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
   - 4th step :feet: generalized feature interaction and relation modeling.
-    - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
+    - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-2)]
 
 ### Up-to-Date Benchmark Results:rocket::rocket::rocket:
 
@@ -68,6 +68,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Generic Object Tracking (GOT)
 
+### CVPR 2023:tada::tada::tada:
+
+- **OVTrack** (OVTrack: Open-Vocabulary Multiple Object Tracking) [~~paper~~] [~~code~~]
+
 ### CVPR 2022:tada::tada::tada:
 
 - **GTR** (Global Tracking Transformers) [[paper](https://arxiv.org/abs/2203.13250)] [[code](https://github.com/xingyizhou/GTR)]
@@ -86,10 +90,14 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **DropTrack** (DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks) [[paper](https://arxiv.org/abs/2304.00571)] [[code](https://github.com/jimmy-dq/DropMAE)]
 - **GRM** (Generalized Relation Modeling for Transformer Tracking) [[paper](https://arxiv.org/abs/2303.16580)] [[code](https://github.com/Little-Podi/GRM)]
 - **JointNLT** (Joint Visual Grounding and Tracking with Natural Language Specification) [[paper](https://arxiv.org/abs/2303.12027)] [[code](https://github.com/lizhou-cs/JointNLT)]
-- **SeqTrack** () [~~paper~~] [~~code~~]
+- **SeqTrack** (SeqTrack: Sequence to Sequence Learning for Visual Object Tracking) [~~paper~~] [~~code~~]
 - **SwinV2** (Revealing the Dark Secrets of Masked Image Modeling) [[paper](https://arxiv.org/abs/2205.13543)] [[code](https://github.com/SwinTransformer/MIM-Depth-Estimation)]
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [~~paper~~] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
+- Autoregressive Visual Tracking
+- Bridging Search Region Interaction with Template for RGB-T Tracking
+- Efficient RGB-T Tracking via Cross-Modality Distillation
+- Representation Learning for Visual Object Tracking by Masked Appearance Transfer
 
 ### AAAI 2023
 
@@ -225,6 +233,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:3D Single Object Tracking (3DSOT)
 
+### CVPR 2023:tada::tada::tada:
+
+- **CXTrack** (CXTrack: Improving 3D Point Cloud Tracking with Contextual Information) [[paper](https://arxiv.org/abs/2211.08542)] [~~code~~]
+
 ### AAAI 2023
 
 - **GLT-T** (GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds) [[paper](https://arxiv.org/abs/2211.10927)] [[code](https://github.com/haooozi/GLT-T)]
@@ -247,7 +259,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2022
 
-- **CXTrack** (CXTrack: Improving 3D Point Cloud Tracking with Contextual Information) [[paper](https://arxiv.org/abs/2211.08542)] [~~code~~]
 - **OST** (OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds) [[paper](https://arxiv.org/abs/2210.08518)] [~~code~~]
 - **PCET** (Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2209.00522)] [~~code~~]
 - **PTTR++** (Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2208.05216)] [[code](https://github.com/Jasonkks/PTTR)]
