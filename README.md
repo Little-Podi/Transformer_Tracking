@@ -82,7 +82,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
 - Autoregressive Visual Tracking
 - Bridging Search Region Interaction with Template for RGB-T Tracking
-- Efficient RGB-T Tracking via Cross-Modality Distillation
 - Representation Learning for Visual Object Tracking by Masked Appearance Transfer
 
 ### AAAI 2023
