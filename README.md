@@ -106,8 +106,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### IROS 2023
 
-- **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/CDT)]
-- **TRTrack** (TRTrack: Boosting UAV Object Tracking with Voxel-based Trajectory-aware Reconstruction Training) [~~paper~~] [[code](https://github.com/vision4robotics/TRTrack)]
+- **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [[paper](https://ieeexplore.ieee.org/document/10093049)] [[code](https://github.com/vision4robotics/CDT)]
+- **TRTrack** (Boosting UAV Tracking With Voxel-Based Trajectory-Aware Pre-Training) [[paper](https://ieeexplore.ieee.org/document/10015867)] [[code](https://github.com/vision4robotics/TRTrack)]
 
 ### Preprint 2023
 
