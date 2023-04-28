@@ -81,7 +81,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **DropTrack** (DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks) [[paper](https://arxiv.org/abs/2304.00571)] [[code](https://github.com/jimmy-dq/DropTrack)]
 - **GRM** (Generalized Relation Modeling for Transformer Tracking) [[paper](https://arxiv.org/abs/2303.16580)] [[code](https://github.com/Little-Podi/GRM)]
 - **JointNLT** (Joint Visual Grounding and Tracking with Natural Language Specification) [[paper](https://arxiv.org/abs/2303.12027)] [[code](https://github.com/lizhou-cs/JointNLT)]
-- **SeqTrack** (SeqTrack: Sequence to Sequence Learning for Visual Object Tracking) [~~paper~~] [[code](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
+- **SeqTrack** (SeqTrack: Sequence to Sequence Learning for Visual Object Tracking) [[paper](https://arxiv.org/abs/2304.14394)] [[code](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
 - **SwinV2** (Revealing the Dark Secrets of Masked Image Modeling) [[paper](https://arxiv.org/abs/2205.13543)] [[code](https://github.com/SwinTransformer/MIM-Depth-Estimation)]
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [~~paper~~] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
