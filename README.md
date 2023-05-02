@@ -108,7 +108,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [[paper](https://ieeexplore.ieee.org/document/10093049)] [[code](https://github.com/vision4robotics/CDT)]
 - **FDNT** (End-to-End Feature Decontaminated Network for UAV Tracking) [[paper](https://ieeexplore.ieee.org/document/9981882)] [[code](https://github.com/vision4robotics/FDNT)]
-- **ScaleAwareDA** (Scale-Aware Domain Adaptation for Robust UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/ScaleAwareDA)]
+- **ScaleAwareDA** (Scale-Aware Domain Adaptation for Robust UAV Tracking) [[paper](https://ieeexplore.ieee.org/abstract/document/10111056)] [[code](https://github.com/vision4robotics/ScaleAwareDA)]
 - **TRTrack** (Boosting UAV Tracking With Voxel-Based Trajectory-Aware Pre-Training) [[paper](https://ieeexplore.ieee.org/document/10015867)] [[code](https://github.com/vision4robotics/TRTrack)]
 
 ### Preprint 2023
