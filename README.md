@@ -63,7 +63,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2023
 
-- **SAM-Track** (Segment and Track Anything) [~~paper~~] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+- **SAM-Track** (Segment and Track Anything) [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
 - **TAM** (Track Anything: Segment Anything Meets Videos) [[paper](https://arxiv.org/abs/2304.11968)] [[code](https://github.com/gaomingqi/Track-Anything)]
 
 ### CVPR 2022:tada::tada::tada:
