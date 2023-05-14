@@ -7,7 +7,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - ### [[Single Object Tracking](https://github.com/Little-Podi/Transformer_Tracking#bookmarksingle-object-tracking-sot)]
 - ### [[3D Single Object Tracking](https://github.com/Little-Podi/Transformer_Tracking#bookmark3d-single-object-tracking-3dsot)]
 
-- Note: I find it hard to trace all tasks that are related to tracking, including Video Object Segmentation (VOS), Multiple Object Tracking (MOT), Video Instance Segmentation (VIS), Video Object Detection (VOD) and Object Re-Identification (ReID). Hence, I discard all other tracking tasks in a previous update. If you are interested, you can find plenty of collections in [this archived verison](https://github.com/Little-Podi/Transformer_Tracking/tree/4cc6050c07dfd4ecbc9f6aa584601a457ed84eb3). Besides, the most recent trend shows that different tracking tasks are coming to the same avenue.
+Note: I find it hard to trace all tasks that are related to tracking, including Video Object Segmentation (VOS), Multiple Object Tracking (MOT), Video Instance Segmentation (VIS), Video Object Detection (VOD) and Object Re-Identification (ReID). Hence, I discard all other tracking tasks in a previous update. If you are interested, you can find plenty of collections in [this archived verison](https://github.com/Little-Podi/Transformer_Tracking/tree/4cc6050c07dfd4ecbc9f6aa584601a457ed84eb3). Besides, the most recent trend shows that different tracking tasks are coming to the same avenue.
 
 
 
