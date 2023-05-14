@@ -88,9 +88,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **SwinV2** (Revealing the Dark Secrets of Masked Image Modeling) [[paper](https://arxiv.org/abs/2205.13543)] [[code](https://github.com/SwinTransformer/MIM-Depth-Estimation)]
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [~~paper~~] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
-- Autoregressive Visual Tracking
-- Bridging Search Region Interaction with Template for RGB-T Tracking
-- Representation Learning for Visual Object Tracking by Masked Appearance Transfer
 
 ### AAAI 2023
 
