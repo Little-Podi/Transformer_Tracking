@@ -129,6 +129,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### CVPR 2022:tada::tada::tada:
 
+- **CMTR** (Cross-Modal Target Retrieval for Tracking by Natural Language) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.html)] [~~code~~]
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]
 - **GTELT** (Global Tracking via Ensemble of Local Trackers) [[paper](https://arxiv.org/abs/2203.16092)] [[code](https://github.com/ZikunZhou/GTELT)]
 - **MixFormer** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2203.11082)] [[code](https://github.com/MCG-NJU/MixFormer)]
@@ -257,7 +258,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### CVPR 2022:tada::tada::tada:
 
-- **CMTR** (Cross-Modal Target Retrieval for Tracking by Natural Language) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.html)] [~~code~~]
 - **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2112.02857)] [[code](https://github.com/Jasonkks/PTTR)]
 
 ### ECCV 2022:tada::tada::tada:
