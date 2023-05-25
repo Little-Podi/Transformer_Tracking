@@ -65,6 +65,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **SAM-Track** (Segment and Track Anything) [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
 - **TAM** (Track Anything: Segment Anything Meets Videos) [[paper](https://arxiv.org/abs/2304.11968)] [[code](https://github.com/gaomingqi/Track-Anything)]
+- **UVOSAM** (UVOSAM: A Mask-Free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model) [[paper](https://arxiv.org/abs/2305.12659)] [~~code~~]
 
 ### CVPR 2022:tada::tada::tada:
 
