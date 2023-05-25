@@ -121,8 +121,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Preprint 2023
 
-- **AMST2** (AMST2: Aggregated Multi-Level Spatial and Temporal Context-Based Transformer for Robust Aerial Tracking) [[paper](https://www.researchsquare.com/article/rs-2770662/v1)] [~~code~~]
-- **FAT** (Transformer Tracker Based on Multi-level Residual Perception Structure) [[paper](https://www.researchsquare.com/article/rs-2799061/v1)] [~~code~~]
 - **MACFT** (RGB-T Tracking Based on Mixed Attention) [[paper](https://arxiv.org/abs/2304.04264)] [~~code~~]
 - **MixViT** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2302.02814)] [[code](https://github.com/MCG-NJU/MixFormer)]
 - **ProFormer** (RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning) [[paper](https://arxiv.org/abs/2303.14778)] [~~code~~]
