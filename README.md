@@ -15,8 +15,8 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
 
-- **GRM** (Generalized Relation Modeling for Transformer Tracking) [[paper](https://arxiv.org/abs/2303.16580)] [[code](https://github.com/Little-Podi/GRM)]
-- **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
+- **GRM** (Generalized Relation Modeling for Transformer Tracking) [[paper](https://arxiv.org/abs/2303.16580)] [[code](https://github.com/Little-Podi/GRM)] [[video]()]
+- **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)] [[video]()]
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
@@ -123,6 +123,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2023
 
 - **MACFT** (RGB-T Tracking Based on Mixed Attention) [[paper](https://arxiv.org/abs/2304.04264)] [~~code~~]
+- **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper](https://arxiv.org/abs/2305.15896)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
 - **MixViT** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2302.02814)] [[code](https://github.com/MCG-NJU/MixFormer)]
 - **ProFormer** (RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning) [[paper](https://arxiv.org/abs/2303.14778)] [~~code~~]
 
