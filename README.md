@@ -62,7 +62,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://arxiv.org/abs/2303.06674)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
 
 ### Preprint 2023
-
+- **CO-MOT** (Bridging the Gap Between End-to-end and Non-End-to-end Multi-Object Tracking) [[paper]([https://arxiv.org/abs/2305.13495](https://arxiv.org/abs/2305.12724))] [[code](https://github.com/BingfengYan/CO-MOT)]
 - **MENDER** (Type-to-Track: Retrieve Any Object via Prompt-based Tracking) [[paper](https://arxiv.org/abs/2305.13495)] [~~code~~]
 - **SAM-Track** (Segment and Track Anything) [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
 - **TAM** (Track Anything: Segment Anything Meets Videos) [[paper](https://arxiv.org/abs/2304.11968)] [[code](https://github.com/gaomingqi/Track-Anything)]
