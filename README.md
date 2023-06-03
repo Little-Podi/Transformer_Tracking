@@ -62,11 +62,9 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://arxiv.org/abs/2303.06674)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
 
 ### Preprint 2023
-- **CO-MOT** (Bridging the Gap Between End-to-end and Non-End-to-end Multi-Object Tracking) [[paper]([https://arxiv.org/abs/2305.13495](https://arxiv.org/abs/2305.12724))] [[code](https://github.com/BingfengYan/CO-MOT)]
-- **MENDER** (Type-to-Track: Retrieve Any Object via Prompt-based Tracking) [[paper](https://arxiv.org/abs/2305.13495)] [~~code~~]
+
 - **SAM-Track** (Segment and Track Anything) [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
 - **TAM** (Track Anything: Segment Anything Meets Videos) [[paper](https://arxiv.org/abs/2304.11968)] [[code](https://github.com/gaomingqi/Track-Anything)]
-- **UVOSAM** (UVOSAM: A Mask-Free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model) [[paper](https://arxiv.org/abs/2305.12659)] [~~code~~]
 
 ### CVPR 2022:tada::tada::tada:
 
@@ -188,7 +186,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Preprint 2022
 
-- **CEUTrack** (Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric) [[paper](https://arxiv.org/abs/2211.11010)] [[code](https://github.com/Event-AHU/COESOT)]
+- **CEUTrack** (Revisiting Color-Event Based Tracking: A Unified Network, Dataset, and Metric) [[paper](https://arxiv.org/abs/2211.11010)] [[code](https://github.com/Event-AHU/COESOT)]
 - **FDT** (Feature-Distilled Transformer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDT-tracker)]
 - **ProContEXT** (ProContEXT: Exploring Progressive Context Transformer for Tracking) [[paper](https://arxiv.org/abs/2210.15511)] [[code](https://shorturl.at/jnNT2)]
 - **RAMAVT** (On Deep Recurrent Reinforcement Learning for Active Visual Tracking of Space Noncooperative Objects) [[paper](https://arxiv.org/abs/2212.14304)] [[code](https://github.com/Dongzhou-1996/RAMAVT)]
