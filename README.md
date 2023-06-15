@@ -75,7 +75,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### CVPR 2023:tada::tada::tada:
 
-- **ARKitTrack** (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [[paper](https://arxiv.org/abs/2303.13885)] [[code](https://github.com/lawrence-cj/ARKitTrack)]
 - **ARTrack** (Autoregressive Visual Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html)] [[code](https://github.com/MIV-XJTU/ARTrack)]
 - **DropTrack** (DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks) [[paper](https://arxiv.org/abs/2304.00571)] [[code](https://github.com/jimmy-dq/DropTrack)]
 - **EMT** (Resource-Efficient RGBD Aerial Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.html)] [[code](https://github.com/yjybuaa/RGBDAerialTracking)]
@@ -181,13 +180,12 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Preprint 2022
 
-- **CEUTrack** (Revisiting Color-Event Based Tracking: A Unified Network, Dataset, and Metric) [[paper](https://arxiv.org/abs/2211.11010)] [[code](https://github.com/Event-AHU/COESOT)]
+- **CEUTrack** (Revisiting Color-Event Based Tracking: A Unified Network, Dataset, and Metric) [[paper](https://arxiv.org/abs/2211.11010)] [[code](https://github.com/Event-AHU/COESOT/tree/main/CEUTrack)]
 - **FDT** (Feature-Distilled Transformer for UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/FDT-tracker)]
 - **ProContEXT** (ProContEXT: Exploring Progressive Context Transformer for Tracking) [[paper](https://arxiv.org/abs/2210.15511)] [[code](https://shorturl.at/jnNT2)]
 - **RAMAVT** (On Deep Recurrent Reinforcement Learning for Active Visual Tracking of Space Noncooperative Objects) [[paper](https://arxiv.org/abs/2212.14304)] [[code](https://github.com/Dongzhou-1996/RAMAVT)]
 - **SFTransT** (Learning Spatial-Frequency Transformer for Visual Object Tracking) [[paper](https://arxiv.org/abs/2208.08829)] [[code](https://github.com/Tchuanm/SFTransT)]
 - **SiamLA** (Learning Localization-Aware Target Confidence for Siamese Visual Tracking) [[paper](https://arxiv.org/abs/2204.14093)] [~~code~~]
-- **SPT** (RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking) [[paper](https://arxiv.org/abs/2208.09787)] [[code](https://github.com/xuefeng-zhu5/RGBD1K)]
 - **TaMOs** (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [[paper](https://arxiv.org/abs/2212.11920)] [~~code~~]
 
 ### CVPR 2021:tada::tada::tada:
