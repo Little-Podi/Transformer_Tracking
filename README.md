@@ -27,11 +27,18 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Recent Trends:fire::fire::fire:
 
-- #### Feature Backbone: Joint Feature Extraction and Interaction:rocket::rocket::rocket:
+- ### Target Head: Autoregressive Temporal Modeling:dizzy::dizzy::dizzy:
 
-![](backbone.png)
+  - #### Representative
 
-  - ##### Advantage
+    - Bounding box as coordinate sequence.
+      - **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
+
+![](head.png)
+
+- ### Feature Backbone: Joint Feature Extraction and Interaction:rocket::rocket::rocket:
+
+  - #### Advantage
 
     - Benefit from pre-trained vision Transformer models.
     - Free from randomly initialized correlation modules.
@@ -39,7 +46,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
     - Much faster inference and training convergence speed.
     - Simple and generic one-branch tracking framework.
 
-  - ##### Roadmap
+  - #### Roadmap
 
     - 1st step :feet: feature interaction inside the backbone.
       - **SiamAttn** [[CVPR'20](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2020tadatadatada)], **SBT** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **InMo** [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
@@ -50,14 +57,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
     - 4th step :feet: generalized feature interaction and relation modeling.
       - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
 
-- #### Target Head: Autoregressive Temporal Modeling:dizzy::dizzy::dizzy:
-
-![](head.png)
-
-  - ##### Representative
-
-    - Bounding box as coordinate sequence.
-      - **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
+![](backbone.png)
 
 
 
