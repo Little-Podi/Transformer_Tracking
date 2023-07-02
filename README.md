@@ -25,32 +25,39 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **(Library)** PyTracking: Visual Tracking Library Based on PyTorch [[code](https://github.com/visionml/pytracking)]
 - **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io/)], Bin Yan@DLUT [[web](https://masterbin-iiau.github.io/)]
 
-### Joint Feature Extraction and Interaction Era:fire::fire::fire:
+### Recent Trends:fire::fire::fire:
 
-![](illustration.png)
+- #### Feature Backbone: Joint Feature Extraction and Interaction:rocket::rocket::rocket:
 
-- #### Advantage
+![](backbone.png)
 
-  - Benefit from pre-trained vision Transformer models.
-  - Free from randomly initialized correlation modules.
-  - More discriminative target-specific feature extraction.
-  - Much faster inference and training convergence speed.
-  - Simple and generic one-branch tracking framework.
+  - ##### Advantage
 
-- #### Roadmap
+    - Benefit from pre-trained vision Transformer models.
+    - Free from randomly initialized correlation modules.
+    - More discriminative target-specific feature extraction.
+    - Much faster inference and training convergence speed.
+    - Simple and generic one-branch tracking framework.
 
-  - 1st step :feet: feature interaction inside the backbone.
-    - **SiamAttn** [[CVPR'20](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2020tadatadatada)], **SBT** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **InMo** [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
-  - 2nd step :feet: concatenation-based feature interaction.
-    - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], **SwinTrack** [[NeurIPS'22](https://github.com/Little-Podi/Transformer_Tracking#neurips-2022tadatadatada)]
-  - 3rd step :feet: joint feature extraction and interaction.
-    - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
-  - 4th step :feet: generalized feature interaction and relation modeling.
-    - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
+  - ##### Roadmap
 
-### Up-to-Date Benchmark Results:rocket::rocket::rocket:
+    - 1st step :feet: feature interaction inside the backbone.
+      - **SiamAttn** [[CVPR'20](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2020tadatadatada)], **SBT** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **InMo** [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
+    - 2nd step :feet: concatenation-based feature interaction.
+      - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], **SwinTrack** [[NeurIPS'22](https://github.com/Little-Podi/Transformer_Tracking#neurips-2022tadatadatada)]
+    - 3rd step :feet: joint feature extraction and interaction.
+      - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
+    - 4th step :feet: generalized feature interaction and relation modeling.
+      - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
 
-![](performance.png)
+- #### Target Head: Autoregressive Temporal Modeling:dizzy::dizzy::dizzy:
+
+![](head.png)
+
+  - ##### Representative
+
+    - Bounding box as coordinate sequence.
+      - **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
 
 
 
@@ -90,7 +97,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### AAAI 2023
 
 - **CTTrack** (Compact Transformer Tracker with Correlative Masked Modeling) [[paper](https://arxiv.org/abs/2301.10938)] [[code](https://github.com/HUSTDML/CTTrack)]
-- **GdaTFT** (Global Dilated Attention and Target Focusing Network for Robust Tracking) [[paper](https://underline.io/lecture/69278-global-dilated-attention-and-target-focusing-network-for-robust-tracking)] [~~code~~]
+- **GdaTFT** (Global Dilated Attention and Target Focusing Network for Robust Tracking) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25241)] [~~code~~]
 - **TATrack** (Target-Aware Tracking with Long-term Context Attention) [[paper](https://arxiv.org/abs/2302.13840)] [[code](https://github.com/hekaijie123/TATrack)]
 
 ### WACV 2023
