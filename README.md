@@ -127,7 +127,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper](https://arxiv.org/abs/2305.15896)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
 - **MixViT** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2302.02814)] [[code](https://github.com/MCG-NJU/MixFormer)]
 - **ProFormer** (RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning) [[paper](https://arxiv.org/abs/2303.14778)] [~~code~~]
-- **SAM-DA** (SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation) [~~paper~~] [[code](https://github.com/vision4robotics/SAM-DA)]
+- **SAM-DA** (SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation) [[paper](https://arxiv.org/abs/2307.01024)] [[code](https://github.com/vision4robotics/SAM-DA)]
 
 ### CVPR 2022:tada::tada::tada:
 
