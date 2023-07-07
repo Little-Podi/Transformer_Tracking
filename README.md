@@ -259,6 +259,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [~~code~~]
 - **MMF-Track** (Multi-Modal Multi-Level Fusion for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.06794)] [~~code~~]
 - **StreamTrack** (Modeling Continuous Motion for 3D Point Cloud Object Tracking) [[paper](https://arxiv.org/abs/2303.07605)] [~~code~~]
+- **STTracker** (STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2306.17440)] [~~code~~]
 
 ### CVPR 2022:tada::tada::tada:
 
