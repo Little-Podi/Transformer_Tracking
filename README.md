@@ -94,6 +94,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.html)] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
 
+### ICCV 2023:tada::tada::tada:
+
+- **COHA** (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-trackers) [[paper](https://arxiv.org/abs/2307.04129)] [[code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
+
 ### AAAI 2023
 
 - **CTTrack** (Compact Transformer Tracker with Correlative Masked Modeling) [[paper](https://arxiv.org/abs/2301.10938)] [[code](https://github.com/HUSTDML/CTTrack)]
@@ -123,7 +127,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Preprint 2023
 
-- **COHA** (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-trackers) [[paper](https://arxiv.org/abs/2307.04129)] [~~code~~]
 - **MACFT** (RGB-T Tracking Based on Mixed Attention) [[paper](https://arxiv.org/abs/2304.04264)] [~~code~~]
 - **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper](https://arxiv.org/abs/2305.15896)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
 - **MixViT** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2302.02814)] [[code](https://github.com/MCG-NJU/MixFormer)]
