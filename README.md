@@ -97,6 +97,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### ICCV 2023:tada::tada::tada:
 
 - **COHA** (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-trackers) [[paper](https://arxiv.org/abs/2307.04129)] [[code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
+- **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [[code](https://github.com/slothfulxtx/MBPTrack3D)]
 
 ### AAAI 2023
 
