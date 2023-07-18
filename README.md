@@ -97,7 +97,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### ICCV 2023:tada::tada::tada:
 
 - **COHA** (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-trackers) [[paper](https://arxiv.org/abs/2307.04129)] [[code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
-- **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [[code](https://github.com/slothfulxtx/MBPTrack3D)]
 
 ### AAAI 2023
 
@@ -250,6 +249,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **CorpNet** (Correlation Pyramid Network for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.09195)] [~~code~~]
 - **CXTrack** (CXTrack: Improving 3D Point Cloud Tracking with Contextual Information) [[paper](https://arxiv.org/abs/2211.08542)] [[code](https://github.com/slothfulxtx/cxtrack3d)]
 
+### ICCV 2023:tada::tada::tada:
+
+- **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [[code](https://github.com/slothfulxtx/MBPTrack3D)]
+
 ### AAAI 2023
 
 - **GLT-T** (GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds) [[paper](https://arxiv.org/abs/2211.10927)] [[code](https://github.com/haooozi/GLT-T)]
@@ -265,7 +268,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2023
 
 - **GLT-T++** (GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss) [[paper](https://arxiv.org/abs/2304.00242)] [[code](https://github.com/haooozi/GLT-T)]
-- **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [~~code~~]
 - **MMF-Track** (Multi-Modal Multi-Level Fusion for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.06794)] [~~code~~]
 - **StreamTrack** (Modeling Continuous Motion for 3D Point Cloud Object Tracking) [[paper](https://arxiv.org/abs/2303.07605)] [~~code~~]
 - **STTracker** (STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2306.17440)] [~~code~~]
