@@ -68,6 +68,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **OmniTracker** (OmniTracker: Unifying Object Tracking by Tracking-with-Detection) [[paper](https://arxiv.org/abs/2303.12079)] [~~code~~]
 - **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://arxiv.org/abs/2303.06674)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
 
+### Preprint 2023
+
+- **HQTrack** (Tracking Anything in High Quality) [[paper](https://arxiv.org/abs/2307.13974)] [[code](https://github.com/jiawen-zhu/HQTrack)]
+
 ### CVPR 2022:tada::tada::tada:
 
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[paper](https://arxiv.org/abs/2203.15175)] [[code](https://github.com/Flowerfan/Trackron)]
