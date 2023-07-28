@@ -18,6 +18,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **GRM** (Generalized Relation Modeling for Transformer Tracking) [[paper](https://arxiv.org/abs/2303.16580)] [[code](https://github.com/Little-Podi/GRM)] [[video](https://youtu.be/bQKN3HV-8XI)]
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)] [[video](https://youtu.be/TqNiOWx9cnI)]
 
+### Up-to-Date Benchmark Results:rocket::rocket::rocket:
+
+![](performance.png)
+
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
 - **(Survey)** Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)], Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
@@ -27,16 +31,16 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Recent Trends:fire::fire::fire:
 
-- ### Target Head: Autoregressive Temporal Modeling:dizzy::dizzy::dizzy:
+- ### Target Head: Autoregressive Temporal Modeling
 
   - #### Representative
 
     - Bounding box as coordinate sequence.
       - **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
 
-![](head.png)
+  ![](head.png)
 
-- ### Feature Backbone: Joint Feature Extraction and Interaction:rocket::rocket::rocket:
+- ### Feature Backbone: Joint Feature Extraction and Interaction
 
   - #### Advantage
 
@@ -57,7 +61,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
     - 4th step :feet: generalized feature interaction and relation modeling.
       - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
 
-![](backbone.png)
+  ![](backbone.png)
 
 
 
