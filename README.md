@@ -20,8 +20,8 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
+- **(Survey)** Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)], Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
 - **(Talk)** Discriminative Appearance-Based Tracking and Segmentation [[video](https://youtu.be/ILVnBhFq2Ds)], Deep Visual Reasoning with Optimization-Based Network Modules [[video](https://youtu.be/UR2TlFCrYac)]
-- **(Survey)** Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)], Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)]
 - **(Library)** PyTracking: Visual Tracking Library Based on PyTorch [[code](https://github.com/visionml/pytracking)]
 - **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io/)], Bin Yan@DLUT [[web](https://masterbin-iiau.github.io/)]
 
@@ -100,6 +100,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### ICCV 2023:tada::tada::tada:
 
+- **AiATrack-360** (360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking) [[paper](https://arxiv.org/abs/2307.14630)] [[code](https://github.com/HuajianUP/360VOT)]
 - **COHA** (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-trackers) [[paper](https://arxiv.org/abs/2307.04129)] [[code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
 
 ### AAAI 2023
