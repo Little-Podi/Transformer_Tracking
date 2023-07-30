@@ -75,6 +75,8 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2023
 
 - **HQTrack** (Tracking Anything in High Quality) [[paper](https://arxiv.org/abs/2307.13974)] [[code](https://github.com/jiawen-zhu/HQTrack)]
+- **SAM-Track** (Segment and Track Anything) [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+- **TAM** (Track Anything: Segment Anything Meets Videos) [[paper](https://arxiv.org/abs/2304.11968)] [[code](https://github.com/gaomingqi/Track-Anything)]
 
 ### CVPR 2022:tada::tada::tada:
 
