@@ -110,6 +110,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **AiATrack-360** (360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking) [[paper](https://arxiv.org/abs/2307.14630)] [[code](https://github.com/HuajianUP/360VOT)]
 - **CiteTracker** (CiteTracker: Correlating Image and Text for Visual Tracking) [~~paper~~] [[code](https://github.com/NorahGreen/CiteTracker)]
 - **HRTrack** (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-trackers) [[paper](https://arxiv.org/abs/2307.04129)] [[code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
+- **ROMTrack** (Robust Object Modeling for Visual Tracking) [[paper](https://arxiv.org/abs/2308.05140)] [[code](https://github.com/dawnyc/ROMTrack)]
 
 ### AAAI 2023
 
