@@ -269,6 +269,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### ICCV 2023:tada::tada::tada:
 
 - **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [[code](https://github.com/slothfulxtx/MBPTrack3D)]
+- **SyncTrack** (Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking) [[paper](https://arxiv.org/abs/2308.12549)] [~~code~~]
 
 ### AAAI 2023
 
@@ -287,6 +288,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **GLT-T++** (GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss) [[paper](https://arxiv.org/abs/2304.00242)] [[code](https://github.com/haooozi/GLT-T)]
 - **MMF-Track** (Multi-Modal Multi-Level Fusion for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.06794)] [~~code~~]
+- **MTM-Tracker** (Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2308.11875)] [[code](https://github.com/LeoZhiheng/MTM-Tracker)]
 - **StreamTrack** (Modeling Continuous Motion for 3D Point Cloud Object Tracking) [[paper](https://arxiv.org/abs/2303.07605)] [~~code~~]
 
 ### CVPR 2022:tada::tada::tada:
