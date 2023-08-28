@@ -72,6 +72,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **OmniTracker** (OmniTracker: Unifying Object Tracking by Tracking-with-Detection) [[paper](https://arxiv.org/abs/2303.12079)] [~~code~~]
 - **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://arxiv.org/abs/2303.06674)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
 
+### ICCV 2023:tada::tada::tada:
+
+- **MITS** (Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation) [[paper](https://arxiv.org/abs/2308.13266)] [[code](https://github.com/yoxu515/MITS)]
+
 ### Preprint 2023
 
 - **HQTrack** (Tracking Anything in High Quality) [[paper](https://arxiv.org/abs/2307.13974)] [[code](https://github.com/jiawen-zhu/HQTrack)]
