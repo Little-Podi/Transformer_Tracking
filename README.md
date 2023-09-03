@@ -116,6 +116,9 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **HiT** (Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2308.06904)] [[code](https://github.com/kangben258/HiT)]
 - **HRTrack** (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-trackers) [[paper](https://arxiv.org/abs/2307.04129)] [[code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
 - **ROMTrack** (Robust Object Modeling for Visual Tracking) [[paper](https://arxiv.org/abs/2308.05140)] [[code](https://github.com/dawnyc/ROMTrack)]
+- Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking
+- Foreground-Background Distribution Modeling Transformer for Visual Object Tracking
+- Tracking by Natural Language Specification with Long Short-term Context Decoupling
 
 ### AAAI 2023
 
