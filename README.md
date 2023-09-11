@@ -94,6 +94,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### WACV 2024
+
+- **SMAT** (Separable Self and Mixed Attention Transformers for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2309.03979)] [[code](https://github.com/goutamyg/SMAT)]
+
 ### CVPR 2023:tada::tada::tada:
 
 - **ART** (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [[paper](https://arxiv.org/abs/2303.13885)] [[code](https://github.com/lawrence-cj/ARKitTrack)]
