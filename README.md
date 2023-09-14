@@ -138,6 +138,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **E.T.Track** (Efficient Visual Tracking with Exemplar Transformers) [[paper](https://arxiv.org/abs/2112.09686)] [[code](https://github.com/pblatter/ettrack)]
 
+### BMVC 2023
+
+- **MVT** (Mobile Vision Transformer-Based Visual Object Tracking) [[paper](https://arxiv.org/abs/2309.05829)] [[code](https://github.com/goutamyg/MVT)]
+
 ### ICRA 2023
 
 - **ClimRT** (Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking) [[paper](https://arxiv.org/abs/2303.04525)] [[code](https://github.com/vision4robotics/ClimRT)]
@@ -148,6 +152,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **CDT** (Cascaded Denoising Transformer for UAV Nighttime Tracking) [[paper](https://ieeexplore.ieee.org/document/10093049)] [[code](https://github.com/vision4robotics/CDT)]
 - **FDNT** (End-to-End Feature Decontaminated Network for UAV Tracking) [[paper](https://ieeexplore.ieee.org/document/9981882)] [[code](https://github.com/vision4robotics/FDNT)]
 - **ScaleAwareDA** (Scale-Aware Domain Adaptation for Robust UAV Tracking) [[paper](https://ieeexplore.ieee.org/document/10111056)] [[code](https://github.com/vision4robotics/ScaleAwareDA)]
+- **TOTEM** (Transparent Object Tracking with Enhanced Fusion Module) [[paper](https://arxiv.org/abs/2309.06701)] [[code](https://github.com/kalyan0510/TOTEM)]
 - **TRTrack** (Boosting UAV Tracking With Voxel-Based Trajectory-Aware Pre-Training) [[paper](https://ieeexplore.ieee.org/document/10015867)] [[code](https://github.com/vision4robotics/TRTrack)]
 
 ### ICASSP 2023
