@@ -163,6 +163,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2023
 
 - **All-in-One** (All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment) [[paper](https://arxiv.org/abs/2307.03373)] [~~code~~]
+- **DATr** (Leveraging the Power of Data Augmentation for Transformer-Based Tracking) [[paper](https://arxiv.org/abs/2309.08264)] [~~code~~]
 - **DETRack** (Efficient Training for Visual Tracking with Deformable Transformer) [[paper](https://arxiv.org/abs/2309.02676)] [~~code~~]
 - **JN** (Towards Efficient Training with Negative Samples in Visual Tracking) [[paper](https://arxiv.org/abs/2309.02903)] [~~code~~]
 - **MACFT** (RGB-T Tracking Based on Mixed Attention) [[paper](https://arxiv.org/abs/2304.04264)] [~~code~~]
