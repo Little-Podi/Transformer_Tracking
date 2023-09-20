@@ -164,6 +164,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **All-in-One** (All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment) [[paper](https://arxiv.org/abs/2307.03373)] [~~code~~]
 - **DATr** (Leveraging the Power of Data Augmentation for Transformer-Based Tracking) [[paper](https://arxiv.org/abs/2309.08264)] [~~code~~]
+- **DCPT** (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [[paper](https://arxiv.org/abs/2309.10491)] [~~code~~]
 - **DETRack** (Efficient Training for Visual Tracking with Deformable Transformer) [[paper](https://arxiv.org/abs/2309.02676)] [~~code~~]
 - **JN** (Towards Efficient Training with Negative Samples in Visual Tracking) [[paper](https://arxiv.org/abs/2309.02903)] [~~code~~]
 - **LiteTrack** (LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2309.09249)] [[code](https://github.com/TsingWei/LiteTrack)]
