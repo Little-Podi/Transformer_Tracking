@@ -113,6 +113,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.html)] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
 
+### NeurIPS 2023:tada::tada::tada:
+
+- **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper](https://arxiv.org/abs/2305.15896)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
+
 ### ICCV 2023:tada::tada::tada:
 
 - **AiATrack-360** (360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking) [[paper](https://arxiv.org/abs/2307.14630)] [[code](https://github.com/HuajianUP/360VOT)]
@@ -169,7 +173,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **JN** (Towards Efficient Training with Negative Samples in Visual Tracking) [[paper](https://arxiv.org/abs/2309.02903)] [~~code~~]
 - **LiteTrack** (LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2309.09249)] [[code](https://github.com/TsingWei/LiteTrack)]
 - **MACFT** (RGB-T Tracking Based on Mixed Attention) [[paper](https://arxiv.org/abs/2304.04264)] [~~code~~]
-- **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper](https://arxiv.org/abs/2305.15896)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
 - **MixViT** (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [[paper](https://arxiv.org/abs/2302.02814)] [[code](https://github.com/MCG-NJU/MixFormer)]
 - **MMTrack** (Towards Unified Token Learning for Vision-Language Tracking) [[paper](https://arxiv.org/abs/2308.14103)] [[code](https://github.com/Azong-HQU/MMTrack)]
 - **MPLT** (RGB-T Tracking via Multi-Modal Mutual Prompt Learning) [[paper](https://arxiv.org/abs/2308.16386)] [[code](https://github.com/HusterYoung/MPLT)]
