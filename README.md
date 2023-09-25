@@ -116,6 +116,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### NeurIPS 2023:tada::tada::tada:
 
 - **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper](https://arxiv.org/abs/2305.15896)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
+- **ZoomTrack** (ZoomTrack: Target-Aware Non-Uniform Resizing for Efficient Visual Tracking) [~~paper~~] [[code](https://github.com/Kou-99/ZoomTrack)]
 
 ### ICCV 2023:tada::tada::tada:
 
