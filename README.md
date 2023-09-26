@@ -178,6 +178,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **MMTrack** (Towards Unified Token Learning for Vision-Language Tracking) [[paper](https://arxiv.org/abs/2308.14103)] [[code](https://github.com/Azong-HQU/MMTrack)]
 - **MPLT** (RGB-T Tracking via Multi-Modal Mutual Prompt Learning) [[paper](https://arxiv.org/abs/2308.16386)] [[code](https://github.com/HusterYoung/MPLT)]
 - **ProFormer** (RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning) [[paper](https://arxiv.org/abs/2303.14778)] [~~code~~]
+- **RTrack** (RTrack: Accelerating Convergence for Visual Object Tracking via Pseudo-Boxes Exploration) [[paper](https://arxiv.org/abs/2309.13257)] [~~code~~]
 - **SAM-DA** (SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation) [[paper](https://arxiv.org/abs/2307.01024)] [[code](https://github.com/vision4robotics/SAM-DA)]
 - **TCTrack++** (Towards Real-World Visual Tracking with Temporal Contexts) [[paper](https://arxiv.org/abs/2308.10330)] [[code](https://github.com/vision4robotics/TCTrack)]
 - **USTrack** (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [[paper](https://arxiv.org/abs/2308.13764)] [~~code~~]
