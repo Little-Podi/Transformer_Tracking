@@ -127,7 +127,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **ROMTrack** (Robust Object Modeling for Visual Tracking) [[paper](https://arxiv.org/abs/2308.05140)] [[code](https://github.com/dawnyc/ROMTrack)]
 - Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking
 - Foreground-Background Distribution Modeling Transformer for Visual Object Tracking
-- Tracking by Natural Language Specification with Long Short-term Context Decoupling
+- Tracking by Natural Language Specification with Long Short-Term Context Decoupling
 
 ### AAAI 2023
 
