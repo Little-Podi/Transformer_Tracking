@@ -171,6 +171,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **DATr** (Leveraging the Power of Data Augmentation for Transformer-Based Tracking) [[paper](https://arxiv.org/abs/2309.08264)] [~~code~~]
 - **DCPT** (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [[paper](https://arxiv.org/abs/2309.10491)] [~~code~~]
 - **DETRack** (Efficient Training for Visual Tracking with Deformable Transformer) [[paper](https://arxiv.org/abs/2309.02676)] [~~code~~]
+- **HDETrack** (Event Stream-Based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline) [[paper](https://arxiv.org/abs/2309.14611)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 - **JN** (Towards Efficient Training with Negative Samples in Visual Tracking) [[paper](https://arxiv.org/abs/2309.02903)] [~~code~~]
 - **LiteTrack** (LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2309.09249)] [[code](https://github.com/TsingWei/LiteTrack)]
 - **MACFT** (RGB-T Tracking Based on Mixed Attention) [[paper](https://arxiv.org/abs/2304.04264)] [~~code~~]
