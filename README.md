@@ -133,7 +133,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **CTTrack** (Compact Transformer Tracker with Correlative Masked Modeling) [[paper](https://arxiv.org/abs/2301.10938)] [[code](https://github.com/HUSTDML/CTTrack)]
 - **GdaTFT** (Global Dilated Attention and Target Focusing Network for Robust Tracking) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25241)] [~~code~~]
-- **TATrack** (Target-Aware Tracking with Long-term Context Attention) [[paper](https://arxiv.org/abs/2302.13840)] [[code](https://github.com/hekaijie123/TATrack)]
+- **TATrack** (Target-Aware Tracking with Long-Term Context Attention) [[paper](https://arxiv.org/abs/2302.13840)] [[code](https://github.com/hekaijie123/TATrack)]
 
 ### MICCAI 2023
 
