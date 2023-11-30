@@ -182,6 +182,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **ProFormer** (RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning) [[paper](https://arxiv.org/abs/2303.14778)] [~~code~~]
 - **RTrack** (RTrack: Accelerating Convergence for Visual Object Tracking via Pseudo-Boxes Exploration) [[paper](https://arxiv.org/abs/2309.13257)] [~~code~~]
 - **SAM-DA** (SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation) [[paper](https://arxiv.org/abs/2307.01024)] [[code](https://github.com/vision4robotics/SAM-DA)]
+- **SATracker** (Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking) [[paper](https://arxiv.org/abs/2311.17085)] [~~code~~]
 - **TCTrack++** (Towards Real-World Visual Tracking with Temporal Contexts) [[paper](https://arxiv.org/abs/2308.10330)] [[code](https://github.com/vision4robotics/TCTrack)]
 - **Un-Track** (Single-Model and Any-Modality for Video Object Tracking) [[paper](https://arxiv.org/abs/2311.15851)] [[code](https://github.com/Zongwei97/UnTrack)]
 - **USTAM** (USTAM: Unified Spatial-Temporal Attention MixFormer for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=MK7TEe7SJ3)] [~~code~~]
