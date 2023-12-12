@@ -308,6 +308,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### AAAI 2023
 
 - **GLT-T** (GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds) [[paper](https://arxiv.org/abs/2211.10927)] [[code](https://github.com/haooozi/GLT-T)]
+- **M3SOT** (M3SOT: Multi-Frame, Multi-Field, Multi-Space 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2312.06117)] [[code](https://github.com/ywu0912/TeamCode)]
 
 ### IJCAI 2023
 
