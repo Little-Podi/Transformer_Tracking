@@ -36,7 +36,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
   - #### Representative
 
     - Bounding box as coordinate sequence.
-      - **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)]
+      - **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)]
 
   ![](head.png)
 
@@ -53,13 +53,13 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
   - #### Roadmap
 
     - 1st step :feet: feature interaction inside the backbone.
-      - **SiamAttn** [[CVPR'20](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2020tadatadatada)], **SBT** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **InMo** [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
+      - **SiamAttn** [[CVPR'20](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2020)], **SBT** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022-1)], **InMo** [[IJCAI'22](https://github.com/Little-Podi/Transformer_Tracking#ijcai-2022)]
     - 2nd step :feet: concatenation-based feature interaction.
-      - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021tadatadatada)], **SwinTrack** [[NeurIPS'22](https://github.com/Little-Podi/Transformer_Tracking#neurips-2022tadatadatada)]
+      - **STARK** [[ICCV'21](https://github.com/Little-Podi/Transformer_Tracking#iccv-2021)], **SwinTrack** [[NeurIPS'22](https://github.com/Little-Podi/Transformer_Tracking#neurips-2022)]
     - 3rd step :feet: joint feature extraction and interaction.
-      - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022tadatadatada-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022tadatadatada-1)]
+      - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022-1)]
     - 4th step :feet: generalized and robust relation modeling.
-      - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023tadatadatada-1)], **ROMTrack** [[ICCV'23](https://github.com/Little-Podi/Transformer_Tracking#iccv-2023tadatadatada)].
+      - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)], **ROMTrack** [[ICCV'23](https://github.com/Little-Podi/Transformer_Tracking#iccv-2023)].
 
   ![](backbone.png)
 
@@ -67,12 +67,12 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ## :bookmark:Unified Tracking (UT)
 
-### CVPR 2023:tada::tada::tada:
+### CVPR 2023
 
 - **OmniTracker** (OmniTracker: Unifying Object Tracking by Tracking-with-Detection) [[paper](https://arxiv.org/abs/2303.12079)] [~~code~~]
 - **UNINEXT** (Universal Instance Perception as Object Discovery and Retrieval) [[paper](https://arxiv.org/abs/2303.06674)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
 
-### ICCV 2023:tada::tada::tada:
+### ICCV 2023
 
 - **MITS** (Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation) [[paper](https://arxiv.org/abs/2308.13266)] [[code](https://github.com/yoxu515/MITS)]
 
@@ -82,11 +82,11 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **SAM-Track** (Segment and Track Anything) [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
 - **TAM** (Track Anything: Segment Anything Meets Videos) [[paper](https://arxiv.org/abs/2304.11968)] [[code](https://github.com/gaomingqi/Track-Anything)]
 
-### CVPR 2022:tada::tada::tada:
+### CVPR 2022
 
 - **UTT** (Unified Transformer Tracker for Object Tracking) [[paper](https://arxiv.org/abs/2203.15175)] [[code](https://github.com/Flowerfan/Trackron)]
 
-### ECCV 2022:tada::tada::tada:
+### ECCV 2022
 
 - **Unicorn** (Towards Grand Unification of Object Tracking) [[paper](https://arxiv.org/abs/2207.07078)] [[code](https://github.com/MasterBin-IIAU/Unicorn)]
 
@@ -94,11 +94,15 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### AAAI 2024
+
+- **BAT** (Bi-Directional Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2312.10611)] [[code](https://github.com/SparkTempest/BAT)]
+
 ### WACV 2024
 
 - **SMAT** (Separable Self and Mixed Attention Transformers for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2309.03979)] [[code](https://github.com/goutamyg/SMAT)]
 
-### CVPR 2023:tada::tada::tada:
+### CVPR 2023
 
 - **ART** (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [[paper](https://arxiv.org/abs/2303.13885)] [[code](https://github.com/lawrence-cj/ARKitTrack)]
 - **ARTrack** (Autoregressive Visual Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html)] [[code](https://github.com/MIV-XJTU/ARTrack)]
@@ -113,12 +117,12 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **VideoTrack** (VideoTrack: Learning to Track Objects via Video Transformer) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.html)] [[code](https://github.com/phiphiphi31/VideoTrack)]
 - **ViPT** (Visual Prompt Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2303.10826)] [[code](https://github.com/jiawen-zhu/ViPT)]
 
-### NeurIPS 2023:tada::tada::tada:
+### NeurIPS 2023
 
 - **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper&review](https://openreview.net/forum?id=8WvYAycmDJ)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
 - **ZoomTrack** (ZoomTrack: Target-Aware Non-Uniform Resizing for Efficient Visual Tracking) [[paper&review](https://openreview.net/forum?id=DQgTewaKzt)] [[code](https://github.com/Kou-99/ZoomTrack)]
 
-### ICCV 2023:tada::tada::tada:
+### ICCV 2023
 
 - **Aba-ViTrack** (Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.html)] [[code](https://github.com/xyyang317/Aba-ViTrack)]
 - **AiATrack-360** (360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking) [[paper](https://arxiv.org/abs/2307.14630)] [[code](https://github.com/HuajianUP/360VOT)]
@@ -188,7 +192,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **USTAM** (USTAM: Unified Spatial-Temporal Attention MixFormer for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=MK7TEe7SJ3)] [~~code~~]
 - **USTrack** (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [[paper](https://arxiv.org/abs/2308.13764)] [~~code~~]
 
-### CVPR 2022:tada::tada::tada:
+### CVPR 2022
 
 - **CMTR** (Cross-Modal Target Retrieval for Tracking by Natural Language) [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.html)] [~~code~~]
 - **CSWinTT** (Transformer Tracking with Cyclic Shifting Window Attention) [[paper](https://arxiv.org/abs/2205.03806)] [[code](https://github.com/SkyeSong38/CSWinTT)]
@@ -201,11 +205,11 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **ToMP** (Transforming Model Prediction for Tracking) [[paper](https://arxiv.org/abs/2203.11192)] [[code](https://github.com/visionml/pytracking)]
 - **UDAT** (Unsupervised Domain Adaptation for Nighttime Aerial Tracking) [[paper](https://arxiv.org/abs/2203.10541)] [[code](https://github.com/vision4robotics/UDAT)]
 
-### NeurIPS 2022:tada::tada::tada:
+### NeurIPS 2022
 
 - **SwinTrack** (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [[paper&review](https://openreview.net/forum?id=9h3KsOVXhLZ)] [[code](https://github.com/LitingLin/SwinTrack)]
 
-### ECCV 2022:tada::tada::tada:
+### ECCV 2022
 
 - **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
 - **CIA** (Hierarchical Feature Embedding for Visual Tracking) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4400_ECCV_2022_paper.php)] [[code](https://github.com/zxgravity/CIA)]
@@ -256,14 +260,14 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **SPT** (RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking) [[paper](https://arxiv.org/abs/2208.09787)] [[code](https://github.com/xuefeng-zhu5/RGBD1K)]
 - **TaMOs** (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [[paper](https://arxiv.org/abs/2212.11920)] [~~code~~]
 
-### CVPR 2021:tada::tada::tada:
+### CVPR 2021
 
 - **SiamGAT** (Graph Attention Tracking) [[paper](https://arxiv.org/abs/2011.11204)] [[code](https://github.com/ohhhyeahhh/SiamGAT)]
 - **STMTrack** (STMTrack: Template-Free Visual Tracking with Space-Time Memory Networks) [[paper](https://arxiv.org/abs/2104.00324)] [[code](https://github.com/fzh0917/STMTrack)]
 - **TMT** (Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking) [[paper](https://arxiv.org/abs/2103.11681)] [[code](https://github.com/594422814/TransformerTrack)]
 - **TransT** (Transformer Tracking) [[paper](https://arxiv.org/abs/2103.15436)] [[code](https://github.com/chenxin-dlut/TransT)]
 
-### ICCV 2021:tada::tada::tada:
+### ICCV 2021
 
 - **AutoMatch** (Learn to Match: Automatic Matching Network Design for Visual Tracking) [[paper](https://arxiv.org/abs/2108.00803)] [[code](https://github.com/JudasDie/SOTS)]
 - **DTT** (High-Performance Discriminative Tracking with Transformers) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.html)] [[code](https://github.com/tominute/DTT)]
@@ -283,7 +287,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **TREG** (Target Transformed Regression for Accurate Tracking) [[paper](https://arxiv.org/abs/2104.00403)] [[code](https://github.com/MCG-NJU/TREG)]
 - **TrTr** (TrTr: Visual Tracking with Transformer) [[paper](https://arxiv.org/abs/2105.03817)] [[code](https://github.com/tongtybj/TrTr)]
 
-### CVPR 2020:tada::tada::tada:
+### CVPR 2020
 
 - **SiamAttn** (Deformable Siamese Attention Networks for Visual Object Tracking) [[paper](https://arxiv.org/abs/2004.06711)] [[code](https://github.com/msight-tech/research-siamattn)]
 
@@ -298,13 +302,14 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### AAAI 2024
 
 - **M3SOT** (M3SOT: Multi-Frame, Multi-Field, Multi-Space 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2312.06117)] [[code](https://github.com/liujia99/M3SOT)]
+- **SCVTrack** (Robust 3D Tracking with Quality-Aware Shape Completion) [[paper](https://arxiv.org/abs/2312.10608)] [[code](https://github.com/zjwhit/SCVTrack)]
 
-### CVPR 2023:tada::tada::tada:
+### CVPR 2023
 
 - **CorpNet** (Correlation Pyramid Network for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.09195)] [~~code~~]
 - **CXTrack** (CXTrack: Improving 3D Point Cloud Tracking with Contextual Information) [[paper](https://arxiv.org/abs/2211.08542)] [[code](https://github.com/slothfulxtx/cxtrack3d)]
 
-### ICCV 2023:tada::tada::tada:
+### ICCV 2023
 
 - **MBPTrack** (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [[paper](https://arxiv.org/abs/2303.05071)] [[code](https://github.com/slothfulxtx/MBPTrack3D)]
 - **SyncTrack** (Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking) [[paper](https://arxiv.org/abs/2308.12549)] [~~code~~]
@@ -325,15 +330,16 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2023
 
 - **GLT-T++** (GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss) [[paper](https://arxiv.org/abs/2304.00242)] [[code](https://github.com/haooozi/GLT-T)]
+- **MCSTN** (Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2312.11051)] [[code](https://github.com/liangp/MCSTN-3DSOT)]
 - **MMF-Track** (Multi-Modal Multi-Level Fusion for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.06794)] [[code](https://github.com/LeoZhiheng/MMF-Tracker)]
 - **MTM-Tracker** (Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2308.11875)] [[code](https://github.com/LeoZhiheng/MTM-Tracker)]
 - **StreamTrack** (Modeling Continuous Motion for 3D Point Cloud Object Tracking) [[paper](https://arxiv.org/abs/2303.07605)] [~~code~~]
 
-### CVPR 2022:tada::tada::tada:
+### CVPR 2022
 
 - **PTTR** (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [[paper](https://arxiv.org/abs/2112.02857)] [[code](https://github.com/Jasonkks/PTTR)]
 
-### ECCV 2022:tada::tada::tada:
+### ECCV 2022
 
 - **CMT** (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1253_ECCV_2022_paper.php)] [[code](https://github.com/jasongzy/CMT)]
 - **SpOT** (SpOT: Spatiotemporal Modeling for 3D Object Tracking) [[paper](https://arxiv.org/abs/2207.05856)] [~~code~~]
