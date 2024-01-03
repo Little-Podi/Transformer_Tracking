@@ -103,6 +103,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **SMAT** (Separable Self and Mixed Attention Transformers for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2309.03979)] [[code](https://github.com/goutamyg/SMAT)]
 - **TaMOs** (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [[paper](https://arxiv.org/abs/2212.11920)] [[code](https://github.com/visionml/pytracking)]
 
+### Preprint 2024
+
+- **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
+
 ### CVPR 2023
 
 - **ART** (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [[paper](https://arxiv.org/abs/2303.13885)] [[code](https://github.com/lawrence-cj/ARKitTrack)]
