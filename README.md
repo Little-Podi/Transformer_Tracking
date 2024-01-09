@@ -97,6 +97,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### AAAI 2024
 
 - **BAT** (Bi-Directional Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2312.10611)] [[code](https://github.com/SparkTempest/BAT)]
+- **EVPTrack** (Explicit Visual Prompts for Visual Object Tracking) [[paper](https://arxiv.org/abs/2401.03142)] [[code](https://github.com/GXNU-ZhongLab/EVPTrack)]
 - **ODTrack** (ODTrack: Online Dense Temporal Token Learning for Visual Tracking) [[paper](https://arxiv.org/abs/2401.01686)] [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
 
 ### WACV 2024
@@ -107,7 +108,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2024
 
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
-- **EVPTrack** (Explicit Visual Prompts for Visual Object Tracking) [[paper](https://arxiv.org/abs/2401.03142)] [[code](https://github.com/GXNU-ZhongLab/EVPTrack)]
 - **STMT** (Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens) [[paper](https://arxiv.org/abs/2401.01674)] [~~code~~]
 - **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
 
@@ -151,6 +151,11 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### MM 2023
 
 - **All-in-One** (All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment) [[paper](https://arxiv.org/abs/2307.03373)] [~~code~~]
+- **UTrack** (Unambiguous Object Tracking by Exploiting Target Cues) [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] [~~code~~]
+
+### MMAsia 2023
+
+- **UPVPT** (Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning) [[paper](https://dl.acm.org/doi/abs/10.1145/3595916.3626410)] [~~code~~]
 
 ### MICCAI 2023
 
