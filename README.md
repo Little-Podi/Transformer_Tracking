@@ -99,6 +99,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **BAT** (Bi-Directional Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2312.10611)] [[code](https://github.com/SparkTempest/BAT)]
 - **EVPTrack** (Explicit Visual Prompts for Visual Object Tracking) [[paper](https://arxiv.org/abs/2401.03142)] [[code](https://github.com/GXNU-ZhongLab/EVPTrack)]
 - **ODTrack** (ODTrack: Online Dense Temporal Token Learning for Visual Tracking) [[paper](https://arxiv.org/abs/2401.01686)] [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+- **UVLTrack** (Unifying Visual and Vision-Language Tracking via Contrastive Learning) [[paper](https://arxiv.org/abs/2401.11228)] [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
 ### WACV 2024
 
@@ -316,6 +317,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 
 ## :bookmark:3D Single Object Tracking (3DSOT)
+
+### ICLR 2024
+
+- **CUTrack** (Towards Category Unification of 3D Single Object Tracking on Point Clouds) [[paper&review](https://openreview.net/forum?id=QlqdXrzzD1)] [[code](https://github.com/Haooozi/CUTrack)]
 
 ### AAAI 2024
 
