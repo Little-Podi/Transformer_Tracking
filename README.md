@@ -110,6 +110,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
 - **STMT** (Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens) [[paper](https://arxiv.org/abs/2401.01674)] [~~code~~]
+- **SuperSBT** (Correlation-Embedded Transformer Tracking: A Single-Branch Framework) [[paper](https://arxiv.org/abs/2401.12743)] [[code](https://github.com/phiphiphi31/SBT)]
 - **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
 
 ### CVPR 2023
