@@ -332,6 +332,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **M3SOT** (M3SOT: Multi-Frame, Multi-Field, Multi-Space 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2312.06117)] [[code](https://github.com/liujia99/M3SOT)]
 - **SCVTrack** (Robust 3D Tracking with Quality-Aware Shape Completion) [[paper](https://arxiv.org/abs/2312.10608)] [[code](https://github.com/zjwhit/SCVTrack)]
 
+### ICRA 2024
+
+- **SeqTrack3D** (SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking) [[paper](https://arxiv.org/abs/2402.16249)] [[code](https://github.com/aron-lin/seqtrack3d)]
+
 ### CVPR 2023
 
 - **CorpNet** (Correlation Pyramid Network for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.09195)] [~~code~~]
