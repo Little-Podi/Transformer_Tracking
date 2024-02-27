@@ -94,6 +94,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### CVPR 2024
+
+- **ARTrackV2** (ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe) [[paper](https://arxiv.org/abs/2312.17133)] [~~code~~]
+
 ### AAAI 2024
 
 - **BAT** (Bi-Directional Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2312.10611)] [[code](https://github.com/SparkTempest/BAT)]
@@ -192,7 +196,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Preprint 2023
 
-- **ARTrackV2** (ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe) [[paper](https://arxiv.org/abs/2312.17133)] [~~code~~]
 - **AViTMP** (Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking) [[paper](https://arxiv.org/abs/2310.19542)] [~~code~~]
 - **DATr** (Leveraging the Power of Data Augmentation for Transformer-Based Tracking) [[paper](https://arxiv.org/abs/2309.08264)] [~~code~~]
 - **DCPT** (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [[paper](https://arxiv.org/abs/2309.10491)] [[code](https://github.com/bearyi26/DCPT)]
