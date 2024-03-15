@@ -148,6 +148,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### NeurIPS 2023
 
 - **MixFormerV2** (MixFormerV2: Efficient Fully Transformer Tracking) [[paper&review](https://openreview.net/forum?id=8WvYAycmDJ)] [[code](https://github.com/MCG-NJU/MixFormerV2)]
+- **RFGM** (Reading Relevant Feature from Global Representation Memory for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=On0IDMYKw2)] [~~code~~]
 - **ZoomTrack** (ZoomTrack: Target-Aware Non-Uniform Resizing for Efficient Visual Tracking) [[paper&review](https://openreview.net/forum?id=DQgTewaKzt)] [[code](https://github.com/Kou-99/ZoomTrack)]
 
 ### ICCV 2023
