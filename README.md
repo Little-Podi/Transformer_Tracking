@@ -100,7 +100,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **DiffusionTrack** (DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking) [~~paper~~] [~~code~~]
 - **HDETrack** (Event Stream-Based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline) [[paper](https://arxiv.org/abs/2309.14611)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 - **HIPTrack** (Learning Historical Status Prompt for Accurate and Robust Visual Tracking) [[paper](https://arxiv.org/abs/2311.02072)] [~~code~~]
-- **NetTrack** (NetTrack: Tracking Highly Dynamic Objects with a Net) [~~paper~~] [~~code~~]
 - **OneTracker** (OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning) [[paper](https://arxiv.org/abs/2403.09634)] [~~code~~]
 - **RTracker** (RTracker: Recoverable Tracking via PN Tree Structured Memory) [~~paper~~] [[code](https://github.com/NorahGreen/RTracker)]
 - **SDSTrack** (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [~~paper~~] [~~code~~]
