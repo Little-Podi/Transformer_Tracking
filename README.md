@@ -22,6 +22,8 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ![](performance.png)
 
+- Image credit: https://arxiv.org/abs/2302.11867
+
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
 - **(Survey)** Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)], Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
