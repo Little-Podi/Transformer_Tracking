@@ -98,6 +98,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### CVPR 2024
 
+- **AQATrack** (Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers) [[paper](https://arxiv.org/abs/2403.10574)] [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
 - **ARTrackV2** (ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe) [[paper](https://arxiv.org/abs/2312.17133)] [~~code~~]
 - **DiffusionTrack** (DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking) [~~paper~~] [~~code~~]
 - **HDETrack** (Event Stream-Based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline) [[paper](https://arxiv.org/abs/2309.14611)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
@@ -106,7 +107,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **RTracker** (RTracker: Recoverable Tracking via PN Tree Structured Memory) [~~paper~~] [[code](https://github.com/NorahGreen/RTracker)]
 - **SDSTrack** (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [~~paper~~] [~~code~~]
 - **Un-Track** (Single-Model and Any-Modality for Video Object Tracking) [[paper](https://arxiv.org/abs/2311.15851)] [[code](https://github.com/Zongwei97/UnTrack)]
-- Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers [~~paper~~] [~~code~~]
 - Context-Aware Integration of Language and Visual References for Natural Language Tracking [~~paper~~] [~~code~~]
 
 ### AAAI 2024
