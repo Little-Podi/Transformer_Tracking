@@ -105,7 +105,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **HIPTrack** (Learning Historical Status Prompt for Accurate and Robust Visual Tracking) [[paper](https://arxiv.org/abs/2311.02072)] [~~code~~]
 - **OneTracker** (OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning) [[paper](https://arxiv.org/abs/2403.09634)] [~~code~~]
 - **RTracker** (RTracker: Recoverable Tracking via PN Tree Structured Memory) [~~paper~~] [[code](https://github.com/NorahGreen/RTracker)]
-- **SDSTrack** (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [~~paper~~] [~~code~~]
+- **SDSTrack** (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.16002)] [[code](https://github.com/hoqolo/SDSTrack)]
 - **Un-Track** (Single-Model and Any-Modality for Video Object Tracking) [[paper](https://arxiv.org/abs/2311.15851)] [[code](https://github.com/Zongwei97/UnTrack)]
 - Context-Aware Integration of Language and Visual References for Natural Language Tracking [~~paper~~] [~~code~~]
 
@@ -127,6 +127,8 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **AMTTrack** (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) [[paper](https://arxiv.org/abs/2403.05839)] [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
 - **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [~~code~~]
+- **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
+- **MMMP** (From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation) [[paper](https://arxiv.org/abs/2403.16834)] [~~code~~]
 - **OIFTrack** (Optimized Information Flow for Transformer Tracking) [[paper](https://arxiv.org/abs/2402.08195)] [[code](https://github.com/JananiKugaa/OIFTrack)]
 - **STMT** (Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens) [[paper](https://arxiv.org/abs/2401.01674)] [~~code~~]
 - **SuperSBT** (Correlation-Embedded Transformer Tracking: A Single-Branch Framework) [[paper](https://arxiv.org/abs/2401.12743)] [[code](https://github.com/phiphiphi31/SBT)]
