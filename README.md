@@ -126,6 +126,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **ACTrack** (ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.07914)] [~~code~~]
 - **AMTTrack** (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) [[paper](https://arxiv.org/abs/2403.05839)] [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
+- **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
 - **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [~~code~~]
 - **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
 - **MMMP** (From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation) [[paper](https://arxiv.org/abs/2403.16834)] [~~code~~]
