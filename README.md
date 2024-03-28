@@ -114,6 +114,8 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **BAT** (Bi-Directional Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2312.10611)] [[code](https://github.com/SparkTempest/BAT)]
 - **EVPTrack** (Explicit Visual Prompts for Visual Object Tracking) [[paper](https://arxiv.org/abs/2401.03142)] [[code](https://github.com/GXNU-ZhongLab/EVPTrack)]
 - **ODTrack** (ODTrack: Online Dense Temporal Token Learning for Visual Tracking) [[paper](https://arxiv.org/abs/2401.01686)] [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+- **STCFormer** (Sequential Fusion Based Multi-Granularity Consistency for Space-Time Transformer Tracking) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] [~~code~~]
+- **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
 - **UVLTrack** (Unifying Visual and Vision-Language Tracking via Contrastive Learning) [[paper](https://arxiv.org/abs/2401.11228)] [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
 ### WACV 2024
@@ -130,10 +132,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [~~code~~]
 - **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
 - **MMMP** (From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation) [[paper](https://arxiv.org/abs/2403.16834)] [~~code~~]
+- **M3PT** (Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking) [[paper](https://arxiv.org/abs/2403.18193)] [~~code~~]
 - **OIFTrack** (Optimized Information Flow for Transformer Tracking) [[paper](https://arxiv.org/abs/2402.08195)] [[code](https://github.com/JananiKugaa/OIFTrack)]
 - **STMT** (Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens) [[paper](https://arxiv.org/abs/2401.01674)] [~~code~~]
 - **SuperSBT** (Correlation-Embedded Transformer Tracking: A Single-Branch Framework) [[paper](https://arxiv.org/abs/2401.12743)] [[code](https://github.com/phiphiphi31/SBT)]
-- **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
 
 ### CVPR 2023
 
@@ -347,6 +349,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **M3SOT** (M3SOT: Multi-Frame, Multi-Field, Multi-Space 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2312.06117)] [[code](https://github.com/liujia99/M3SOT)]
 - **SCVTrack** (Robust 3D Tracking with Quality-Aware Shape Completion) [[paper](https://arxiv.org/abs/2312.10608)] [[code](https://github.com/zjwhit/SCVTrack)]
+- **StreamTrack** (Modeling Continuous Motion for 3D Point Cloud Object Tracking) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28196)] [~~code~~]
 
 ### ICRA 2024
 
