@@ -69,6 +69,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ## :bookmark:Unified Tracking (UT)
 
+### CVPR 2024
+
+- **OmniViD** (OmniVid: A Generative Framework for Universal Video Understanding) [[paper](https://arxiv.org/abs/2403.17935)] [[code](https://github.com/wangjk666/OmniVid)]
+
 ### CVPR 2023
 
 - **OmniTracker** (OmniTracker: Unifying Object Tracking by Tracking-with-Detection) [[paper](https://arxiv.org/abs/2303.12079)] [~~code~~]
