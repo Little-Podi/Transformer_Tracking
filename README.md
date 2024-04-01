@@ -108,9 +108,9 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **HDETrack** (Event Stream-Based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline) [[paper](https://arxiv.org/abs/2309.14611)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 - **HIPTrack** (Learning Historical Status Prompt for Accurate and Robust Visual Tracking) [[paper](https://arxiv.org/abs/2311.02072)] [~~code~~]
 - **OneTracker** (OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning) [[paper](https://arxiv.org/abs/2403.09634)] [~~code~~]
+- **QueryNLT** (Context-Aware Integration of Language and Visual References for Natural Language Tracking) [[paper](https://arxiv.org/abs/2403.19975)] [[code](https://github.com/twotwo2/QueryNLT)]
 - **SDSTrack** (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.16002)] [[code](https://github.com/hoqolo/SDSTrack)]
 - **Un-Track** (Single-Model and Any-Modality for Video Object Tracking) [[paper](https://arxiv.org/abs/2311.15851)] [[code](https://github.com/Zongwei97/UnTrack)]
-- Context-Aware Integration of Language and Visual References for Natural Language Tracking [~~paper~~] [~~code~~]
 
 ### AAAI 2024
 
