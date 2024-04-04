@@ -71,6 +71,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### CVPR 2024
 
+- **GLEE** (General Object Foundation Model for Images and Videos at Scale) [[paper](https://arxiv.org/abs/2312.09158)] [[code](https://github.com/FoundationVision/GLEE)]
 - **OmniViD** (OmniVid: A Generative Framework for Universal Video Understanding) [[paper](https://arxiv.org/abs/2403.17935)] [[code](https://github.com/wangjk666/OmniVid)]
 
 ### CVPR 2023
