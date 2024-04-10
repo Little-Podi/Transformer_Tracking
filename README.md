@@ -359,6 +359,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 - **SeqTrack3D** (SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking) [[paper](https://arxiv.org/abs/2402.16249)] [[code](https://github.com/aron-lin/seqtrack3d)]
 
+### Preprint 2024
+
+- **EasyTrack** (EasyTrack: Efficient and Compact One-Stream 3D Point Clouds Tracker) [[paper](https://arxiv.org/abs/2404.05960)] [[code](https://github.com/KnightApple427/Easytrack)]
+
 ### CVPR 2023
 
 - **CorpNet** (Correlation Pyramid Network for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2305.09195)] [~~code~~]
