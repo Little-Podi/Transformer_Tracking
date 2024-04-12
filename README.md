@@ -22,7 +22,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ![](performance.png)
 
-- Image credit: https://arxiv.org/abs/2302.11867
+- Image courtesy: https://arxiv.org/abs/2302.11867
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
@@ -362,6 +362,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2024
 
 - **EasyTrack** (EasyTrack: Efficient and Compact One-Stream 3D Point Clouds Tracker) [[paper](https://arxiv.org/abs/2404.05960)] [[code](https://github.com/KnightApple427/Easytrack)]
+- **PillarTrack** (PillarTrack: Redesigning Pillar-Based Transformer Network for Single Object Tracking on Point Clouds) [[paper](https://arxiv.org/abs/2404.07495)] [[code](https://github.com/StiphyJay/PillarTrack)]
 
 ### CVPR 2023
 
