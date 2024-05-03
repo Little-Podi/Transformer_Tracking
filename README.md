@@ -122,6 +122,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
 - **UVLTrack** (Unifying Visual and Vision-Language Tracking via Contrastive Learning) [[paper](https://arxiv.org/abs/2401.11228)] [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
+### IJCAI 2024
+
+- **USTrack** (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [[paper](https://arxiv.org/abs/2308.13764)] [[code](https://github.com/xiajianqiang/USTrack)]
+
 ### WACV 2024
 
 - **SMAT** (Separable Self and Mixed Attention Transformers for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2309.03979)] [[code](https://github.com/goutamyg/SMAT)]
@@ -237,7 +241,6 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **SATracker** (Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking) [[paper](https://arxiv.org/abs/2311.17085)] [~~code~~]
 - **TCTrack++** (Towards Real-World Visual Tracking with Temporal Contexts) [[paper](https://arxiv.org/abs/2308.10330)] [[code](https://github.com/vision4robotics/TCTrack)]
 - **USTAM** (USTAM: Unified Spatial-Temporal Attention MixFormer for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=MK7TEe7SJ3)] [~~code~~]
-- **USTrack** (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [[paper](https://arxiv.org/abs/2308.13764)] [~~code~~]
 
 ### CVPR 2022
 
