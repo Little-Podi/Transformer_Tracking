@@ -134,8 +134,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 ### Preprint 2024
 
 - **ACTrack** (ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.07914)] [~~code~~]
+- **AFter** (AFter: Attention-Based Fusion Router for RGBT Tracking) [[paper](https://arxiv.org/abs/2405.02717)] [[code](https://github.com/Alexadlu/AFter)]
 - **AMTTrack** (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) [[paper](https://arxiv.org/abs/2403.05839)] [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
+- **CSTNet** (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) [[paper](https://arxiv.org/abs/2405.03177)] [[code](https://github.com/LiYunfengLYF/CSTNet)]
 - **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
 - **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [~~code~~]
 - **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
