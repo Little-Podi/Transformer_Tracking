@@ -141,6 +141,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
 - **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [~~code~~]
 - **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
+- **MDETrack** (Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning) [[paper](https://arxiv.org/abs/2405.14195)] [~~code~~]
 - **MMMP** (From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation) [[paper](https://arxiv.org/abs/2403.16834)] [~~code~~]
 - **M3PT** (Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking) [[paper](https://arxiv.org/abs/2403.18193)] [~~code~~]
 - **OIFTrack** (Optimized Information Flow for Transformer Tracking) [[paper](https://arxiv.org/abs/2402.08195)] [[code](https://github.com/JananiKugaa/OIFTrack)]
