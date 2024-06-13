@@ -133,6 +133,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 
 ### Preprint 2024
 
+- **ABTrack** (Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2406.08037)] [[code](https://github.com/1HykhqV3rU/ABTrack)]
 - **ACTrack** (ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.07914)] [~~code~~]
 - **AFter** (AFter: Attention-Based Fusion Router for RGBT Tracking) [[paper](https://arxiv.org/abs/2405.02717)] [[code](https://github.com/Alexadlu/AFter)]
 - **AMTTrack** (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) [[paper](https://arxiv.org/abs/2403.05839)] [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
