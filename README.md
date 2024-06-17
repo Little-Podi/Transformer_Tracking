@@ -107,7 +107,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **ARTrackV2** (ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe) [[paper](https://arxiv.org/abs/2312.17133)] [~~code~~]
 - **DiffusionTrack** (DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking) [~~paper~~] [~~code~~]
 - **HDETrack** (Event Stream-Based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline) [[paper](https://arxiv.org/abs/2309.14611)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
-- **HIPTrack** (Learning Historical Status Prompt for Accurate and Robust Visual Tracking) [[paper](https://arxiv.org/abs/2311.02072)] [~~code~~]
+- **HIPTrack** (HIPTrack: Visual Tracking with Historical Prompts) [[paper](https://arxiv.org/abs/2311.02072)] [[code](https://github.com/WenRuiCai/HIPTrack)]
 - **OneTracker** (OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning) [[paper](https://arxiv.org/abs/2403.09634)] [~~code~~]
 - **QueryNLT** (Context-Aware Integration of Language and Visual References for Natural Language Tracking) [[paper](https://arxiv.org/abs/2403.19975)] [[code](https://github.com/twotwo2/QueryNLT)]
 - **SDSTrack** (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.16002)] [[code](https://github.com/hoqolo/SDSTrack)]
