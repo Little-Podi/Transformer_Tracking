@@ -140,6 +140,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
 - **CSTNet** (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) [[paper](https://arxiv.org/abs/2405.03177)] [[code](https://github.com/LiYunfengLYF/CSTNet)]
 - **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
+- **eMoE-Tracker** (eMoE-Tracker: Environmental MoE-Based Transformer for Robust Event-Guided Object Tracking) [[paper](https://arxiv.org/abs/2406.20024)] [~~code~~]
 - **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [~~code~~]
 - **LoReTrack** (LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking) [[paper](https://arxiv.org/abs/2405.17660)] [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
 - **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
