@@ -38,7 +38,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
   - #### Representative
 
     - Bounding box as coordinate sequence.
-      - **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)]
+      - **ARTrackV2** [[CVPR'24](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2024-1)] **ARTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)], **SeqTrack** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)]
 
   ![](head.png)
 
@@ -142,6 +142,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **ACTrack** (ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.07914)] [~~code~~]
 - **AFter** (AFter: Attention-Based Fusion Router for RGBT Tracking) [[paper](https://arxiv.org/abs/2405.02717)] [[code](https://github.com/Alexadlu/AFter)]
 - **AMTTrack** (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) [[paper](https://arxiv.org/abs/2403.05839)] [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
+- **BofN** (Predicting the Best of N Visual Trackers) [[paper](https://arxiv.org/abs/2407.15707)] [[code](https://github.com/BasitAlawode/Best_of_N_Trackers)]
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
 - **CSTNet** (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) [[paper](https://arxiv.org/abs/2405.03177)] [[code](https://github.com/LiYunfengLYF/CSTNet)]
 - **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
