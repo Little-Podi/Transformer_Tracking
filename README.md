@@ -127,6 +127,10 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
 - **UVLTrack** (Unifying Visual and Vision-Language Tracking via Contrastive Learning) [[paper](https://arxiv.org/abs/2401.11228)] [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
+### ICML 2024
+
+- **AVTrack** (Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking) [[paper](https://openreview.net/forum?id=eaNLvrP8n1)] [[code](https://github.com/wuyou3474/AVTrack)]
+
 ### IJCAI 2024
 
 - **USTrack** (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [[paper](https://arxiv.org/abs/2308.13764)] [[code](https://github.com/xiajianqiang/USTrack)]
