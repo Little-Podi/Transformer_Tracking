@@ -7,11 +7,16 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - ### [[Single Object Tracking](https://github.com/Little-Podi/Transformer_Tracking#bookmarksingle-object-tracking-sot)]
 - ### [[3D Single Object Tracking](https://github.com/Little-Podi/Transformer_Tracking#bookmark3d-single-object-tracking-3dsot)]
 
-Note: I find it hard to trace all tasks that are related to tracking, including Video Object Segmentation (VOS), Multiple Object Tracking (MOT), Video Instance Segmentation (VIS), Video Object Detection (VOD) and Object Re-Identification (ReID). Hence, I discard all other tracking tasks in a previous update. If you are interested, you can find plenty of collections in [this archived version](https://github.com/Little-Podi/Transformer_Tracking/tree/4cc6050c07dfd4ecbc9f6aa584601a457ed84eb3). Besides, the most recent trend shows that different tracking tasks are coming to the same avenue.
+> [!NOTE] 
+> I find it hard to trace all tasks that are related to tracking, including Video Object Segmentation (VOS), Multiple Object Tracking (MOT), Video Instance Segmentation (VIS), Video Object Detection (VOD) and Object Re-Identification (ReID). Hence, I discard all other tracking tasks in a previous update. If you are interested, you can find plenty of collections in [this archived version](https://github.com/Little-Podi/Transformer_Tracking/tree/4cc6050c07dfd4ecbc9f6aa584601a457ed84eb3). Besides, the most recent trend shows that different tracking tasks are coming to the same avenue.
 
 
 
 ## :star2:Recommendation
+
+### It's the End of the Game
+
+- ### [SAM 2](https://ai.meta.com/SAM2) [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos)] [[code](https://github.com/facebookresearch/segment-anything-2)]
 
 ### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
 
@@ -29,7 +34,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **(Survey)** Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)], Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
 - **(Talk)** Discriminative Appearance-Based Tracking and Segmentation [[video](https://youtu.be/ILVnBhFq2Ds)], Deep Visual Reasoning with Optimization-Based Network Modules [[video](https://youtu.be/UR2TlFCrYac)]
 - **(Library)** PyTracking: Visual Tracking Library Based on PyTorch [[code](https://github.com/visionml/pytracking)]
-- **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io/)], Bin Yan@DLUT [[web](https://masterbin-iiau.github.io/)]
+- **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io)], Bin Yan@DLUT [[web](https://masterbin-iiau.github.io)]
 
 ### Recent Trends:fire::fire::fire:
 
@@ -159,6 +164,7 @@ Note: I find it hard to trace all tasks that are related to tracking, including 
 - **NLMTrack** (Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation) [[paper](https://arxiv.org/abs/2407.08265)] [[code](https://github.com/ELOESZHANG/NLMTrack)]
 - **OIFTrack** (Optimized Information Flow for Transformer Tracking) [[paper](https://arxiv.org/abs/2402.08195)] [[code](https://github.com/JananiKugaa/OIFTrack)]
 - **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper](https://arxiv.org/abs/2405.19818)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+- **PDAT** (Progressive Domain Adaptation for Thermal Infrared Object Tracking) [[paper](https://arxiv.org/abs/2407.19430)] [~~code~~]
 - **SCANet** (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [[paper](https://arxiv.org/abs/2406.07189)] [[code](https://github.com/LiYunfengLYF/SCANet)]
 - **STMT** (Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens) [[paper](https://arxiv.org/abs/2401.01674)] [~~code~~]
 - **SuperSBT** (Correlation-Embedded Transformer Tracking: A Single-Branch Framework) [[paper](https://arxiv.org/abs/2401.12743)] [[code](https://github.com/phiphiphi31/SBT)]
