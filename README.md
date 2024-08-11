@@ -145,6 +145,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SMAT** (Separable Self and Mixed Attention Transformers for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2309.03979)] [[code](https://github.com/goutamyg/SMAT)]
 - **TaMOs** (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [[paper](https://arxiv.org/abs/2212.11920)] [[code](https://github.com/visionml/pytracking)]
 
+### ICRA 2024
+
+- **DCPT** (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [[paper](https://arxiv.org/abs/2309.10491)] [[code](https://github.com/bearyi26/DCPT)]
+
 ### Preprint 2024
 
 - **ABTrack** (Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2406.08037)] [[code](https://github.com/1HykhqV3rU/ABTrack)]
@@ -253,7 +257,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **AViTMP** (Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking) [[paper](https://arxiv.org/abs/2310.19542)] [~~code~~]
 - **DATr** (Leveraging the Power of Data Augmentation for Transformer-Based Tracking) [[paper](https://arxiv.org/abs/2309.08264)] [~~code~~]
-- **DCPT** (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [[paper](https://arxiv.org/abs/2309.10491)] [[code](https://github.com/bearyi26/DCPT)]
 - **DETRack** (Efficient Training for Visual Tracking with Deformable Transformer) [[paper](https://arxiv.org/abs/2309.02676)] [~~code~~]
 - **IPL** (Modality-Missing RGBT Tracking via Invertible Prompt Learning and A High-Quality Data Simulation Method) [[paper](https://arxiv.org/abs/2312.16244)] [~~code~~]
 - **JN** (Towards Efficient Training with Negative Samples in Visual Tracking) [[paper](https://arxiv.org/abs/2309.02903)] [~~code~~]
