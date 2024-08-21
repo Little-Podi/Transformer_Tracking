@@ -138,7 +138,12 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### IJCAI 2024
 
+- **DMTrack** (Diffusion Mask-Driven Visual-language Tracking) [[paper](https://www.ijcai.org/proceedings/2024/183)] [~~code~~]
 - **USTrack** (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [[paper](https://arxiv.org/abs/2308.13764)] [[code](https://github.com/xiajianqiang/USTrack)]
+
+### MM 2024
+
+- **ATTracker** (Consistencies are All You Need for Semi-Supervised Vision-Language Tracking) [[paper&review](https://openreview.net/forum?id=jLJ3htNxVX)] [~~code~~]
 
 ### WACV 2024
 
