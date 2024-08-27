@@ -14,7 +14,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :star2:Recommendation
 
-### It's the End of the Game
+### Game Over???
 
 - ### [SAM 2](https://ai.meta.com/SAM2) [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos)] [[code](https://github.com/facebookresearch/segment-anything-2)]
 
@@ -166,6 +166,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **CSTNet** (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) [[paper](https://arxiv.org/abs/2405.03177)] [[code](https://github.com/LiYunfengLYF/CSTNet)]
 - **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
 - **eMoE-Tracker** (eMoE-Tracker: Environmental MoE-Based Transformer for Robust Event-Guided Object Tracking) [[paper](https://arxiv.org/abs/2406.20024)] [~~code~~]
+- **HiPTrack-MLS** (Camouflaged Object Tracking: A Benchmark) [[paper](https://arxiv.org/abs/2408.13877)] [[code](https://github.com/openat25/HIPTrack-MLS)]
 - **LoReTrack** (LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking) [[paper](https://arxiv.org/abs/2405.17660)] [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
 - **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
 - **MDETrack** (Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning) [[paper](https://arxiv.org/abs/2405.14195)] [~~code~~]
