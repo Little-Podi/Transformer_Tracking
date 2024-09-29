@@ -125,6 +125,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### NeurIPS 2024
 
+- **DeTrack** (DeTrack: In-model Latent Denoising Learning for Visual Object Tracking) [~~paper~~] [~~code~~]
 - **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper](https://arxiv.org/abs/2405.19818)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
 ### AAAI 2024
