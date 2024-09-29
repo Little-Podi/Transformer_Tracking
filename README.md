@@ -16,7 +16,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-- ### [SAM 2](https://ai.meta.com/SAM2) [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos)] [[code](https://github.com/facebookresearch/segment-anything-2)]
+- ### [SAM 2](https://ai.meta.com/SAM2) [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos)] [[code](https://github.com/facebookresearch/segment-anything-2)] [[example](https://arxiv.org/abs/2409.16902)]
 
 ### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
 
@@ -123,6 +123,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **Diff-Tracker** (Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers) [[paper](https://arxiv.org/abs/2407.08394)] [~~code~~]
 - **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [[code](https://github.com/LitingLin/LoRAT)]
 
+### NeurIPS 2024
+
+- **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper](https://arxiv.org/abs/2405.19818)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
 ### AAAI 2024
 
 - **BAT** (Bi-Directional Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2312.10611)] [[code](https://github.com/SparkTempest/BAT)]
@@ -154,6 +158,14 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **DCPT** (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [[paper](https://arxiv.org/abs/2309.10491)] [[code](https://github.com/bearyi26/DCPT)]
 
+### IROS 2024
+
+- **CGDenoiser** (Conditional Generative Denoiser for Nighttime UAV Tracking) [[paper](https://arxiv.org/abs/2409.16834)] [[code](https://github.com/vision4robotics/CGDenoiser)]
+- **DaDiff** (DaDiff: Domain-Aware Diffusion Model for Nighttime UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/DaDiff)]
+- **LDEnhancer** (Enhancing Nighttime UAV Tracking with Light Distribution Suppression) [[paper](https://arxiv.org/abs/2409.16631)] [[code](https://github.com/vision4robotics/LDEnhancer)]
+- **PRL-Track** (Progressive Representation Learning for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2409.16652)] [[code](https://github.com/vision4robotics/PRL-Track)]
+- **TDA-Track** (TDA-Track: Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/TDA-Track)]
+
 ### Preprint 2024
 
 - **ABTrack** (Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2406.08037)] [[code](https://github.com/1HykhqV3rU/ABTrack)]
@@ -163,6 +175,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **BofN** (Predicting the Best of N Visual Trackers) [[paper](https://arxiv.org/abs/2407.15707)] [[code](https://github.com/BasitAlawode/Best_of_N_Trackers)]
 - **CAFormer** (Cross-modulated Attention Transformer for RGBT Tracking) [[paper](https://arxiv.org/abs/2408.02222)] [~~code~~]
 - **CFBT** (Cross Fusion RGB-T Tracking with Bi-Directional Adapter) [[paper](https://arxiv.org/abs/2408.16979)] [~~code~~]
+- **CompressTracker** (General Compression Framework for Efficient Transformer Object Tracking) [[paper](https://arxiv.org/abs/2409.17564)] [[code](https://github.com/LingyiHongfd/CompressTracker)]
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
 - **CSTNet** (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) [[paper](https://arxiv.org/abs/2405.03177)] [[code](https://github.com/LiYunfengLYF/CSTNet)]
 - **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
@@ -175,7 +188,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **M3PT** (Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking) [[paper](https://arxiv.org/abs/2403.18193)] [~~code~~]
 - **NLMTrack** (Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation) [[paper](https://arxiv.org/abs/2407.08265)] [[code](https://github.com/ELOESZHANG/NLMTrack)]
 - **OIFTrack** (Optimized Information Flow for Transformer Tracking) [[paper](https://arxiv.org/abs/2402.08195)] [[code](https://github.com/JananiKugaa/OIFTrack)]
-- **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper](https://arxiv.org/abs/2405.19818)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 - **PDAT** (Progressive Domain Adaptation for Thermal Infrared Object Tracking) [[paper](https://arxiv.org/abs/2407.19430)] [~~code~~]
 - **SCANet** (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [[paper](https://arxiv.org/abs/2406.07189)] [[code](https://github.com/LiYunfengLYF/SCANet)]
 - **SPDAN** (BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking) [[paper](https://arxiv.org/abs/2408.12232)] [~~code~~]
