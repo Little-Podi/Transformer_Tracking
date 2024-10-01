@@ -190,6 +190,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **NLMTrack** (Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation) [[paper](https://arxiv.org/abs/2407.08265)] [[code](https://github.com/ELOESZHANG/NLMTrack)]
 - **OIFTrack** (Optimized Information Flow for Transformer Tracking) [[paper](https://arxiv.org/abs/2402.08195)] [[code](https://github.com/JananiKugaa/OIFTrack)]
 - **PDAT** (Progressive Domain Adaptation for Thermal Infrared Object Tracking) [[paper](https://arxiv.org/abs/2407.19430)] [~~code~~]
+- **PiVOT** (Improving Visual Object Tracking through Visual Prompting) [[paper](https://arxiv.org/abs/2409.18901)] [[code](https://github.com/chenshihfang/GOT)]
 - **SCANet** (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [[paper](https://arxiv.org/abs/2406.07189)] [[code](https://github.com/LiYunfengLYF/SCANet)]
 - **SPDAN** (BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking) [[paper](https://arxiv.org/abs/2408.12232)] [~~code~~]
 - **STMT** (Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens) [[paper](https://arxiv.org/abs/2401.01674)] [~~code~~]
