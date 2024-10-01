@@ -165,7 +165,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **DaDiff** (DaDiff: Domain-Aware Diffusion Model for Nighttime UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/DaDiff)]
 - **LDEnhancer** (Enhancing Nighttime UAV Tracking with Light Distribution Suppression) [[paper](https://arxiv.org/abs/2409.16631)] [[code](https://github.com/vision4robotics/LDEnhancer)]
 - **PRL-Track** (Progressive Representation Learning for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2409.16652)] [[code](https://github.com/vision4robotics/PRL-Track)]
-- **TDA-Track** (TDA-Track: Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking) [~~paper~~] [[code](https://github.com/vision4robotics/TDA-Track)]
+- **TDA-Track** (TDA-Track: Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking) [[paper](https://arxiv.org/abs/2409.18533)] [[code](https://github.com/vision4robotics/TDA-Track)]
 
 ### Preprint 2024
 
