@@ -125,7 +125,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### NeurIPS 2024
 
-- **DeTrack** (DeTrack: In-model Latent Denoising Learning for Visual Object Tracking) [~~paper~~] [~~code~~]
+- **DeTrack** (DeTrack: In-model Latent Denoising Learning for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=ZJjuNF0olj)] [~~code~~]
 - **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper](https://arxiv.org/abs/2405.19818)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
 ### AAAI 2024
@@ -179,24 +179,30 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **CompressTracker** (General Compression Framework for Efficient Transformer Object Tracking) [[paper](https://arxiv.org/abs/2409.17564)] [[code](https://github.com/LingyiHongfd/CompressTracker)]
 - **CRSOT** (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [[paper](https://arxiv.org/abs/2401.02826)] [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
 - **CSTNet** (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) [[paper](https://arxiv.org/abs/2405.03177)] [[code](https://github.com/LiYunfengLYF/CSTNet)]
+- **DT-Training** (Closed-Loop Scaling Up for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=YcUtOIzIXK)] [~~code~~]
 - **DyTrack** (Exploring Dynamic Transformer for Efficient Object Tracking) [[paper](https://arxiv.org/abs/2403.17651)] [~~code~~]
 - **eMoE-Tracker** (eMoE-Tracker: Environmental MoE-Based Transformer for Robust Event-Guided Object Tracking) [[paper](https://arxiv.org/abs/2406.20024)] [~~code~~]
+- **ESAT** (Enhanced Semantic Alignment in Transformer Tracking via Position Learning and Force-Directed Attention) [[paper&review](https://openreview.net/forum?id=rsJaUHCZIv)] [~~code~~]
+- **HCTrack** (Hybrid Contrastive Transformer for Visual Tracking) [[paper&review](https://openreview.net/forum?id=FV5nsugDY1)] [~~code~~]
 - **HiPTrack-MLS** (Camouflaged Object Tracking: A Benchmark) [[paper](https://arxiv.org/abs/2408.13877)] [[code](https://github.com/openat25/HIPTrack-MLS)]
 - **LoReTrack** (LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking) [[paper](https://arxiv.org/abs/2405.17660)] [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
 - **MAPNet** (Multi-Attention Associate Prediction Network for Visual Tracking) [[paper](https://arxiv.org/abs/2403.16395)] [~~code~~]
 - **MDETrack** (Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning) [[paper](https://arxiv.org/abs/2405.14195)] [~~code~~]
 - **MMMP** (From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation) [[paper](https://arxiv.org/abs/2403.16834)] [~~code~~]
+- **MST** (Learning Effective Multi-Modal Trackers via Modality-Sensitive Tuning) [[paper&review](https://openreview.net/forum?id=dKZCfzRlm3)] [~~code~~]
 - **M3PT** (Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking) [[paper](https://arxiv.org/abs/2403.18193)] [~~code~~]
 - **NLMTrack** (Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation) [[paper](https://arxiv.org/abs/2407.08265)] [[code](https://github.com/ELOESZHANG/NLMTrack)]
 - **OIFTrack** (Optimized Information Flow for Transformer Tracking) [[paper](https://arxiv.org/abs/2402.08195)] [[code](https://github.com/JananiKugaa/OIFTrack)]
 - **PDAT** (Progressive Domain Adaptation for Thermal Infrared Object Tracking) [[paper](https://arxiv.org/abs/2407.19430)] [~~code~~]
 - **PiVOT** (Improving Visual Object Tracking through Visual Prompting) [[paper](https://arxiv.org/abs/2409.18901)] [[code](https://github.com/chenshihfang/GOT)]
+- **PromptTrack** (Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking) [[paper&review](https://openreview.net/forum?id=S1GTzTFKxb)] [~~code~~]
 - **SCANet** (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [[paper](https://arxiv.org/abs/2406.07189)] [[code](https://github.com/LiYunfengLYF/SCANet)]
 - **SeqTrackv2** (Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2304.14394)] [[code](https://github.com/chenxin-dlut/SeqTrackv2)]
 - **SPDAN** (BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking) [[paper](https://arxiv.org/abs/2408.12232)] [~~code~~]
 - **STMT** (Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens) [[paper](https://arxiv.org/abs/2401.01674)] [~~code~~]
 - **SuperSBT** (Correlation-Embedded Transformer Tracking: A Single-Branch Framework) [[paper](https://arxiv.org/abs/2401.12743)] [[code](https://github.com/phiphiphi31/SBT)]
 - **TENet** (TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking) [[paper](https://arxiv.org/abs/2405.05004)] [[code](https://github.com/SSSpc333/TENet)]
+- **TrackMamba** (TrackMamba: Mamba-Transformer Tracking) [[paper&review](https://openreview.net/forum?id=V7QRVEZ0le)] [~~code~~]
 - **XTrack** (Towards a Generalist and Blind RGB-X Tracker) [[paper](https://arxiv.org/abs/2405.17773)] [[code](https://github.com/supertyd/XTrack)]
 
 ### CVPR 2023
@@ -424,6 +430,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **EasyTrack** (EasyTrack: Efficient and Compact One-Stream 3D Point Clouds Tracker) [[paper](https://arxiv.org/abs/2404.05960)] [[code](https://github.com/KnightApple427/Easytrack)]
 - **PillarTrack** (PillarTrack: Redesigning Pillar-Based Transformer Network for Single Object Tracking on Point Clouds) [[paper](https://arxiv.org/abs/2404.07495)] [[code](https://github.com/StiphyJay/PillarTrack)]
+- **SCtrack** (Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking) [[paper&review](https://openreview.net/forum?id=Sl1kRAATbw)] [~~code~~]
 
 ### CVPR 2023
 
