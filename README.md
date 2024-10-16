@@ -149,6 +149,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### MM 2024
 
 - **ATTracker** (Consistencies are All You Need for Semi-Supervised Vision-Language Tracking) [[paper&review](https://openreview.net/forum?id=jLJ3htNxVX)] [~~code~~]
+- **CKD** (Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation) [[paper&review](https://openreview.net/forum?id=2jzyYyRqX0)] [[code](https://github.com/Multi-Modality-Tracking/CKD)]
 
 ### WACV 2024
 
