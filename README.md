@@ -16,7 +16,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-- ### [SAM 2](https://ai.meta.com/SAM2) [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos)] [[code](https://github.com/facebookresearch/segment-anything-2)] [[example](https://arxiv.org/abs/2409.16902)]
+- **[SAM 2](https://ai.meta.com/SAM2)** [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos)] [[code](https://github.com/facebookresearch/segment-anything-2)] [[example1](https://arxiv.org/abs/2410.16329)] [[example2](https://arxiv.org/abs/2409.16902)]
 
 ### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
 
