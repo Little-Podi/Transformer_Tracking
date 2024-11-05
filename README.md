@@ -125,6 +125,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### NeurIPS 2024
 
+- **ChatTracker** (ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model) [[paper](https://arxiv.org/abs/2411.01756)] [~~code~~]
 - **DeTrack** (DeTrack: In-model Latent Denoising Learning for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=ZJjuNF0olj)] [~~code~~]
 - **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper](https://arxiv.org/abs/2405.19818)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
