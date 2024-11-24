@@ -125,9 +125,11 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### NeurIPS 2024
 
-- **ChatTracker** (ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model) [[paper](https://arxiv.org/abs/2411.01756)] [~~code~~]
+- **ChatTracker** (ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model) [[paper&review](https://openreview.net/forum?id=HzANl2unCB)] [~~code~~]
+- **CPDTrack** (Beyond Accuracy: Tracking More Like Human via Visual Search) [[paper&review](https://openreview.net/forum?id=LezAEImfoc)] [[code](https://github.com/ZhangDailing8/CPDTrack)]
 - **DeTrack** (DeTrack: In-model Latent Denoising Learning for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=ZJjuNF0olj)] [~~code~~]
-- **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper](https://arxiv.org/abs/2405.19818)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+- **MemVLT** (MemVLT: Vision-Language Tracking with Adaptive Memory-Based Prompts) [[paper&review](https://openreview.net/forum?id=ZK1CZXKgG5)] [[code](https://github.com/XiaokunFeng/MemVLT)]
+- **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper&review](https://openreview.net/forum?id=cLS4fLIA5P)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
 ### AAAI 2024
 
@@ -198,6 +200,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **PDAT** (Progressive Domain Adaptation for Thermal Infrared Object Tracking) [[paper](https://arxiv.org/abs/2407.19430)] [~~code~~]
 - **PiVOT** (Improving Visual Object Tracking through Visual Prompting) [[paper](https://arxiv.org/abs/2409.18901)] [[code](https://github.com/chenshihfang/GOT)]
 - **PromptTrack** (Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking) [[paper&review](https://openreview.net/forum?id=S1GTzTFKxb)] [~~code~~]
+- **SAMURAI** (SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory) [[paper](https://arxiv.org/abs/2411.11922)] [[code](https://github.com/yangchris11/samurai)]
 - **SCANet** (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [[paper](https://arxiv.org/abs/2406.07189)] [[code](https://github.com/LiYunfengLYF/SCANet)]
 - **SeqTrackv2** (Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2304.14394)] [[code](https://github.com/chenxin-dlut/SeqTrackv2)]
 - **SPDAN** (BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking) [[paper](https://arxiv.org/abs/2408.12232)] [~~code~~]
