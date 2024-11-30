@@ -201,6 +201,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **PiVOT** (Improving Visual Object Tracking through Visual Prompting) [[paper](https://arxiv.org/abs/2409.18901)] [[code](https://github.com/chenshihfang/GOT)]
 - **PromptTrack** (Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking) [[paper&review](https://openreview.net/forum?id=S1GTzTFKxb)] [~~code~~]
 - **SAMURAI** (SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory) [[paper](https://arxiv.org/abs/2411.11922)] [[code](https://github.com/yangchris11/samurai)]
+- **SAM2.1++** (A Distractor-Aware Memory for Visual Object Tracking with SAM2) [[paper](https://arxiv.org/abs/2411.17576)] [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 - **SCANet** (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [[paper](https://arxiv.org/abs/2406.07189)] [[code](https://github.com/LiYunfengLYF/SCANet)]
 - **SeqTrackv2** (Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2304.14394)] [[code](https://github.com/chenxin-dlut/SeqTrackv2)]
 - **SPDAN** (BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking) [[paper](https://arxiv.org/abs/2408.12232)] [~~code~~]
