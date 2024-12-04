@@ -437,6 +437,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **EasyTrack** (EasyTrack: Efficient and Compact One-Stream 3D Point Clouds Tracker) [[paper](https://arxiv.org/abs/2404.05960)] [[code](https://github.com/KnightApple427/Easytrack)]
 - **PillarTrack** (PillarTrack: Redesigning Pillar-Based Transformer Network for Single Object Tracking on Point Clouds) [[paper](https://arxiv.org/abs/2404.07495)] [[code](https://github.com/StiphyJay/PillarTrack)]
+- **PROT3D** (GSOT3D: Towards Generic 3D Single Object Tracking in the Wild) [[paper](https://arxiv.org/abs/2412.02129)] [[code](https://github.com/ailovejinx/GSOT3D)]
 - **SCtrack** (Space-Correlated Transformer: Jointly Explore the Matching and Motion Clues in 3D Single Object Tracking) [[paper&review](https://openreview.net/forum?id=Sl1kRAATbw)] [~~code~~]
 
 ### CVPR 2023
