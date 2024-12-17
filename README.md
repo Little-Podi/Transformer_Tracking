@@ -107,6 +107,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### AAAI 2025
+
+- **MCITrack** (Exploring Enhanced Contextual Information for Video-Level Object Tracking) [[paper](https://arxiv.org/abs/2412.11023)] [[code](https://github.com/kangben258/MCITrack)]
+
 ### CVPR 2024
 
 - **AQATrack** (Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers) [[paper](https://arxiv.org/abs/2403.10574)] [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
