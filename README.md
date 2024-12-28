@@ -112,6 +112,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **MambaLCT** (MambaLCT: Boosting Tracking via Long-Term Context State Space Model) [[paper](https://arxiv.org/abs/2412.13615)] [[code](https://github.com/GXNU-ZhongLab/MambaLCT)]
 - **MCITrack** (Exploring Enhanced Contextual Information for Video-Level Object Tracking) [[paper](https://arxiv.org/abs/2412.11023)] [[code](https://github.com/kangben258/MCITrack)]
 - **STTrack** (Exploiting Multimodal Spatial-Temporal Patterns for Video Object Tracking) [[paper](https://arxiv.org/abs/2412.15691)] [[code](https://github.com/NJU-PCALab/STTrack)]
+- **SUTrack** (SUTrack: Towards Simple and Unified Single Object Tracking) [~~paper~~] [[code](https://github.com/chenxin-dlut/SUTrack)]
 - **TemTrack** (Robust Tracking via Mamba-Vased Context-Aware Token Learning) [[paper](https://arxiv.org/abs/2412.13611)] [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
 
 ### CVPR 2024
