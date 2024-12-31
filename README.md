@@ -190,6 +190,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **ACTrack** (ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.07914)] [~~code~~]
 - **AFter** (AFter: Attention-Based Fusion Router for RGBT Tracking) [[paper](https://arxiv.org/abs/2405.02717)] [[code](https://github.com/Alexadlu/AFter)]
 - **AMTTrack** (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) [[paper](https://arxiv.org/abs/2403.05839)] [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
+- **AVTrack-MD** (Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2412.20002)] [[code](https://github.com/wuyou3474/AVTrack)]
 - **BofN** (Predicting the Best of N Visual Trackers) [[paper](https://arxiv.org/abs/2407.15707)] [[code](https://github.com/BasitAlawode/Best_of_N_Trackers)]
 - **CAFormer** (Cross-modulated Attention Transformer for RGBT Tracking) [[paper](https://arxiv.org/abs/2408.02222)] [~~code~~]
 - **CFBT** (Cross Fusion RGB-T Tracking with Bi-Directional Adapter) [[paper](https://arxiv.org/abs/2408.16979)] [~~code~~]
