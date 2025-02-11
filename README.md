@@ -120,7 +120,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **CTVLT** (Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues) [[paper](https://arxiv.org/abs/2412.19648)] [[code](https://github.com/XiaokunFeng/CTVLT)]
 
-### Preprint 2024
+### Preprint 2025
 
 - **APTrack** (Adaptive Perception for Unified Visual Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2502.06583)] [~~code~~]
 - **HDETrackV2** (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) [[paper](https://arxiv.org/abs/2502.05574)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
