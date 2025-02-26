@@ -124,6 +124,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **APTrack** (Adaptive Perception for Unified Visual Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2502.06583)] [~~code~~]
 - **HDETrackV2** (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) [[paper](https://arxiv.org/abs/2502.05574)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+- **UASTrack** (UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking) [[paper](https://arxiv.org/abs/2502.18220)] [[code](https://github.com/wanghe/UASTrack)]
 
 ### CVPR 2024
 
