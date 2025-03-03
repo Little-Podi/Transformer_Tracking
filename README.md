@@ -107,6 +107,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### CVPR 2025
+
+- **MITracker** (MITracker: Multi-View Integration for Visual Object Tracking) [[paper](https://arxiv.org/abs/2502.20111)] [[code](https://github.com/XuM007/MITracker)]
+
 ### AAAI 2025
 
 - **LMTrack** (Less is More: Token Context-Aware Learning for Object Tracking) [[paper](https://arxiv.org/abs/2501.00758)] [[code](https://github.com/XuChenLong/LMTrack)]
