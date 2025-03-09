@@ -113,6 +113,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### AAAI 2025
 
+- **AsymTrack** (Two-Stream Beats One-Stream: Asymmetric Siamese Network for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2503.00516)] [[code](https://github.com/jiawen-zhu/AsymTrack)]
 - **LMTrack** (Less is More: Token Context-Aware Learning for Object Tracking) [[paper](https://arxiv.org/abs/2501.00758)] [[code](https://github.com/XuChenLong/LMTrack)]
 - **MambaLCT** (MambaLCT: Boosting Tracking via Long-Term Context State Space Model) [[paper](https://arxiv.org/abs/2412.13615)] [[code](https://github.com/GXNU-ZhongLab/MambaLCT)]
 - **MCITrack** (Exploring Enhanced Contextual Information for Video-Level Object Tracking) [[paper](https://arxiv.org/abs/2412.11023)] [[code](https://github.com/kangben258/MCITrack)]
