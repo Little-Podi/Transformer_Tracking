@@ -109,7 +109,15 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2025
 
+- **ARGTrack** (Autoregressive Sequential Pretraining for Visual Tracking) [~~paper~~] [~~code~~]
+- **DreamTrack** (DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking) [~~paper~~] [~~code~~]
+- **DUTrack** (Dynamic Updates for Language Adaptation in Visual-Language Tracking) [~~paper~~] [~~code~~]
 - **MITracker** (MITracker: Multi-View Integration for Visual Object Tracking) [[paper](https://arxiv.org/abs/2502.20111)] [[code](https://github.com/XuM007/MITracker)]
+- **ORTrack** (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) [~~paper~~] [~~code~~]
+- **SAM2.1++** (A Distractor-Aware Memory for Visual Object Tracking with SAM2) [[paper](https://arxiv.org/abs/2411.17576)] [[code](https://github.com/jovanavidenovic/DAM4SAM)]
+- **SGLATrack** (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking)  [~~paper~~] [~~code~~]
+- **SPMTrack** (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) [~~paper~~] [~~code~~]
+- **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [~~paper~~] [~~code~~]
 
 ### AAAI 2025
 
@@ -227,7 +235,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **PiVOT** (Improving Visual Object Tracking through Visual Prompting) [[paper](https://arxiv.org/abs/2409.18901)] [[code](https://github.com/chenshihfang/GOT)]
 - **PromptTrack** (Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking) [[paper&review](https://openreview.net/forum?id=S1GTzTFKxb)] [~~code~~]
 - **SAMURAI** (SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory) [[paper](https://arxiv.org/abs/2411.11922)] [[code](https://github.com/yangchris11/samurai)]
-- **SAM2.1++** (A Distractor-Aware Memory for Visual Object Tracking with SAM2) [[paper](https://arxiv.org/abs/2411.17576)] [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 - **SCANet** (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [[paper](https://arxiv.org/abs/2406.07189)] [[code](https://github.com/LiYunfengLYF/SCANet)]
 - **SeqTrackv2** (Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2304.14394)] [[code](https://github.com/chenxin-dlut/SeqTrackv2)]
 - **SPDAN** (BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking) [[paper](https://arxiv.org/abs/2408.12232)] [~~code~~]
@@ -439,6 +446,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 
 ## :bookmark:3D Single Object Tracking (3DSOT)
+
+### CVPR 2025
+
+- **Mono3DVLT** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) [~~paper~~] [~~code~~]
 
 ### ECCV 2024
 
