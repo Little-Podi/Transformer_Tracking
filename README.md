@@ -136,6 +136,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### Preprint 2025
 
 - **APTrack** (Adaptive Perception for Unified Visual Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2502.06583)] [~~code~~]
+- **BFTrans** (Target-Aware Bidirectional Fusion Transformer for Aerial Object Tracking) [[paper](https://arxiv.org/abs/2503.09951)] [~~code~~]
 - **HDETrackV2** (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) [[paper](https://arxiv.org/abs/2502.05574)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 - **SDTrack** (SDTrack: A Baseline for Event-Based Tracking via Spiking Neural Networks) [[paper](https://arxiv.org/abs/2503.08703)] [~~code~~]
 - **TRACT** (Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking) [[paper](https://arxiv.org/abs/2503.08145)] [~~code~~]
