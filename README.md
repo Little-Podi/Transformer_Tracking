@@ -141,6 +141,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SDTrack** (SDTrack: A Baseline for Event-Based Tracking via Spiking Neural Networks) [[paper](https://arxiv.org/abs/2503.08703)] [~~code~~]
 - **TRACT** (Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking) [[paper](https://arxiv.org/abs/2503.08145)] [~~code~~]
 - **UASTrack** (UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking) [[paper](https://arxiv.org/abs/2502.18220)] [[code](https://github.com/wanghe/UASTrack)]
+- **UncTrack** (UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network) [[paper](https://arxiv.org/abs/2503.12888)] [[code](https://github.com/ManOfStory/UncTrack)]
 
 ### CVPR 2024
 
