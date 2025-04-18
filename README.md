@@ -113,7 +113,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **DreamTrack** (DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking) [~~paper~~] [~~code~~]
 - **DUTrack** (Dynamic Updates for Language Adaptation in Visual-Language Tracking) [[paper](https://arxiv.org/abs/2503.06621)] [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
 - **MITracker** (MITracker: Multi-View Integration for Visual Object Tracking) [[paper](https://arxiv.org/abs/2502.20111)] [[code](https://github.com/XuM007/MITracker)]
-- **ORTrack** (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) [~~paper~~] [~~code~~]
+- **ORTrack** (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2504.09228)] [[code](https://github.com/wuyou3474/ORTrack)]
 - **SAM2.1++** (A Distractor-Aware Memory for Visual Object Tracking with SAM2) [[paper](https://arxiv.org/abs/2411.17576)] [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 - **SGLATrack** (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking)  [~~paper~~] [~~code~~]
 - **SPMTrack** (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) [[paper](https://arxiv.org/abs/2503.18338)] [[code](https://github.com/WenRuiCai/SPMTrack)]
