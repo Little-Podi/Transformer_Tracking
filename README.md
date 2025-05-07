@@ -129,6 +129,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SUTrack** (SUTrack: Towards Simple and Unified Single Object Tracking) [[paper](https://arxiv.org/abs/2412.19138)] [[code](https://github.com/chenxin-dlut/SUTrack)]
 - **TemTrack** (Robust Tracking via Mamba-Vased Context-Aware Token Learning) [[paper](https://arxiv.org/abs/2412.13611)] [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
 
+### IJCAR 2025
+
+- **GDSTrack** (Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking) [[paper](https://arxiv.org/abs/2505.03507)] [[code](https://github.com/LiShenglana/GDSTrack)]
+
 ### ICASSP 2025
 
 - **CTVLT** (Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues) [[paper](https://arxiv.org/abs/2412.19648)] [[code](https://github.com/XiaokunFeng/CTVLT)]
