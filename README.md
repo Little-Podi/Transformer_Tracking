@@ -129,9 +129,13 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SUTrack** (SUTrack: Towards Simple and Unified Single Object Tracking) [[paper](https://arxiv.org/abs/2412.19138)] [[code](https://github.com/chenxin-dlut/SUTrack)]
 - **TemTrack** (Robust Tracking via Mamba-Vased Context-Aware Token Learning) [[paper](https://arxiv.org/abs/2412.13611)] [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
 
-### IJCAR 2025
+### IJCAI 2025
 
 - **GDSTrack** (Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking) [[paper](https://arxiv.org/abs/2505.03507)] [[code](https://github.com/LiShenglana/GDSTrack)]
+
+### ICRA 2025
+
+- **CGTrack** (CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking) [[paper](https://arxiv.org/abs/2505.05936)] [[code](https://github.com/Nightwatch-Fox11/CGTrack)]
 
 ### ICASSP 2025
 
