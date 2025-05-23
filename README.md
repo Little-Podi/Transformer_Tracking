@@ -119,6 +119,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SPMTrack** (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) [[paper](https://arxiv.org/abs/2503.18338)] [[code](https://github.com/WenRuiCai/SPMTrack)]
 - **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [~~paper~~] [~~code~~]
 
+### ICML 2025
+
+- **MPT** (Efficient Motion Prompt Learning for Robust Visual Tracking) [[paper](https://arxiv.org/abs/2505.16321)] [[code](https://github.com/zj5559/Motion-Prompt-Tracking)]
+
 ### AAAI 2025
 
 - **AsymTrack** (Two-Stream Beats One-Stream: Asymmetric Siamese Network for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2503.00516)] [[code](https://github.com/jiawen-zhu/AsymTrack)]
@@ -179,6 +183,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **MemVLT** (MemVLT: Vision-Language Tracking with Adaptive Memory-Based Prompts) [[paper&review](https://openreview.net/forum?id=ZK1CZXKgG5)] [[code](https://github.com/XiaokunFeng/MemVLT)]
 - **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper&review](https://openreview.net/forum?id=cLS4fLIA5P)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+### ICML 2024
+
+- **AVTrack** (Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking) [[paper](https://openreview.net/forum?id=eaNLvrP8n1)] [[code](https://github.com/wuyou3474/AVTrack)]
+
 ### AAAI 2024
 
 - **BAT** (Bi-Directional Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2312.10611)] [[code](https://github.com/SparkTempest/BAT)]
@@ -187,10 +195,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **STCFormer** (Sequential Fusion Based Multi-Granularity Consistency for Space-Time Transformer Tracking) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] [~~code~~]
 - **TATrack** (Temporal Adaptive RGBT Tracking with Modality Prompt) [[paper](https://arxiv.org/abs/2401.01244)] [~~code~~]
 - **UVLTrack** (Unifying Visual and Vision-Language Tracking via Contrastive Learning) [[paper](https://arxiv.org/abs/2401.11228)] [[code](https://github.com/OpenSpaceAI/UVLTrack)]
-
-### ICML 2024
-
-- **AVTrack** (Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking) [[paper](https://openreview.net/forum?id=eaNLvrP8n1)] [[code](https://github.com/wuyou3474/AVTrack)]
 
 ### IJCAI 2024
 
