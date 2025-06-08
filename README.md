@@ -109,15 +109,15 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2025
 
-- **ARGTrack** (Autoregressive Sequential Pretraining for Visual Tracking) [~~paper~~] [~~code~~]
-- **DreamTrack** (DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking) [~~paper~~] [~~code~~]
+- **ARGTrack** (Autoregressive Sequential Pretraining for Visual Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Autoregressive_Sequential_Pretraining_for_Visual_Tracking_CVPR_2025_paper.html)] [~~code~~]
+- **DreamTrack** (DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_DreamTrack_Dreaming_the_Future_for_Multimodal_Visual_Object_Tracking_CVPR_2025_paper.html)] [~~code~~]
 - **DUTrack** (Dynamic Updates for Language Adaptation in Visual-Language Tracking) [[paper](https://arxiv.org/abs/2503.06621)] [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
 - **MITracker** (MITracker: Multi-View Integration for Visual Object Tracking) [[paper](https://arxiv.org/abs/2502.20111)] [[code](https://github.com/XuM007/MITracker)]
 - **ORTrack** (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) [[paper](https://arxiv.org/abs/2504.09228)] [[code](https://github.com/wuyou3474/ORTrack)]
 - **SAM2.1++** (A Distractor-Aware Memory for Visual Object Tracking with SAM2) [[paper](https://arxiv.org/abs/2411.17576)] [[code](https://github.com/jovanavidenovic/DAM4SAM)]
-- **SGLATrack** (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking)  [~~paper~~] [~~code~~]
+- **SGLATrack** (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking)  [[paper](https://arxiv.org/abs/2503.06625)] [[code](https://github.com/GXNU-ZhongLab/SGLATrack)]
 - **SPMTrack** (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) [[paper](https://arxiv.org/abs/2503.18338)] [[code](https://github.com/WenRuiCai/SPMTrack)]
-- **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [~~paper~~] [~~code~~]
+- **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [[paper](https://arxiv.org/abs/2503.17699)] [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
 
 ### ICML 2025
 
@@ -471,7 +471,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2025
 
-- **Mono3DVLT** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) [~~paper~~] [~~code~~]
+- **Mono3DVLT** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] [~~code~~]
 
 ### ECCV 2024
 
