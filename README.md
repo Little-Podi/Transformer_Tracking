@@ -119,6 +119,11 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SPMTrack** (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) [[paper](https://arxiv.org/abs/2503.18338)] [[code](https://github.com/WenRuiCai/SPMTrack)]
 - **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [[paper](https://arxiv.org/abs/2503.17699)] [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
 
+### ICCV 2025
+
+- **WYHWYT** (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) [~~paper~~] [~~code~~]
+- **XTrack** (XTrack: Multimodal Training Boosts RGB-X Video Object Trackers) [[paper](https://arxiv.org/abs/2405.17773)] [[code](https://github.com/supertyd/XTrack)]
+
 ### ICML 2025
 
 - **CSTrack** (CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features) [[paper](https://arxiv.org/abs/2505.19434)] [[code](https://github.com/XiaokunFeng/CSTrack)]
@@ -173,11 +178,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SDSTrack** (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [[paper](https://arxiv.org/abs/2403.16002)] [[code](https://github.com/hoqolo/SDSTrack)]
 - **Un-Track** (Single-Model and Any-Modality for Video Object Tracking) [[paper](https://arxiv.org/abs/2311.15851)] [[code](https://github.com/Zongwei97/UnTrack)]
 
-### ECCV 2024
-
-- **Diff-Tracker** (Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers) [[paper](https://arxiv.org/abs/2407.08394)] [~~code~~]
-- **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [[code](https://github.com/LitingLin/LoRAT)]
-
 ### NeurIPS 2024
 
 - **ChatTracker** (ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model) [[paper&review](https://openreview.net/forum?id=HzANl2unCB)] [~~code~~]
@@ -185,6 +185,11 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **DeTrack** (DeTrack: In-model Latent Denoising Learning for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=ZJjuNF0olj)] [~~code~~]
 - **MemVLT** (MemVLT: Vision-Language Tracking with Adaptive Memory-Based Prompts) [[paper&review](https://openreview.net/forum?id=ZK1CZXKgG5)] [[code](https://github.com/XiaokunFeng/MemVLT)]
 - **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [[paper&review](https://openreview.net/forum?id=cLS4fLIA5P)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
+### ECCV 2024
+
+- **Diff-Tracker** (Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers) [[paper](https://arxiv.org/abs/2407.08394)] [~~code~~]
+- **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [[paper](https://arxiv.org/abs/2403.05231)] [[code](https://github.com/LitingLin/LoRAT)]
 
 ### ICML 2024
 
@@ -264,7 +269,6 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SuperSBT** (Correlation-Embedded Transformer Tracking: A Single-Branch Framework) [[paper](https://arxiv.org/abs/2401.12743)] [[code](https://github.com/phiphiphi31/SBT)]
 - **TENet** (TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking) [[paper](https://arxiv.org/abs/2405.05004)] [[code](https://github.com/SSSpc333/TENet)]
 - **TrackMamba** (TrackMamba: Mamba-Transformer Tracking) [[paper&review](https://openreview.net/forum?id=V7QRVEZ0le)] [~~code~~]
-- **XTrack** (Towards a Generalist and Blind RGB-X Tracker) [[paper](https://arxiv.org/abs/2405.17773)] [[code](https://github.com/supertyd/XTrack)]
 
 ### CVPR 2023
 
