@@ -162,7 +162,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **FocusTrack** (FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking) [[paper](https://arxiv.org/abs/2504.13604)] [[code](https://github.com/vero1925/FocusTrack)]
 - **HDETrackV2** (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) [[paper](https://arxiv.org/abs/2502.05574)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 - **MMTrack** (Visual and Memory Dual Adapter for Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2506.23972)] [[code](https://github.com/xuboyue1999/mmtrack)]
-- **R1-Track** (R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning) [[paper](https://arxiv.org/abs/2506.21980)] [~~code~~]
+- **R1-Track** (R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning) [[paper](https://arxiv.org/abs/2506.21980)] [[code](https://github.com/Wangbiao2/R1-Track)]
 - **SDTrack** (SDTrack: A Baseline for Event-Based Tracking via Spiking Neural Networks) [[paper](https://arxiv.org/abs/2503.08703)] [~~code~~]
 - **SFTrack** (Towards Low-Latency Event Stream-Based Visual Object Tracking: A Slow-Fast Approach) [[paper](https://arxiv.org/abs/2505.12903)] [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
 - **TRACT** (Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking) [[paper](https://arxiv.org/abs/2503.08145)] [~~code~~]
