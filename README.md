@@ -123,6 +123,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **CompressTracker** (General Compression Framework for Efficient Transformer Object Tracking) [[paper](https://arxiv.org/abs/2409.17564)] [[code](https://github.com/LingyiHongfd/CompressTracker)]
 - **FlexTrack** (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) [[paper](https://arxiv.org/abs/2507.05899)] [[code](https://github.com/supertyd/FlexTrack)]
+- **UMDATrack** (UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions) [[paper](https://arxiv.org/abs/2507.00648)] [[code](https://github.com/Z-Z188/UMDATrack)]
 - **XTrack** (XTrack: Multimodal Training Boosts RGB-X Video Object Trackers) [[paper](https://arxiv.org/abs/2405.17773)] [[code](https://github.com/supertyd/XTrack)]
 
 ### ICML 2025
@@ -156,6 +157,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### Preprint 2025
 
 - **APTrack** (Adaptive Perception for Unified Visual Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2502.06583)] [~~code~~]
+- **ATSTrack** (ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales) [[paper](https://arxiv.org/abs/2507.00454)] [~~code~~]
 - **BFTrans** (Target-Aware Bidirectional Fusion Transformer for Aerial Object Tracking) [[paper](https://arxiv.org/abs/2503.09951)] [~~code~~]
 - **COST** (COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking) [[paper](https://arxiv.org/abs/2504.01321)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 - **DT-Training** (Progressive Scaling Visual Object Tracking) [[paper](https://arxiv.org/abs/2505.19990)] [~~code~~]
