@@ -122,7 +122,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### ICCV 2025
 
 - **CompressTracker** (General Compression Framework for Efficient Transformer Object Tracking) [[paper](https://arxiv.org/abs/2409.17564)] [[code](https://github.com/LingyiHongfd/CompressTracker)]
-- **WYHWYT** (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) [~~paper~~] [~~code~~]
+- **FlexTrack** (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) [[paper](https://arxiv.org/abs/2507.05899)] [[code](https://github.com/supertyd/FlexTrack)]
 - **XTrack** (XTrack: Multimodal Training Boosts RGB-X Video Object Trackers) [[paper](https://arxiv.org/abs/2405.17773)] [[code](https://github.com/supertyd/XTrack)]
 
 ### ICML 2025
@@ -162,6 +162,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **DyHiT** (Exploiting Lightweight Hierarchical ViT and Dynamic Framework for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2506.20381)] [[code](https://github.com/kangben258/HiT)]
 - **FocusTrack** (FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking) [[paper](https://arxiv.org/abs/2504.13604)] [[code](https://github.com/vero1925/FocusTrack)]
 - **HDETrackV2** (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) [[paper](https://arxiv.org/abs/2502.05574)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+- **HotMoE** (HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking) [[paper](https://ieeexplore.ieee.org/document/10855488)] [[code](https://github.com/supertyd/hotmoe)]
 - **MMTrack** (Visual and Memory Dual Adapter for Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2506.23972)] [[code](https://github.com/xuboyue1999/mmtrack)]
 - **R1-Track** (R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning) [[paper](https://arxiv.org/abs/2506.21980)] [[code](https://github.com/Wangbiao2/R1-Track)]
 - **SDTrack** (SDTrack: A Baseline for Event-Based Tracking via Spiking Neural Networks) [[paper](https://arxiv.org/abs/2503.08703)] [~~code~~]
@@ -355,7 +356,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **AViTMP** (Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking) [[paper](https://arxiv.org/abs/2310.19542)] [~~code~~]
 - **DATr** (Leveraging the Power of Data Augmentation for Transformer-Based Tracking) [[paper](https://arxiv.org/abs/2309.08264)] [~~code~~]
 - **DETRack** (Efficient Training for Visual Tracking with Deformable Transformer) [[paper](https://arxiv.org/abs/2309.02676)] [~~code~~]
-- **HHTrack** (HHTrack: Hyperspectral Object Tracking Using Hybrid Attention) [[paper](https://arxiv.org/abs/2308.07016)] [[code](https://github.com/supertyd/HyperTrack)]
+- **HyperTrack** (HyperTrack: A Unified Framework for Hyperspectral Object Tracking) [[paper](https://arxiv.org/abs/2308.07016)] [[code](https://github.com/supertyd/HyperTrack)]
 - **IPL** (Modality-Missing RGBT Tracking via Invertible Prompt Learning and A High-Quality Data Simulation Method) [[paper](https://arxiv.org/abs/2312.16244)] [~~code~~]
 - **JN** (Towards Efficient Training with Negative Samples in Visual Tracking) [[paper](https://arxiv.org/abs/2309.02903)] [~~code~~]
 - **LiteTrack** (LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2309.09249)] [[code](https://github.com/TsingWei/LiteTrack)]
