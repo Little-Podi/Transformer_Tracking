@@ -16,7 +16,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-- **[SAM 2](https://ai.meta.com/SAM2)** [[paper](https://arxiv.org/abs/2408.00714)] [[code](https://github.com/facebookresearch/segment-anything-2)] [[example1](https://arxiv.org/abs/2410.16329)] [[example2](https://arxiv.org/abs/2409.16902)]
+- **[SAM 2](https://ai.meta.com/SAM2)** [[paper](https://arxiv.org/abs/2408.00714)] [[code](https://github.com/facebookresearch/segment-anything-2)]
 - **[EfficientTAM](https://yformer.github.io/efficient-track-anything)** [[paper](https://arxiv.org/abs/2411.18933)] [[code](https://github.com/yformer/EfficientTAM)]
 
 ### State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:
@@ -32,7 +32,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:
 
-- **(Survey)** Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)], Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
+- **(Survey)** A Deep Dive into Generic Object Tracking: A Survey [[paper](https://arxiv.org/abs/2507.23251)], Transformers in Single Object Tracking: An Experimental Survey [[paper](https://arxiv.org/abs/2302.11867)], Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook [[paper](https://arxiv.org/abs/2112.02838)]
 - **(Talk)** Discriminative Appearance-Based Tracking and Segmentation [[video](https://youtu.be/ILVnBhFq2Ds)], Deep Visual Reasoning with Optimization-Based Network Modules [[video](https://youtu.be/UR2TlFCrYac)]
 - **(Library)** PyTracking: Visual Tracking Library Based on PyTorch [[code](https://github.com/visionml/pytracking)]
 - **(People)** Martin Danelljan@ETH [[web](https://martin-danelljan.github.io)], Bin Yan@DLUT [[web](https://masterbin-iiau.github.io)]
@@ -68,6 +68,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
       - **MixFormer** [[CVPR'22](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2022-1)], **OSTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022-1)], **SimTrack** [[ECCV'22](https://github.com/Little-Podi/Transformer_Tracking#eccv-2022-1)]
     - 4th step :feet: generalized and robust relation modeling.
       - **GRM** [[CVPR'23](https://github.com/Little-Podi/Transformer_Tracking#cvpr-2023-1)], **ROMTrack** [[ICCV'23](https://github.com/Little-Podi/Transformer_Tracking#iccv-2023)].
+    - 5th step :feet: using SAM foundation models.
+      - **SAMURAI**, **SAMITE**
 
   ![](backbone.png)
 
@@ -118,11 +120,14 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SGLATrack** (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking)  [[paper](https://arxiv.org/abs/2503.06625)] [[code](https://github.com/GXNU-ZhongLab/SGLATrack)]
 - **SPMTrack** (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) [[paper](https://arxiv.org/abs/2503.18338)] [[code](https://github.com/WenRuiCai/SPMTrack)]
 - **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [[paper](https://arxiv.org/abs/2503.17699)] [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
+- **VL-SAM2** (Underwater Camouflaged Object Tracking Meets Vision-Language SAM2) [[paper](https://arxiv.org/abs/2409.16902)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
 ### ICCV 2025
 
+- **ATCTrack** (ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking) [[paper](https://arxiv.org/abs/2507.19875)] [[code](https://github.com/XiaokunFeng/ATCTrack)]
 - **CompressTracker** (General Compression Framework for Efficient Transformer Object Tracking) [[paper](https://arxiv.org/abs/2409.17564)] [[code](https://github.com/LingyiHongfd/CompressTracker)]
 - **FlexTrack** (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) [[paper](https://arxiv.org/abs/2507.05899)] [[code](https://github.com/supertyd/FlexTrack)]
+- **TUE** (Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking) [[paper](https://arxiv.org/abs/2507.07483)] [~~code~~]
 - **UMDATrack** (UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions) [[paper](https://arxiv.org/abs/2507.00648)] [[code](https://github.com/Z-Z188/UMDATrack)]
 - **XTrack** (XTrack: Multimodal Training Boosts RGB-X Video Object Trackers) [[paper](https://arxiv.org/abs/2405.17773)] [[code](https://github.com/supertyd/XTrack)]
 
@@ -146,6 +151,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **GDSTrack** (Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking) [[paper](https://arxiv.org/abs/2505.03507)] [[code](https://github.com/LiShenglana/GDSTrack)]
 
+### MM 2025
+
+- RSTrack (Explicit Context Reasoning with Supervision for Visual Tracking) [[paper](https://arxiv.org/abs/2507.16191)] [[code](https://github.com/GXNU-ZhongLab/RSTrack)]
+
 ### ICRA 2025
 
 - **CGTrack** (CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking) [[paper](https://arxiv.org/abs/2505.05936)] [[code](https://github.com/Nightwatch-Fox11/CGTrack)]
@@ -167,10 +176,12 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **HotMoE** (HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking) [[paper](https://ieeexplore.ieee.org/document/10855488)] [[code](https://github.com/supertyd/hotmoe)]
 - **MMTrack** (Visual and Memory Dual Adapter for Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2506.23972)] [[code](https://github.com/xuboyue1999/mmtrack)]
 - **R1-Track** (R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning) [[paper](https://arxiv.org/abs/2506.21980)] [[code](https://github.com/Wangbiao2/R1-Track)]
+- **SAMITE** (SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking) [[paper](https://arxiv.org/abs/2507.21732)] [[code](https://github.com/Sam1224/SAMITE)]
 - **SDTrack** (SDTrack: A Baseline for Event-Based Tracking via Spiking Neural Networks) [[paper](https://arxiv.org/abs/2503.08703)] [~~code~~]
 - **SFTrack** (Towards Low-Latency Event Stream-Based Visual Object Tracking: A Slow-Fast Approach) [[paper](https://arxiv.org/abs/2505.12903)] [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
 - **TRACT** (Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking) [[paper](https://arxiv.org/abs/2503.08145)] [~~code~~]
 - **UASTrack** (UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking) [[paper](https://arxiv.org/abs/2502.18220)] [[code](https://github.com/wanghe/UASTrack)]
+- **UM-ODTrack** (Towards Universal Modal Tracking with Online Dense Temporal Token Learning) [[paper](https://arxiv.org/abs/2507.20177)] [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
 - **UncTrack** (UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network) [[paper](https://arxiv.org/abs/2503.12888)] [[code](https://github.com/ManOfStory/UncTrack)]
 
 ### CVPR 2024
