@@ -153,7 +153,9 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### MM 2025
 
-- RSTrack (Explicit Context Reasoning with Supervision for Visual Tracking) [[paper](https://arxiv.org/abs/2507.16191)] [[code](https://github.com/GXNU-ZhongLab/RSTrack)]
+- **MST** (Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction) [[paper](https://arxiv.org/abs/2508.11531)] [[code](https://github.com/wsumel/MST)]
+- **RSTrack** (Explicit Context Reasoning with Supervision for Visual Tracking) [[paper](https://arxiv.org/abs/2507.16191)] [[code](https://github.com/GXNU-ZhongLab/RSTrack)]
+- **SymTrack** (Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking) [[paper](https://arxiv.org/abs/2508.10655)] [[code](https://github.com/Zhangyong-Tang/UniBench300)]
 
 ### ICRA 2025
 
