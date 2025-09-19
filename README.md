@@ -122,6 +122,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [[paper](https://arxiv.org/abs/2503.17699)] [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
 - **VL-SAM2** (Underwater Camouflaged Object Tracking Meets Vision-Language SAM2) [[paper](https://arxiv.org/abs/2409.16902)] [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+### NeurIPS 2025
+
+- **LoRATv2** (LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers) [~~paper~~] [~~code~~]
+
 ### ICCV 2025
 
 - **ATCTrack** (ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking) [[paper](https://arxiv.org/abs/2507.19875)] [[code](https://github.com/XiaokunFeng/ATCTrack)]
@@ -177,6 +181,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **FocusTrack** (FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking) [[paper](https://arxiv.org/abs/2504.13604)] [[code](https://github.com/vero1925/FocusTrack)]
 - **HDETrackV2** (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) [[paper](https://arxiv.org/abs/2502.05574)] [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 - **HotMoE** (HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking) [[paper](https://ieeexplore.ieee.org/document/10855488)] [[code](https://github.com/supertyd/hotmoe)]
+- **ISTASTrack** (ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking) [[paper](https://arxiv.org/abs/2509.09977)] [[code](https://github.com/lsying009/ISTASTrack)]
 - **MMTrack** (Visual and Memory Dual Adapter for Multi-Modal Object Tracking) [[paper](https://arxiv.org/abs/2506.23972)] [[code](https://github.com/xuboyue1999/mmtrack)]
 - **ReasoningTrack** (ReasoningTrack: Chain-of-Thought Reasoning for Long-term Vision-Language Tracking) [[paper](https://arxiv.org/abs/2508.05221)] [[code](https://github.com/Event-AHU/Open_VLTrack)]
 - **R1-Track** (R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning) [[paper](https://arxiv.org/abs/2506.21980)] [[code](https://github.com/Wangbiao2/R1-Track)]
@@ -498,9 +503,13 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **Mono3DVLT** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] [~~code~~]
 
+### Preprint 2025
+
+- **TrajTrack** (Beyond Frame-Wise Tracking: A Trajectory-Based Paradigm for Efficient Point Cloud Tracking) [[paper](https://arxiv.org/abs/2509.11453)] [~~code~~]
+
 ### ECCV 2024
 
-- **HVTrack** (3D Single-object Tracking in Point Clouds with High Temporal Variation) [[paper](https://arxiv.org/abs/2408.02049)] [~~code~~]
+- **HVTrack** (3D Single-Object Tracking in Point Clouds with High Temporal Variation) [[paper](https://arxiv.org/abs/2408.02049)] [~~code~~]
 
 ### ICLR 2024
 
