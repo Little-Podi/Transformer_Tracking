@@ -192,6 +192,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **UASTrack** (UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking) [[paper](https://arxiv.org/abs/2502.18220)] [[code](https://github.com/wanghe/UASTrack)]
 - **UM-ODTrack** (Towards Universal Modal Tracking with Online Dense Temporal Token Learning) [[paper](https://arxiv.org/abs/2507.20177)] [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
 - **UncTrack** (UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network) [[paper](https://arxiv.org/abs/2503.12888)] [[code](https://github.com/ManOfStory/UncTrack)]
+- **VFPTrack** (Robust RGB-T Tracking via Learnable Visual Fourier Prompt Fine-Tuning and Modality Fusion Prompt Generation) [[paper](https://arxiv.org/abs/2509.19733)] [~~code~~]
 
 ### CVPR 2024
 
