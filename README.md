@@ -77,6 +77,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Unified Tracking (UT)
 
+### Preprint 2025
+
+- **SAM 2++** (SAM 2++: Tracking Anything at Any Granularity) [[paper](https://arxiv.org/abs/2510.18822)] [[code](https://github.com/MCG-NJU/SAM2-Plus)]
+
 ### CVPR 2024
 
 - **GLEE** (General Object Foundation Model for Images and Videos at Scale) [[paper](https://arxiv.org/abs/2312.09158)] [[code](https://github.com/FoundationVision/GLEE)]
@@ -124,7 +128,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### NeurIPS 2025
 
-- **LoRATv2** (LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers) [~~paper~~] [~~code~~]
+- **DSATrack** (Dynamic Semantic-Aware Correlation Modeling for UAV Tracking) [[paper&review](https://openreview.net/forum?id=7lLnWh0otf)] [~~code~~]
+- **LoRATv2** (LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers) [[paper&review](https://openreview.net/forum?id=q06YjUj0FB)] [~~code~~]
 
 ### ICCV 2025
 
@@ -192,6 +197,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **UASTrack** (UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking) [[paper](https://arxiv.org/abs/2502.18220)] [[code](https://github.com/wanghe/UASTrack)]
 - **UM-ODTrack** (Towards Universal Modal Tracking with Online Dense Temporal Token Learning) [[paper](https://arxiv.org/abs/2507.20177)] [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
 - **UncTrack** (UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network) [[paper](https://arxiv.org/abs/2503.12888)] [[code](https://github.com/ManOfStory/UncTrack)]
+- **UniSOT** (UniSOT: A Unified Framework for Multi-Modality Single Object Tracking) [[paper](https://arxiv.org/abs/2511.01427)] [~~code~~]
 - **VFPTrack** (Robust RGB-T Tracking via Learnable Visual Fourier Prompt Fine-Tuning and Modality Fusion Prompt Generation) [[paper](https://arxiv.org/abs/2509.19733)] [~~code~~]
 
 ### CVPR 2024
