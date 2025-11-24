@@ -512,6 +512,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2025
 
+- **SOTFormer** (SOTFormer: A Minimal Transformer for Unified Object Tracking and Trajectory Prediction) [[paper](https://arxiv.org/abs/2511.11824)] [[code](https://github.com/zhongpingDong12/SOTFormer)]
 - **TrajTrack** (Beyond Frame-Wise Tracking: A Trajectory-Based Paradigm for Efficient Point Cloud Tracking) [[paper](https://arxiv.org/abs/2509.11453)] [~~code~~]
 
 ### ECCV 2024
