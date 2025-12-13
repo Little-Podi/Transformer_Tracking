@@ -77,6 +77,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Unified Tracking (UT)
 
+### AAAI 2026
+
+- **SATA** (Tracking and Segmenting Anything in Any Modality) [[paper](https://arxiv.org/abs/2511.19475)] [~~code~~]
+
 ### Preprint 2025
 
 - **SAM 2++** (SAM 2++: Tracking Anything at Any Granularity) [[paper](https://arxiv.org/abs/2510.18822)] [[code](https://github.com/MCG-NJU/SAM2-Plus)]
@@ -112,6 +116,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 
 ## :bookmark:Single Object Tracking (SOT)
+
+### AAAI 2026
+
+- **GOLA** (Group Orthogonal Low-Rank Adaptation for RGB-T Tracking) [[paper](https://arxiv.org/abs/2512.05359)] [[code](https://github.com/MelanTech/GOLA)]
 
 ### CVPR 2025
 
@@ -196,6 +204,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **SFTrack** (Towards Low-Latency Event Stream-Based Visual Object Tracking: A Slow-Fast Approach) [[paper](https://arxiv.org/abs/2505.12903)] [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
 - **TRACT** (Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking) [[paper](https://arxiv.org/abs/2503.08145)] [~~code~~]
 - **UASTrack** (UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking) [[paper](https://arxiv.org/abs/2502.18220)] [[code](https://github.com/wanghe/UASTrack)]
+- **UAUTrack** (UAUTrack: Towards Unified Multimodal Anti-UAV Visual Tracking) [[paper](https://arxiv.org/abs/2512.02668)] [~~code~~]
 - **UM-ODTrack** (Towards Universal Modal Tracking with Online Dense Temporal Token Learning) [[paper](https://arxiv.org/abs/2507.20177)] [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
 - **UncTrack** (UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network) [[paper](https://arxiv.org/abs/2503.12888)] [[code](https://github.com/ManOfStory/UncTrack)]
 - **UniSOT** (UniSOT: A Unified Framework for Multi-Modality Single Object Tracking) [[paper](https://arxiv.org/abs/2511.01427)] [~~code~~]
