@@ -117,9 +117,19 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### ICLR 2026
+
+- **FARTrack** (FARTrack: Fast Autoregressive Visual Tracking with High Performance) [[paper&review](https://openreview.net/forum?id=lq7Zfr8kAS)] [[code](https://github.com/wangguijiepedeval/FARTrack)]
+- **GOT-Edit** (GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing) [[paper&review](https://openreview.net/forum?id=aVa7etWnwF)] [[code](https://github.com/chenshihfang/GOT)]
+
 ### AAAI 2026
 
 - **GOLA** (Group Orthogonal Low-Rank Adaptation for RGB-T Tracking) [[paper](https://arxiv.org/abs/2512.05359)] [[code](https://github.com/MelanTech/GOLA)]
+
+### Preprint 2026
+
+- **GLAD** (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) [[paper](https://arxiv.org/abs/2602.00570)] [[code](https://github.com/Confetti-lxy/GLAD)]
+- **UBATrack** (UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2601.14799)] [~~code~~]
 
 ### CVPR 2025
 
