@@ -117,6 +117,13 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ## :bookmark:Single Object Tracking (SOT)
 
+### CVPR 2026
+
+- **RAGTrack** (RAGTrack: Language-Aware RGBT Tracking with Retrieval-Augmented Generation) [[paper](https://arxiv.org/abs/2603.03617)] [[code](https://github.com/IdolLab/RAGTrack)]
+- **SpikeTrack** (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2602.23963)] [[code](https://github.com/faicaiwawa/SpikeTrack)]
+- **UETrack** (UETrack: A Unified and Efficient Framework for Single Object Tracking) [[paper](https://arxiv.org/abs/2603.01412)] [[code](https://github.com/kangben258/UETrack)]
+- **UTPTrack** (UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking) [[paper](https://arxiv.org/abs/2602.23734)] [[code](https://github.com/EIT-NLP/UTPTrack)]
+
 ### ICLR 2026
 
 - **FARTrack** (FARTrack: Fast Autoregressive Visual Tracking with High Performance) [[paper&review](https://openreview.net/forum?id=lq7Zfr8kAS)] [[code](https://github.com/wangguijiepedeval/FARTrack)]
@@ -529,6 +536,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### CVPR 2025
 
 - **Mono3DVLT** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] [~~code~~]
+
+### MM 2025
+
+- **FocusTrack** (FocusTrack: One-Stage Focus-and-Suppress Framework for 3D Point Cloud Object Tracking) [[paper](https://arxiv.org/abs/2602.24133)] [~~code~~]
 
 ### Preprint 2025
 
