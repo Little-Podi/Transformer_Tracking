@@ -133,10 +133,17 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **GOLA** (Group Orthogonal Low-Rank Adaptation for RGB-T Tracking) [[paper](https://arxiv.org/abs/2512.05359)] [[code](https://github.com/MelanTech/GOLA)]
 
+### ICRA 2026
+
+- **DPTracker** (Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking) [[paper](https://arxiv.org/abs/2603.19628)] [[code](https://github.com/yiheng-wang-duke/DPTracker)]
+
 ### Preprint 2026
 
 - **GLAD** (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) [[paper](https://arxiv.org/abs/2602.00570)] [[code](https://github.com/Confetti-lxy/GLAD)]
+- **PATrack** (Learning Progressive Adaptation for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2603.21100)] [[code](https://github.com/ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking)]
+- **SDMoE** (Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2603.13719)] [~~code~~]
 - **UBATrack** (UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2601.14799)] [~~code~~]
+- **Uni-MDTrack** (Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality) [[paper](https://arxiv.org/abs/2603.14452)] [~~code~~]
 
 ### CVPR 2025
 
