@@ -119,7 +119,9 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2026
 
+- **DTPTrack** (Drift-Resilient Temporal Priors for Visual Tracking) [[paper](https://arxiv.org/abs/2604.02654)] [[code](https://github.com/NorahGreen/DTPTrack)]
 - **RAGTrack** (RAGTrack: Language-Aware RGBT Tracking with Retrieval-Augmented Generation) [[paper](https://arxiv.org/abs/2603.03617)] [[code](https://github.com/IdolLab/RAGTrack)]
+- **SEATrack** (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) [[paper](https://arxiv.org/abs/2604.12502)] [[code](https://github.com/AutoLab-SAI-SJTU/SEATrack)]
 - **SpikeTrack** (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2602.23963)] [[code](https://github.com/faicaiwawa/SpikeTrack)]
 - **UETrack** (UETrack: A Unified and Efficient Framework for Single Object Tracking) [[paper](https://arxiv.org/abs/2603.01412)] [[code](https://github.com/kangben258/UETrack)]
 - **UTPTrack** (UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking) [[paper](https://arxiv.org/abs/2602.23734)] [[code](https://github.com/EIT-NLP/UTPTrack)]
@@ -128,6 +130,11 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **FARTrack** (FARTrack: Fast Autoregressive Visual Tracking with High Performance) [[paper&review](https://openreview.net/forum?id=lq7Zfr8kAS)] [[code](https://github.com/wangguijiepedeval/FARTrack)]
 - **GOT-Edit** (GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing) [[paper&review](https://openreview.net/forum?id=aVa7etWnwF)] [[code](https://github.com/chenshihfang/GOT)]
+
+### ICML 2026
+
+- **OneTrackerV2** (nified Multimodal Visual Tracking with Dual Mixture-of-Experts) [[paper](https://arxiv.org/abs/2605.03716)] [~~code~~]
+- **RELO** (RELO: Reinforcement Learning to Localize for Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.07379)] [[code](https://github.com/Multimedia-Analytics-Laboratory/RELO)]
 
 ### AAAI 2026
 
@@ -141,9 +148,12 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **GLAD** (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) [[paper](https://arxiv.org/abs/2602.00570)] [[code](https://github.com/Confetti-lxy/GLAD)]
 - **PATrack** (Learning Progressive Adaptation for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2603.21100)] [[code](https://github.com/ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking)]
+- **PSMTrack** (Dynamic Pondering Sparsity-Aware Mixture-of-Experts Transformer for Event Stream-Based Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.06112)] [[code](https://github.com/Event-AHU/OpenEvTracking)]
 - **SDMoE** (Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2603.13719)] [~~code~~]
+- **UAV-Track VLA** (UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models) [[paper](https://arxiv.org/abs/2604.02241)] [[code](https://github.com/Hub-Tian/UAVTrack_VLA)]
 - **UBATrack** (UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2601.14799)] [~~code~~]
 - **Uni-MDTrack** (Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality) [[paper](https://arxiv.org/abs/2603.14452)] [~~code~~]
+- **VL-UniTrack** (VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking) [[paper](https://arxiv.org/abs/2605.04574)] [[code](https://github.com/xuboyue1999/VL-UniTrack)]
 
 ### CVPR 2025
 
@@ -539,6 +549,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 
 ## :bookmark:3D Single Object Tracking (3DSOT)
+
+### CVPR 2026
+
+- **ChronoTrack** (Temporally Consistent Long-Term Memory for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2604.13789)] [[code](https://github.com/ujaejoon/ChronoTrack)]
 
 ### CVPR 2025
 
