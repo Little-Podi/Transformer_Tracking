@@ -121,6 +121,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 - **DTPTrack** (Drift-Resilient Temporal Priors for Visual Tracking) [[paper](https://arxiv.org/abs/2604.02654)] [[code](https://github.com/NorahGreen/DTPTrack)]
 - **RAGTrack** (RAGTrack: Language-Aware RGBT Tracking with Retrieval-Augmented Generation) [[paper](https://arxiv.org/abs/2603.03617)] [[code](https://github.com/IdolLab/RAGTrack)]
+- **SCDT** (Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking) [[paper](https://arxiv.org/abs/2607.24701)] [[code](https://github.com/Multi-Modality-Tracking/SCDT-CVPR2026)]
 - **SEATrack** (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) [[paper](https://arxiv.org/abs/2604.12502)] [[code](https://github.com/AutoLab-SAI-SJTU/SEATrack)]
 - **SpikeTrack** (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [[paper](https://arxiv.org/abs/2602.23963)] [[code](https://github.com/faicaiwawa/SpikeTrack)]
 - **UETrack** (UETrack: A Unified and Efficient Framework for Single Object Tracking) [[paper](https://arxiv.org/abs/2603.01412)] [[code](https://github.com/kangben258/UETrack)]
@@ -137,9 +138,17 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **OneTrackerV2** (Unified Multimodal Visual Tracking with Dual Mixture-of-Experts) [[paper&review](https://openreview.net/forum?id=Eeo0uBd5mt)] [~~code~~]
 - **RELO** (RELO: Reinforcement Learning to Localize for Visual Object Tracking) [[paper&review](https://openreview.net/forum?id=IKZcb2jZqM)] [[code](https://github.com/Multimedia-Analytics-Laboratory/RELO)]
 
+### ECCV 2026
+
+- **MaST** (MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking) [[paper](https://arxiv.org/abs/2608.24365)] [[code](https://github.com/TsingWei/MaST)]
+
 ### AAAI 2026
 
 - **GOLA** (Group Orthogonal Low-Rank Adaptation for RGB-T Tracking) [[paper](https://arxiv.org/abs/2512.05359)] [[code](https://github.com/MelanTech/GOLA)]
+
+### MM 2026
+
+- **AnyTrack** (AnyTrack: Unifying Visual Object Tracking with Any Modalities) [[paper](https://arxiv.org/abs/2608.06773)] [[code](https://github.com/IdolLab/AnyTrack)]
 
 ### ICRA 2026
 
@@ -151,6 +160,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **Diff-Tracking** (Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.26933)] [~~code~~]
 - **E2EMPT** (End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking) [[paper](https://arxiv.org/abs/2605.20569)] [[code](https://github.com/han030927/E2EMPT)]
 - **GLAD** (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) [[paper](https://arxiv.org/abs/2602.00570)] [[code](https://github.com/Confetti-lxy/GLAD)]
+- **LVTrack** (Efficient Language-to-Vision Feature Injection for Referring Single-Object Tracking) [[paper](https://arxiv.org/abs/2608.29126)] [~~code~~]
 - **PATrack** (Learning Progressive Adaptation for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2603.21100)] [[code](https://github.com/ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking)]
 - **PSMTrack** (Dynamic Pondering Sparsity-Aware Mixture-of-Experts Transformer for Event Stream-Based Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.06112)] [[code](https://github.com/Event-AHU/OpenEvTracking)]
 - **SAMOSA** (Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.22538)] [[code](https://github.com/DurYi/SAMOSA)]
