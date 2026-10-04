@@ -159,12 +159,16 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **APRTrack** (Active Adversarial Perturbation-Driven Associative Memory Retrieval for RGB-Event Visual Object Tracking) [[paper](https://arxiv.org/abs/2606.26455)] [[code](https://github.com/Event-AHU/OpenEvTracking)]
 - **Diff-Tracking** (Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.26933)] [~~code~~]
 - **E2EMPT** (End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking) [[paper](https://arxiv.org/abs/2605.20569)] [[code](https://github.com/han030927/E2EMPT)]
+- **ESMTrack** (End-to-End Self-Supervised RGB-T Tracking without Modality Misleading) [[paper](https://arxiv.org/abs/2609.37162)] [[code](https://github.com/LiShenglana/ESMTrack)]
 - **GLAD** (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) [[paper](https://arxiv.org/abs/2602.00570)] [[code](https://github.com/Confetti-lxy/GLAD)]
+- **LoopTrack** (LoopTrack: A Simple Baseline for Parameter-Efficient Transformer Tracking) [[paper](https://arxiv.org/abs/2609.33306)] [~~code~~]
 - **LVTrack** (Efficient Language-to-Vision Feature Injection for Referring Single-Object Tracking) [[paper](https://arxiv.org/abs/2608.29126)] [~~code~~]
 - **PATrack** (Learning Progressive Adaptation for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2603.21100)] [[code](https://github.com/ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking)]
 - **PSMTrack** (Dynamic Pondering Sparsity-Aware Mixture-of-Experts Transformer for Event Stream-Based Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.06112)] [[code](https://github.com/Event-AHU/OpenEvTracking)]
 - **SAMOSA** (Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking) [[paper](https://arxiv.org/abs/2605.22538)] [[code](https://github.com/DurYi/SAMOSA)]
+- **SBMVTrack** (SBMVTrack: Spike-Budgeted Multi-View Learning for Power-Efficient UAV Tracking) [[paper](https://arxiv.org/abs/2609.25503)] [~~code~~]
 - **SDMoE** (Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2603.13719)] [~~code~~]
+- **TLCTrack** (Continuous Token-Level Spatio-Temporal Context Modeling for Visual Object Tracking) [[paper](https://arxiv.org/abs/2609.07070)] [[code](https://github.com/xiading123/TLCTrack)]
 - **UAV-Track VLA** (UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models) [[paper](https://arxiv.org/abs/2604.02241)] [[code](https://github.com/Hub-Tian/UAVTrack_VLA)]
 - **UBATrack** (UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2601.14799)] [~~code~~]
 - **Uni-MDTrack** (Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality) [[paper](https://arxiv.org/abs/2603.14452)] [~~code~~]
@@ -568,6 +572,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### CVPR 2026
 
 - **ChronoTrack** (Temporally Consistent Long-Term Memory for 3D Single Object Tracking) [[paper](https://arxiv.org/abs/2604.13789)] [[code](https://github.com/ujaejoon/ChronoTrack)]
+
+### Preprint 2026
+
+- **TFTrack** (TFTrack: A Template-Free Framework for Efficient 3D Point Cloud Tracking) [[paper](https://arxiv.org/abs/2609.07738)] [[code](https://github.com/tftrack-anonymous/TFTrack)]
 
 ### CVPR 2025
 
