@@ -172,6 +172,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 - **UAV-Track VLA** (UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models) [[paper](https://arxiv.org/abs/2604.02241)] [[code](https://github.com/Hub-Tian/UAVTrack_VLA)]
 - **UBATrack** (UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking) [[paper](https://arxiv.org/abs/2601.14799)] [~~code~~]
 - **Uni-MDTrack** (Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality) [[paper](https://arxiv.org/abs/2603.14452)] [~~code~~]
+- **UniMergeTrack** (UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking) [[paper](https://arxiv.org/abs/2610.13053)] [[code](https://github.com/Event-AHU/OpenEvTracking/tree/main/UniMergeTrack)]
 - **VL-UniTrack** (VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking) [[paper](https://arxiv.org/abs/2605.04574)] [[code](https://github.com/xuboyue1999/VL-UniTrack)]
 
 ### CVPR 2025
